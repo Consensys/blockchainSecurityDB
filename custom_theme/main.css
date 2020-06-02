@@ -1,17 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.header {
+  font-size: 48px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.table-container {
+  width: 80vw;
+  margin: 0 auto;
+}
+
 body table {
   border: 2px solid grey;
   width: 100%;
   border-collapse: collapse;
+  table-layout: fixed;
 }
 
 body tbody {
   vertical-align: top;
 }
 
+body td {
+  word-wrap: break-word;
+}
+
 body td, th {
   border: 2px solid grey;
   padding: 8px;
-  width: 20%;
 }
 
 body td ul {
