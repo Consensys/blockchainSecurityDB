@@ -165,8 +165,7 @@
         <div class="container">
             <div class="row">
                 {%- block content %}
-                    <!-- <div class="col-md-3">{% include "toc.html" %}</div> -->
-                    <div class="col-md-9" role="main">{% include "content.html" %}</div>
+                    <div role="main">{% include "content.html" %}</div>
                 {%- endblock %}
             </div>
         </div>
@@ -182,10 +181,6 @@
         </footer>
 
       {%- block scripts %}
-        <script>
-            var base_url = {{ base_url | tojson }},
-                shortcuts = {{ config.theme.shortcuts | tojson }};
-        </script>
         <script src="{{ 'js/base.js'|url }}" defer></script>
         {%- for path in config['extra_javascript'] %}
         <script src="{{ path|url }}" defer></script>

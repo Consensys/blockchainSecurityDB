@@ -1,4 +1,8 @@
-site_name: My Docs
+site_name: Audit DB
+theme:
+    name: null
+    custom_dir: 'theme/'
+    nav_style: light
 plugins:
     - search
     
