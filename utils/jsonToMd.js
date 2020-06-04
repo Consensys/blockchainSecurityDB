@@ -118,7 +118,16 @@ function convertJsonToMd(indexes) {
         ${audits.repos[i] ? `[Repo](${audits.repos[i]})` : ''}
       `
     } else if(audits.repos[i]) {
-      auditMdArr[i-1] = auditMdArr[i-1].concat(
+      let lastIndex;
+      let j = i-1;
+      while(true) {
+        if(auditMdArr[j] !== undefined) {
+          lastIndex = j;
+          break;
+        }
+        j--;
+      }
+      auditMdArr[lastIndex] = auditMdArr[lastIndex].concat(
       `<br>
       ${audits.repos[i] ? `[Repo](${audits.repos[i]})` : ''}
       `)
@@ -157,4 +166,4 @@ function convertJsonToMd(indexes) {
   console.log(fullMd);
 }
 
-convertJsonToMd([30]);
+convertJsonToMd([86,87,88,89,90]);
