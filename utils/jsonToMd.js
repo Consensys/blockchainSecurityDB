@@ -136,7 +136,7 @@ function convertJsonToMd(indexes) {
   const fullMd = `
     # ${title}
 
-    [${projectURL}](${projectURL})<br>
+    ${projectURL ? `[${projectURL}](${projectURL})<br>` : ''}
     ${description}
 
     ${auditMd}
@@ -157,4 +157,4 @@ function convertJsonToMd(indexes) {
   console.log(fullMd);
 }
 
-convertJsonToMd([20, 21, 22]);
+convertJsonToMd([30]);
