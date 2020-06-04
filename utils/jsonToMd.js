@@ -84,8 +84,8 @@ function convertJsonToMd(indexes) {
     titleArr[i] ? title = titleArr[i] : null;
     projectURLArr[i] ? projectURL = projectURLArr[i] : null;
     descriptionArr[i] ? description = descriptionArr[i] : null;
-    auditTitlesArr[i] ? audits.auditTitles.push(auditTitlesArr[i]) : null;
-    auditURLsArr[i] ? audits.auditURLs.push(auditURLsArr[i]) : null;
+    auditTitlesArr[i] ? audits.auditTitles.push(auditTitlesArr[i]) : audits.auditTitles.push(false);
+    auditURLsArr[i] ? audits.auditURLs.push(auditURLsArr[i]) : audits.auditURLs.push(false);
     // Format dates
     if(auditDatesArr[i]) {
       const date = auditDatesArr[i];
@@ -93,11 +93,13 @@ function convertJsonToMd(indexes) {
       const year = `20${date.split('/')[1]}`;
       const dateString = `${month}, ${year}`;
       audits.auditDates.push(dateString);
+    } else {
+      audits.auditDates.push(false)
     }
-    auditorsArr[i] ? audits.auditors.push(auditorsArr[i]) : null;
-    effortsArr[i] ? audits.efforts.push(effortsArr[i]) : null;
-    reposArr[i] ? audits.repos.push(reposArr[i]) : null;
-    commitHashesArr[i] ? audits.commitHashes.push(commitHashesArr[i]) : null;
+    auditorsArr[i] ? audits.auditors.push(auditorsArr[i]) : audits.auditors.push(false);
+    effortsArr[i] ? audits.efforts.push(effortsArr[i]) : audits.efforts.push(false);
+    reposArr[i] ? audits.repos.push(reposArr[i]) : audits.repos.push(false);
+    commitHashesArr[i] ? audits.commitHashes.push(commitHashesArr[i]) : audits.commitHashes.push(false);
     bountyURLArr[i] ? bountyURL = bountyURLArr[i] : null;
     bountyMaxArr[i] ? bountyMax = bountyMaxArr[i] : null;
     securityContactArr[i] ? securityContact = securityContactArr[i] : null;
@@ -105,7 +107,7 @@ function convertJsonToMd(indexes) {
 
   let auditMdArr = [];
 
-  for(i = 0; i < audits.auditTitles.length; i++) {
+  for(i = 0; i < indexes.length; i++) {
     if(audits.auditTitles[i]) {
       auditMdArr[i] = 
       `#### [${audits.auditTitles[i]}](${audits.auditURLs[i]})
@@ -115,6 +117,11 @@ function convertJsonToMd(indexes) {
         Effort: ${audits.efforts[i]}<br>
         ${audits.repos[i] ? `[Repo](${audits.repos[i]})` : ''}
       `
+    } else if(audits.repos[i]) {
+      auditMdArr[i-1] = auditMdArr[i-1].concat(
+      `<br>
+      ${audits.repos[i] ? `[Repo](${audits.repos[i]})` : ''}
+      `)
     }
   }
 
@@ -150,4 +157,4 @@ function convertJsonToMd(indexes) {
   console.log(fullMd);
 }
 
-convertJsonToMd([4, 5, 6, 7, 8, 9, 10]);
+convertJsonToMd([14,15,16,17,18]);
