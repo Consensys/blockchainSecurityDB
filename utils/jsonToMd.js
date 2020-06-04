@@ -154,7 +154,7 @@ function convertJsonToMd(indexes) {
     `## Bounty
     
     [${bountyURL}](${bountyURL})<br>
-    Max payout: ${bountyMax}
+    ${bountyMax ? `Max payout: ${bountyMax}` : ''}
     ` : ''}
     
     ${securityContact ? 
@@ -166,4 +166,4 @@ function convertJsonToMd(indexes) {
   console.log(fullMd);
 }
 
-convertJsonToMd([86,87,88,89,90]);
+convertJsonToMd([]);
