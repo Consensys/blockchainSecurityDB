@@ -114,8 +114,7 @@ function convertJsonToMd(indexes) {
       `#### [${audits.auditTitles[i]}](${audits.auditURLs[i]})
 
         ${audits.auditDates[i]}<br>
-        Audited by: ${audits.auditors[i]}<br>
-        ${audits.efforts[i] ? `Effort: ${audits.efforts[i]}<br>` : ''}
+        Audited by: ${audits.auditors[i]}<br>${audits.efforts[i] ? `Effort: ${audits.efforts[i]}<br>` : ''}
         ${audits.repos[i] ? `[Repo](${audits.repos[i]})` : ''}
       `
     } else if(audits.repos[i]) {
