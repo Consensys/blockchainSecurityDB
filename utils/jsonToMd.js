@@ -107,6 +107,7 @@ function convertJsonToMd(indexes) {
 
   let auditMdArr = [];
 
+  // Loop through indexes
   for(i = 0; i < indexes.length; i++) {
     if(audits.auditTitles[i]) {
       auditMdArr[i] = 
@@ -129,7 +130,7 @@ function convertJsonToMd(indexes) {
     ## Audits
 
     ${Array(auditMdArr.length).join(0).split(0).map((item, i) => `
-      ${auditMdArr[i]}
+      ${auditMdArr[i] !== undefined ? auditMdArr[i] : ''}
     `).join('')}
   `
 
@@ -157,4 +158,4 @@ function convertJsonToMd(indexes) {
   console.log(fullMd);
 }
 
-convertJsonToMd([14,15,16,17,18]);
+convertJsonToMd([19]);
