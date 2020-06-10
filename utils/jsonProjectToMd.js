@@ -82,6 +82,12 @@ ${jsonFile.bounty ?
 
 [${jsonFile.bounty}](${jsonFile.bounty})<br>
 ${jsonFile.bounty_max ? `Max payout: ${jsonFile.bounty_max}` : ''}
+` : ''}
+
+${jsonFile.security_contact ? 
+`## Additional Info
+
+Security Contact: ${jsonFile.security_contact}
 ` : ''}`
 
   const fileName = file.split('.')[0];
