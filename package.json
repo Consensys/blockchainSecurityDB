@@ -1,0 +1,19 @@
+{
+  "name": "audit-db",
+  "version": "1.0.0",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "parse-projects": "node ./utils/jsonProjectToMd.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KadenZipfel/audit-db.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KadenZipfel/audit-db/issues"
+  }
+}
