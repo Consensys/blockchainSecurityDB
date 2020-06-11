@@ -1,1 +1,18 @@
-{"audits":[{"repos":[{"url":"https://github.com/uport-project/uport-proxy"}],"title":"Uport Audit","date":"04/16","auditor":"ConsenSys Diligence","url":"https://github.com/ConsenSys/uport-audit"}],"project":"uPort","project_url":"https://www.uport.me/","description":"Trusted ecosystems that let you, your partners and customers share data in a simple, secure, privacy-preserving* way."}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/uport-project/uport-proxy"
+        }
+      ],
+      "title": "Uport Audit",
+      "date": "04/16",
+      "auditor": "ConsenSys Diligence",
+      "url": "https://github.com/ConsenSys/uport-audit"
+    }
+  ],
+  "project": "uPort",
+  "project_url": "https://www.uport.me/",
+  "description": "Trusted ecosystems that let you, your partners and customers share data in a simple, secure, privacy-preserving* way."
+}

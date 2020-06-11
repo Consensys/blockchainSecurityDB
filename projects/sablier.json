@@ -1,1 +1,20 @@
-{"audits":[{"repos":[{"url":"https://github.com/sablierhq/sablier"}],"title":"Sablier Audit Report","date":"10/19","auditor":"Quantstamp","url":"https://certificate.quantstamp.com/full/sablier"}],"project":"Sablier","project_url":"https://sablier.finance/","description":"The protocol for real-time finance","effort":"4 person-weeks","security_contact":"hello@sablier.finance"}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/sablierhq/sablier"
+        }
+      ],
+      "title": "Sablier Audit Report",
+      "date": "10/19",
+      "auditor": "Quantstamp",
+      "url": "https://certificate.quantstamp.com/full/sablier"
+    }
+  ],
+  "project": "Sablier",
+  "project_url": "https://sablier.finance/",
+  "description": "The protocol for real-time finance",
+  "effort": "4 person-weeks",
+  "security_contact": "hello@sablier.finance"
+}

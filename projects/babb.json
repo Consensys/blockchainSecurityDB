@@ -1,1 +1,18 @@
-{"audits":[{"repos":[{"url":"https://github.com/babbplatform/baxtoken/tree/3ba88dd8fb3a97e6668cf2029b38610283e28c17"}],"title":"Bax Token Audit","date":"02/18","auditor":"OpenZeppelin","url":"https://blog.openzeppelin.com/bax-token-audit-85fe7b186c89/"}],"project":"BABB","project_url":"https://getbabb.com/","description":"Empowers users to do everything from storing and managing their assets to fundraising and donating to causes all over the world."}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/babbplatform/baxtoken/tree/3ba88dd8fb3a97e6668cf2029b38610283e28c17"
+        }
+      ],
+      "title": "Bax Token Audit",
+      "date": "02/18",
+      "auditor": "OpenZeppelin",
+      "url": "https://blog.openzeppelin.com/bax-token-audit-85fe7b186c89/"
+    }
+  ],
+  "project": "BABB",
+  "project_url": "https://getbabb.com/",
+  "description": "Empowers users to do everything from storing and managing their assets to fundraising and donating to causes all over the world."
+}

@@ -1,1 +1,18 @@
-{"audits":[{"repos":[{"url":"https://github.com/OpenSTFoundation/SimpleTokenSale/tree/66025fede245a382ef6ed9f32dd0ecd1da34301f/contracts"}],"title":"Simple Token Sale Audit","date":"11/17","auditor":"OpenZeppelin","url":"https://blog.openzeppelin.com/simple-token-sale-audit-30e5f2365463/"}],"project":"OST Platform","project_url":"https://ost.com/","description":"Enables developers to seamlessly embed Ethereum wallets into mainstream applications to benefit from zero-fee micro-transactions."}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/OpenSTFoundation/SimpleTokenSale/tree/66025fede245a382ef6ed9f32dd0ecd1da34301f/contracts"
+        }
+      ],
+      "title": "Simple Token Sale Audit",
+      "date": "11/17",
+      "auditor": "OpenZeppelin",
+      "url": "https://blog.openzeppelin.com/simple-token-sale-audit-30e5f2365463/"
+    }
+  ],
+  "project": "OST Platform",
+  "project_url": "https://ost.com/",
+  "description": "Enables developers to seamlessly embed Ethereum wallets into mainstream applications to benefit from zero-fee micro-transactions."
+}

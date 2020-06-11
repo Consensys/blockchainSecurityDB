@@ -1,1 +1,18 @@
-{"audits":[{"repos":[{"url":"https://github.com/DigixGlobal/dao-contracts"}],"title":"Security Audit of Digix's Smart Contracts","date":"12/18","auditor":"ChainSecurity","url":"https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Digix.pdf"}],"project":"Digix","project_url":"https://digix.global/#/","description":"The future of gold is digital"}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/DigixGlobal/dao-contracts"
+        }
+      ],
+      "title": "Security Audit of Digix's Smart Contracts",
+      "date": "12/18",
+      "auditor": "ChainSecurity",
+      "url": "https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Digix.pdf"
+    }
+  ],
+  "project": "Digix",
+  "project_url": "https://digix.global/#/",
+  "description": "The future of gold is digital"
+}

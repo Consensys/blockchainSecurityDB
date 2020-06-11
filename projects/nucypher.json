@@ -1,1 +1,27 @@
-{"audits":[{"repos":[],"title":"NuCypher Security Assessment","date":"02/19","auditor":"Trail of Bits","url":"https://github.com/trailofbits/publications/blob/master/reviews/nucypher-2.pdf"},{"repos":[{"url":"https://github.com/nucypher/nucypher/tree/master/nucypher"}],"title":"NuCypher Security Assessment","date":"08/18","auditor":"Trail of Bits","url":"https://github.com/trailofbits/publications/blob/master/reviews/nucypher.pdf"}],"project":"NuCypher","project_url":"https://www.nucypher.com/","description":"Cryptographic infrastructure for privacy-preserving applications","effort":"12 person-weeks.","security_contact":"security@nucypher.com"}
+{
+  "audits": [
+    {
+      "repos": [],
+      "title": "NuCypher Security Assessment",
+      "date": "02/19",
+      "auditor": "Trail of Bits",
+      "url": "https://github.com/trailofbits/publications/blob/master/reviews/nucypher-2.pdf"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/nucypher/nucypher/tree/master/nucypher"
+        }
+      ],
+      "title": "NuCypher Security Assessment",
+      "date": "08/18",
+      "auditor": "Trail of Bits",
+      "url": "https://github.com/trailofbits/publications/blob/master/reviews/nucypher.pdf"
+    }
+  ],
+  "project": "NuCypher",
+  "project_url": "https://www.nucypher.com/",
+  "description": "Cryptographic infrastructure for privacy-preserving applications",
+  "effort": "12 person-weeks.",
+  "security_contact": "security@nucypher.com"
+}

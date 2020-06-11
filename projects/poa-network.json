@@ -1,1 +1,15 @@
-{"audits":[{"repos":[],"title":"Security Audit of POA Network's Smart Contracts","date":"09/18","auditor":"ChainSecurity","url":"https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_PoA.pdf"}],"project":"POA Network","project_url":"https://www.poa.network/","description":"POA Network encompasses an EVM blockchain as well as product development for the entire Ethereum ecosystem","security_contact":"security@poanetwork.com"}
+{
+  "audits": [
+    {
+      "repos": [],
+      "title": "Security Audit of POA Network's Smart Contracts",
+      "date": "09/18",
+      "auditor": "ChainSecurity",
+      "url": "https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_PoA.pdf"
+    }
+  ],
+  "project": "POA Network",
+  "project_url": "https://www.poa.network/",
+  "description": "POA Network encompasses an EVM blockchain as well as product development for the entire Ethereum ecosystem",
+  "security_contact": "security@poanetwork.com"
+}

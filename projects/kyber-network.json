@@ -1,1 +1,30 @@
-{"audits":[{"repos":[{"url":"https://github.com/KyberSwap/limit-order-smartcontracts/tree/audit-062019-1"}],"title":"Kyber Network Smart Contracts Security Analysis","date":"07/19","auditor":"SmartDec","url":"https://blog.smartdec.net/kyber-network-smart-contracts-security-analysis-508d0a0f8637"},{"repos":[{"url":"https://github.com/KyberNetwork/KyberSwap"}],"title":"Expert Security Audit of Kyber Network V2","date":"06/18","auditor":"ChainSecurity","url":"https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_KyberNetwork.pdf"}],"project":"Kyber Network","project_url":"https://kyber.network/","description":"On-chain liquidity protocol that aggregates liquidity from a wide range of reserves, powering instant and secure token exchange in any decentralized application.","security_contact":"hello@kyber.network"}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/KyberSwap/limit-order-smartcontracts/tree/audit-062019-1"
+        }
+      ],
+      "title": "Kyber Network Smart Contracts Security Analysis",
+      "date": "07/19",
+      "auditor": "SmartDec",
+      "url": "https://blog.smartdec.net/kyber-network-smart-contracts-security-analysis-508d0a0f8637"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/KyberNetwork/KyberSwap"
+        }
+      ],
+      "title": "Expert Security Audit of Kyber Network V2",
+      "date": "06/18",
+      "auditor": "ChainSecurity",
+      "url": "https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_KyberNetwork.pdf"
+    }
+  ],
+  "project": "Kyber Network",
+  "project_url": "https://kyber.network/",
+  "description": "On-chain liquidity protocol that aggregates liquidity from a wide range of reserves, powering instant and secure token exchange in any decentralized application.",
+  "security_contact": "hello@kyber.network"
+}

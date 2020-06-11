@@ -1,1 +1,15 @@
-{"audits":[{"repos":[],"title":"Flexa Security Assessment","date":"09/19","auditor":"Trail of Bits","url":"https://github.com/trailofbits/publications/blob/master/reviews/Flexa.pdf"}],"project":"Flexa","project_url":"https://flexa.network/","description":"The fastest, most fraud-proof payments network in the world.","effort":"2 person-weeks."}
+{
+  "audits": [
+    {
+      "repos": [],
+      "title": "Flexa Security Assessment",
+      "date": "09/19",
+      "auditor": "Trail of Bits",
+      "url": "https://github.com/trailofbits/publications/blob/master/reviews/Flexa.pdf"
+    }
+  ],
+  "project": "Flexa",
+  "project_url": "https://flexa.network/",
+  "description": "The fastest, most fraud-proof payments network in the world.",
+  "effort": "2 person-weeks."
+}

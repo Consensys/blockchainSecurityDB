@@ -1,1 +1,137 @@
-{"audits":[{"repos":[],"title":"Havven eUSD Audit","date":"04/18","auditor":"Sigma Prime","url":"https://github.com/sigp/public-audits/blob/master/havven-2018-04-05/README.md"},{"repos":[],"title":"Havven nUSD Audit","date":"06/18","auditor":"Sigma Prime","url":"https://github.com/sigp/public-audits/blob/master/havven-2018-06-06/havven-review.pdf"},{"repos":[],"title":"Havven nUSD Economics Audits","date":"06/18","auditor":"Cryptecon","url":"https://blog.synthetix.io/havven-validated-by-cryptecon-analysis/"},{"repos":[],"title":"Havven Issuance Controller Audit","date":"06/18","auditor":"Sigma Prime","url":"https://github.com/sigp/public-audits/blob/master/havven-2018-06-18/review.pdf"},{"repos":[{"url":"https://github.com/Synthetixio/synthetix"}],"title":"Synthetix Multicurrency","date":"01/19","auditor":"Sigma Prime","url":"https://github.com/sigp/public-audits/blob/master/synthetix/multicurrency/review.pdf"},{"repos":[{"url":"https://github.com/Synthetixio/synthetix"}],"title":"Synthetix Phase 1 Smart Contract Audit","date":"02/19","auditor":"iosiro","url":"https://www.iosiro.com/audits/synthetix-phase-1-smart-contract-audit"},{"repos":[{"url":"https://github.com/Synthetixio/synthetix"}],"title":"Synthetix Phase 2 Smart Contract Audit","date":"08/19","auditor":"iosiro","url":"https://www.iosiro.com/audits/synthetix-phase-2-smart-contract-audit"},{"repos":[{"url":"https://github.com/Synthetixio/synthetix"}],"title":"sETH LP Rewards (SIP-31)","date":"02/20","auditor":"Sigma Prime","url":"https://github.com/sigp/public-audits/blob/master/synthetix/unipool/review.pdf"},{"repos":[{"url":"https://github.com/Synthetixio/synthetix"}],"title":"Synthetix SIP-37 Smart Contract Audit","date":"02/20","auditor":"iosiro","url":"https://www.iosiro.com/audits/synthetix-sip37-smart-contract-audit"},{"repos":[{"url":"https://github.com/Synthetixio/synthetix"}],"title":"Skinny Ether Collateral (SIP-35)","date":"02/20","auditor":"Sigma Prime","url":"https://github.com/sigp/public-audits/blob/master/synthetix/ethercollateral/review.pdf"},{"repos":[{"url":"https://github.com/Synthetixio/synthetix"}],"title":"Synthetix PR-435 Smart Contract Audit","date":"02/20","auditor":"iosiro","url":"https://iosiro.com/audits/synthetix-pr-435-smart-contract-audit"},{"repos":[{"url":"https://github.com/Synthetixio/synthetix"}],"title":"One week claims and advanced delegation (SIP-9, SIP-10, SIP-14)","date":"03/20","auditor":"Sigma Prime","url":"https://github.com/sigp/public-audits/blob/master/synthetix/delegates/review.pdf"},{"repos":[{"url":"https://github.com/Synthetixio/synthetix"}],"title":"Synthetix SIP-44 and SIP-46 Smart Contract Audit","date":"03/20","auditor":"iosiro","url":"https://iosiro.com/audits/synthetix-sip-44-and-sip-46-smart-contract-audit"}],"project":"Synthetix","project_url":"https://www.synthetix.io/","description":"A protocol for trading synthetic assets on Ethereum","bounty":"https://blog.synthetix.io/synthetix-bug-bounties/","bounty_max":"$5,000","security_contact":"security@synthetix.io"}
+{
+  "audits": [
+    {
+      "repos": [],
+      "title": "Havven eUSD Audit",
+      "date": "04/18",
+      "auditor": "Sigma Prime",
+      "url": "https://github.com/sigp/public-audits/blob/master/havven-2018-04-05/README.md"
+    },
+    {
+      "repos": [],
+      "title": "Havven nUSD Audit",
+      "date": "06/18",
+      "auditor": "Sigma Prime",
+      "url": "https://github.com/sigp/public-audits/blob/master/havven-2018-06-06/havven-review.pdf"
+    },
+    {
+      "repos": [],
+      "title": "Havven nUSD Economics Audits",
+      "date": "06/18",
+      "auditor": "Cryptecon",
+      "url": "https://blog.synthetix.io/havven-validated-by-cryptecon-analysis/"
+    },
+    {
+      "repos": [],
+      "title": "Havven Issuance Controller Audit",
+      "date": "06/18",
+      "auditor": "Sigma Prime",
+      "url": "https://github.com/sigp/public-audits/blob/master/havven-2018-06-18/review.pdf"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/Synthetixio/synthetix"
+        }
+      ],
+      "title": "Synthetix Multicurrency",
+      "date": "01/19",
+      "auditor": "Sigma Prime",
+      "url": "https://github.com/sigp/public-audits/blob/master/synthetix/multicurrency/review.pdf"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/Synthetixio/synthetix"
+        }
+      ],
+      "title": "Synthetix Phase 1 Smart Contract Audit",
+      "date": "02/19",
+      "auditor": "iosiro",
+      "url": "https://www.iosiro.com/audits/synthetix-phase-1-smart-contract-audit"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/Synthetixio/synthetix"
+        }
+      ],
+      "title": "Synthetix Phase 2 Smart Contract Audit",
+      "date": "08/19",
+      "auditor": "iosiro",
+      "url": "https://www.iosiro.com/audits/synthetix-phase-2-smart-contract-audit"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/Synthetixio/synthetix"
+        }
+      ],
+      "title": "sETH LP Rewards (SIP-31)",
+      "date": "02/20",
+      "auditor": "Sigma Prime",
+      "url": "https://github.com/sigp/public-audits/blob/master/synthetix/unipool/review.pdf"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/Synthetixio/synthetix"
+        }
+      ],
+      "title": "Synthetix SIP-37 Smart Contract Audit",
+      "date": "02/20",
+      "auditor": "iosiro",
+      "url": "https://www.iosiro.com/audits/synthetix-sip37-smart-contract-audit"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/Synthetixio/synthetix"
+        }
+      ],
+      "title": "Skinny Ether Collateral (SIP-35)",
+      "date": "02/20",
+      "auditor": "Sigma Prime",
+      "url": "https://github.com/sigp/public-audits/blob/master/synthetix/ethercollateral/review.pdf"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/Synthetixio/synthetix"
+        }
+      ],
+      "title": "Synthetix PR-435 Smart Contract Audit",
+      "date": "02/20",
+      "auditor": "iosiro",
+      "url": "https://iosiro.com/audits/synthetix-pr-435-smart-contract-audit"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/Synthetixio/synthetix"
+        }
+      ],
+      "title": "One week claims and advanced delegation (SIP-9, SIP-10, SIP-14)",
+      "date": "03/20",
+      "auditor": "Sigma Prime",
+      "url": "https://github.com/sigp/public-audits/blob/master/synthetix/delegates/review.pdf"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/Synthetixio/synthetix"
+        }
+      ],
+      "title": "Synthetix SIP-44 and SIP-46 Smart Contract Audit",
+      "date": "03/20",
+      "auditor": "iosiro",
+      "url": "https://iosiro.com/audits/synthetix-sip-44-and-sip-46-smart-contract-audit"
+    }
+  ],
+  "project": "Synthetix",
+  "project_url": "https://www.synthetix.io/",
+  "description": "A protocol for trading synthetic assets on Ethereum",
+  "bounty": "https://blog.synthetix.io/synthetix-bug-bounties/",
+  "bounty_max": "$5,000",
+  "security_contact": "security@synthetix.io"
+}

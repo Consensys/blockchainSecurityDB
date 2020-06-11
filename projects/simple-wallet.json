@@ -1,1 +1,18 @@
-{"audits":[{"repos":[{"url":"https://github.com/christianlundkvist/simple-multisig"}],"title":"Simple MultiSig Wallet Audit","date":"9/18","auditor":"ConsenSys Diligence","url":"https://diligence.consensys.net/files/SimpleMultisigWallet_Audit.pdf"}],"project":"Simple Wallet","description":"A simple multisig wallet","effort":"2 auditors, 13 days"}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/christianlundkvist/simple-multisig"
+        }
+      ],
+      "title": "Simple MultiSig Wallet Audit",
+      "date": "9/18",
+      "auditor": "ConsenSys Diligence",
+      "url": "https://diligence.consensys.net/files/SimpleMultisigWallet_Audit.pdf"
+    }
+  ],
+  "project": "Simple Wallet",
+  "description": "A simple multisig wallet",
+  "effort": "2 auditors, 13 days"
+}

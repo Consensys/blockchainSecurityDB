@@ -1,1 +1,18 @@
-{"audits":[{"repos":[{"url":"https://github.com/EverusWorld/Contracts/blob/41cd2da8382225b5f6e5eebd5eafae9dc9ae1b85/EVR_V2"}],"title":"Everus Token Audit","date":"10/17","auditor":"OpenZeppelin","url":"https://blog.openzeppelin.com/everus-token-audit-a05f0959534e/"}],"project":"Everus","project_url":"https://everus.org/","description":"The First Wallet for you to earn hassle-free"}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/EverusWorld/Contracts/blob/41cd2da8382225b5f6e5eebd5eafae9dc9ae1b85/EVR_V2"
+        }
+      ],
+      "title": "Everus Token Audit",
+      "date": "10/17",
+      "auditor": "OpenZeppelin",
+      "url": "https://blog.openzeppelin.com/everus-token-audit-a05f0959534e/"
+    }
+  ],
+  "project": "Everus",
+  "project_url": "https://everus.org/",
+  "description": "The First Wallet for you to earn hassle-free"
+}

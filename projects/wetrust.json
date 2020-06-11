@@ -1,1 +1,18 @@
-{"audits":[{"repos":[{"url":"https://github.com/WeTrustPlatform/rosca-contracts/tree/2af29be97d529488f5488fe0592f9e6b3585254f/contracts"}],"title":"WeTrust ROSCA contract code audit","date":"02/17","auditor":"OpenZeppelin","url":"https://blog.openzeppelin.com/wetrust-rosca-contract-code-audit-928a536c5dd2/"}],"project":"WeTrust","project_url":"https://www.wetrust.io/","description":"WeTrust is a collaborative savings, lending and insurance platform that is autonomous, agnostic, frictionless, and decentralized."}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/WeTrustPlatform/rosca-contracts/tree/2af29be97d529488f5488fe0592f9e6b3585254f/contracts"
+        }
+      ],
+      "title": "WeTrust ROSCA contract code audit",
+      "date": "02/17",
+      "auditor": "OpenZeppelin",
+      "url": "https://blog.openzeppelin.com/wetrust-rosca-contract-code-audit-928a536c5dd2/"
+    }
+  ],
+  "project": "WeTrust",
+  "project_url": "https://www.wetrust.io/",
+  "description": "WeTrust is a collaborative savings, lending and insurance platform that is autonomous, agnostic, frictionless, and decentralized."
+}

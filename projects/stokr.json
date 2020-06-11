@@ -1,1 +1,18 @@
-{"audits":[{"repos":[{"url":"https://github.com/stokr-io/stokr-smart-contracts"}],"title":"Security Audit of STOKR's Smart Contracts","date":"04/19","auditor":"ChainSecurity","url":"https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_STOKR.pdf"}],"project":"STOKR","project_url":"https://stokr.io/","description":"Invest in companies you believe in. Built on the blockchain for more independency, more transparency and no middlemen."}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/stokr-io/stokr-smart-contracts"
+        }
+      ],
+      "title": "Security Audit of STOKR's Smart Contracts",
+      "date": "04/19",
+      "auditor": "ChainSecurity",
+      "url": "https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_STOKR.pdf"
+    }
+  ],
+  "project": "STOKR",
+  "project_url": "https://stokr.io/",
+  "description": "Invest in companies you believe in. Built on the blockchain for more independency, more transparency and no middlemen."
+}

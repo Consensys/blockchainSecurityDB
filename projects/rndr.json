@@ -1,1 +1,32 @@
-{"audits":[{"repos":[{"url":"https://github.com/rndr-network/Token-Audit"},{"url":"https://github.com/rndr-network/Token-Airdrop/"}],"title":"RNDR Token Transfer Audit","date":"11/18","auditor":"OpenZeppelin","url":"https://blog.openzeppelin.com/rndr-token-transfer-audit-74b21356b849/"},null,{"repos":[{"url":"https://github.com/RenderToken/rendertoken/tree/2967e106004e26cbad5b9a34e57e7f07bde45256/contracts"}],"title":"Render Token Audit","date":"09/17","auditor":"OpenZeppelin","url":"https://blog.openzeppelin.com/render-token-audit-2a078ba6d759/"}],"project":"RNDR","project_url":"https://rendertoken.com/","description":"Distributed GPU rendering on the blockchain"}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/rndr-network/Token-Audit"
+        },
+        {
+          "url": "https://github.com/rndr-network/Token-Airdrop/"
+        }
+      ],
+      "title": "RNDR Token Transfer Audit",
+      "date": "11/18",
+      "auditor": "OpenZeppelin",
+      "url": "https://blog.openzeppelin.com/rndr-token-transfer-audit-74b21356b849/"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/RenderToken/rendertoken/tree/2967e106004e26cbad5b9a34e57e7f07bde45256/contracts"
+        }
+      ],
+      "title": "Render Token Audit",
+      "date": "09/17",
+      "auditor": "OpenZeppelin",
+      "url": "https://blog.openzeppelin.com/render-token-audit-2a078ba6d759/"
+    }
+  ],
+  "project": "RNDR",
+  "project_url": "https://rendertoken.com/",
+  "description": "Distributed GPU rendering on the blockchain"
+}

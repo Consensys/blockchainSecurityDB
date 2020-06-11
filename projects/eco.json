@@ -1,1 +1,14 @@
-{"audits":[{"repos":[],"title":"Eco Contracts Audit","date":"01/20","auditor":"OpenZeppelin","url":"https://blog.openzeppelin.com/eco-contracts-audit/"}],"project":"Eco","project_url":"https://eco.com/","description":"A better way to pay"}
+{
+  "audits": [
+    {
+      "repos": [],
+      "title": "Eco Contracts Audit",
+      "date": "01/20",
+      "auditor": "OpenZeppelin",
+      "url": "https://blog.openzeppelin.com/eco-contracts-audit/"
+    }
+  ],
+  "project": "Eco",
+  "project_url": "https://eco.com/",
+  "description": "A better way to pay"
+}

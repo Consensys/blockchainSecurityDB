@@ -1,1 +1,29 @@
-{"audits":[{"repos":[{"url":"https://github.com/propsproject/props-token-distribution/tree/e5ce0b2df1fbe108458d86820da578db56ac28d1/contracts/token"}],"title":"PROPS Rewards Engine Contracts Audit","date":"09/19","auditor":"OpenZeppelin","url":"https://blog.openzeppelin.com/props-rewards-engine-contracts-audit/"},{"repos":[{"url":"https://github.com/propsproject/props-token-distribution/tree/eaf0c6fddd320a258a9d7531d72d07a830fae58a/contracts"}],"title":"PROPS Token Contracts Audit","date":"09/19","auditor":"OpenZeppelin","url":"https://blog.openzeppelin.com/props-token-contracts-audit-2/"}],"project":"PROPS","project_url":"https://www.propsproject.com/","description":"A new way for apps to reward users with a financial stake in the network"}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/propsproject/props-token-distribution/tree/e5ce0b2df1fbe108458d86820da578db56ac28d1/contracts/token"
+        }
+      ],
+      "title": "PROPS Rewards Engine Contracts Audit",
+      "date": "09/19",
+      "auditor": "OpenZeppelin",
+      "url": "https://blog.openzeppelin.com/props-rewards-engine-contracts-audit/"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/propsproject/props-token-distribution/tree/eaf0c6fddd320a258a9d7531d72d07a830fae58a/contracts"
+        }
+      ],
+      "title": "PROPS Token Contracts Audit",
+      "date": "09/19",
+      "auditor": "OpenZeppelin",
+      "url": "https://blog.openzeppelin.com/props-token-contracts-audit-2/"
+    }
+  ],
+  "project": "PROPS",
+  "project_url": "https://www.propsproject.com/",
+  "description": "A new way for apps to reward users with a financial stake in the network"
+}

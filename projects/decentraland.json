@@ -1,1 +1,19 @@
-{"audits":[{"repos":[{"url":"https://github.com/decentraland/mana/tree/a13905356378cc0153dd3c2153c8ceae6400970d"}],"title":"Decentraland MANA Token Audit","date":"07/17","auditor":"OpenZeppelin","url":"https://blog.openzeppelin.com/decentraland-mana-token-audit-ee56a6bca708/"}],"project":"Decentraland","project_url":"https://decentraland.org/","description":"Create, explore and trade in the first-ever virtual world owned by its users.","security_contact":"hello@decentraland.org"}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/decentraland/mana/tree/a13905356378cc0153dd3c2153c8ceae6400970d"
+        }
+      ],
+      "title": "Decentraland MANA Token Audit",
+      "date": "07/17",
+      "auditor": "OpenZeppelin",
+      "url": "https://blog.openzeppelin.com/decentraland-mana-token-audit-ee56a6bca708/"
+    }
+  ],
+  "project": "Decentraland",
+  "project_url": "https://decentraland.org/",
+  "description": "Create, explore and trade in the first-ever virtual world owned by its users.",
+  "security_contact": "hello@decentraland.org"
+}

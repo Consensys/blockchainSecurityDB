@@ -1,5 +1,6 @@
-# TokenSets
 
+# TokenSets
+  
 [https://www.tokensets.com/](https://www.tokensets.com/)<br>
 Automated asset management strategies
 
@@ -7,14 +8,15 @@ Automated asset management strategies
 ## Audits
 
 
+
 #### [Set Protocol Security Assessment](https://github.com/trailofbits/publications/blob/master/reviews/setprotocol.pdf)
 
 March, 2019<br>
-Audited by: Trail of Bits<br>Effort: 5 person-weeks.<br>
+Audited by: Trail of Bits<br>
 [Repo](https://github.com/SetProtocol/set-protocol-contracts)
+      
 
-
-
+  
 
 ## Bounty
 
@@ -23,4 +25,5 @@ Max payout: $50,000
 
 
 ## Additional Info
+
 Security Contact: security@setprotocol.com

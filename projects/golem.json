@@ -1,1 +1,33 @@
-{"audits":[{"repos":[{"url":"https://github.com/golemfactory/golem-crowdfunding/tree/50100b27a7c6841ed430a028d100f5d45ba08fb1/contracts"}],"title":"Golem Network Token (GNT) Audit","date":"11/16","auditor":"OpenZeppelin","url":"https://blog.openzeppelin.com/golem-network-token-gnt-audit-edfa4a45bc32/"},{"repos":[{"url":"https://github.com/golemfactory/golem"}],"title":"Golem Security Assessment","date":"04/18","auditor":"Trail of Bits","url":"https://github.com/trailofbits/publications/blob/master/reviews/golem.pdf"}],"project":"Golem","project_url":"https://golem.network/","description":"Golem is a global, open source, decentralized supercomputer that anyone can access","bounty":"https://blog.golemproject.net/golem-bug-bounty-competition/","bounty_max":"$15,000","security_contact":"contact@golem.network","effort":"4 person-weeks."}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/golemfactory/golem-crowdfunding/tree/50100b27a7c6841ed430a028d100f5d45ba08fb1/contracts"
+        }
+      ],
+      "title": "Golem Network Token (GNT) Audit",
+      "date": "11/16",
+      "auditor": "OpenZeppelin",
+      "url": "https://blog.openzeppelin.com/golem-network-token-gnt-audit-edfa4a45bc32/"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/golemfactory/golem"
+        }
+      ],
+      "title": "Golem Security Assessment",
+      "date": "04/18",
+      "auditor": "Trail of Bits",
+      "url": "https://github.com/trailofbits/publications/blob/master/reviews/golem.pdf"
+    }
+  ],
+  "project": "Golem",
+  "project_url": "https://golem.network/",
+  "description": "Golem is a global, open source, decentralized supercomputer that anyone can access",
+  "bounty": "https://blog.golemproject.net/golem-bug-bounty-competition/",
+  "bounty_max": "$15,000",
+  "security_contact": "contact@golem.network",
+  "effort": "4 person-weeks."
+}

@@ -1,1 +1,18 @@
-{"audits":[{"repos":[{"url":"https://github.com/bitclave/crowdsale/tree/057357fecbcc00c9a6cf96831d71d94fb7a13f03/contracts"}],"title":"BitClave Token Audit","date":"11/17","auditor":"OpenZeppelin","url":"https://blog.openzeppelin.com/bitclave-token-audit-570b0c664eb0/"}],"project":"BitClave","project_url":"https://www.bitclave.com/","description":"Make your data work for you"}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/bitclave/crowdsale/tree/057357fecbcc00c9a6cf96831d71d94fb7a13f03/contracts"
+        }
+      ],
+      "title": "BitClave Token Audit",
+      "date": "11/17",
+      "auditor": "OpenZeppelin",
+      "url": "https://blog.openzeppelin.com/bitclave-token-audit-570b0c664eb0/"
+    }
+  ],
+  "project": "BitClave",
+  "project_url": "https://www.bitclave.com/",
+  "description": "Make your data work for you"
+}

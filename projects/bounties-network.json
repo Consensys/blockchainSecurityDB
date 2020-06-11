@@ -1,1 +1,19 @@
-{"audits":[{"repos":[{"url":"https://github.com/Bounties-Network/StandardBounties"}],"title":"Bounties Network Audit","date":"03/19","auditor":"ConsenSys Diligence","url":"https://github.com/ConsenSys/bounties-audit-report-2019-03"}],"project":"Bounties Network","project_url":"https://bounties.network/","description":"Create projects, collaborate, and get paid for doing great work in any domain.","effort":"4 auditors"}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/Bounties-Network/StandardBounties"
+        }
+      ],
+      "title": "Bounties Network Audit",
+      "date": "03/19",
+      "auditor": "ConsenSys Diligence",
+      "url": "https://github.com/ConsenSys/bounties-audit-report-2019-03"
+    }
+  ],
+  "project": "Bounties Network",
+  "project_url": "https://bounties.network/",
+  "description": "Create projects, collaborate, and get paid for doing great work in any domain.",
+  "effort": "4 auditors"
+}

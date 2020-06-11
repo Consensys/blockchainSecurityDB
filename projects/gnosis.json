@@ -1,1 +1,21 @@
-{"audits":[{"repos":[{"url":"https://github.com/maraoz/MultiSigWallet/tree/585863178330d3c64855d596caba2b7f3271a423"}],"title":"Gnosis Multisig Wallet Audit","date":"03/18","auditor":"OpenZeppelin","url":"https://blog.openzeppelin.com/gnosis-multisig-wallet-audit-d702ff0e2b1e/"}],"project":"Gnosis","project_url":"https://gnosis.io/","description":"Gnosis builds new market mechanisms for open finance.","bounty":"https://blog.gnosis.pm/2020-dex-bug-bounty-210f2b67a764","bounty_max":"$50,000","security_contact":"info@gnosis.pm"}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/maraoz/MultiSigWallet/tree/585863178330d3c64855d596caba2b7f3271a423"
+        }
+      ],
+      "title": "Gnosis Multisig Wallet Audit",
+      "date": "03/18",
+      "auditor": "OpenZeppelin",
+      "url": "https://blog.openzeppelin.com/gnosis-multisig-wallet-audit-d702ff0e2b1e/"
+    }
+  ],
+  "project": "Gnosis",
+  "project_url": "https://gnosis.io/",
+  "description": "Gnosis builds new market mechanisms for open finance.",
+  "bounty": "https://blog.gnosis.pm/2020-dex-bug-bounty-210f2b67a764",
+  "bounty_max": "$50,000",
+  "security_contact": "info@gnosis.pm"
+}

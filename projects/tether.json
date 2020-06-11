@@ -1,1 +1,19 @@
-{"audits":[{"repos":[{"url":"https://github.com/tetherto/ether-contracts/tree/9718de4da7b571c1acf822bfde1f5300d1acc381/contracts"}],"title":"Tether Token Audit","date":"01/18","auditor":"OpenZeppelin","url":"https://blog.openzeppelin.com/tether-token-audit-438d561a380/"}],"project":"Tether","project_url":"https://tether.to/","description":"Digital money for a digital age","security_contact":"security@tether.to, security@bitfinex.com"}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/tetherto/ether-contracts/tree/9718de4da7b571c1acf822bfde1f5300d1acc381/contracts"
+        }
+      ],
+      "title": "Tether Token Audit",
+      "date": "01/18",
+      "auditor": "OpenZeppelin",
+      "url": "https://blog.openzeppelin.com/tether-token-audit-438d561a380/"
+    }
+  ],
+  "project": "Tether",
+  "project_url": "https://tether.to/",
+  "description": "Digital money for a digital age",
+  "security_contact": "security@tether.to, security@bitfinex.com"
+}

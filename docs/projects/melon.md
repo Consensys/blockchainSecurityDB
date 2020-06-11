@@ -1,5 +1,6 @@
-# Melon
 
+# Melon
+  
 [https://melonprotocol.com/](https://melonprotocol.com/)<br>
 The infrastructure for asset management 3.0
 
@@ -7,14 +8,15 @@ The infrastructure for asset management 3.0
 ## Audits
 
 
+
 #### [Security Audit of Melon's Smart Contracts](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Melon.pdf)
 
 March, 2019<br>
-Audited by: ChainSecurity<br>Effort: 4 auditors, 2 weeks.<br>
+Audited by: ChainSecurity<br>
 [Repo](https://github.com/melonproject/protocol/tree/develop/src)
+      
 
-
-
+  
 
 ## Bounty
 
@@ -23,4 +25,5 @@ Max payout: $10,000
 
 
 ## Additional Info
+
 Security Contact: security@melonport.com

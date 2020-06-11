@@ -1,1 +1,55 @@
-{"audits":[{"repos":[{"url":"https://github.com/compound-finance/compound-protocol/tree/f385d71983ae5c5799faae9b2dfea43e5cf75262"}],"title":"Compound Finance – Timelock Audit","date":"10/19","auditor":"OpenZeppelin","url":"https://blog.openzeppelin.com/compound-finance-patch-audit/"},{"repos":[{"url":"https://github.com/compound-finance/compound-protocol"}],"title":"Compound Audit","date":"08/19","auditor":"OpenZeppelin","url":"https://blog.openzeppelin.com/compound-audit/"},{"repos":[{"url":"https://github.com/compound-finance/compound-protocol"}],"title":"Compound Protocol Security Assessment","date":"08/19","auditor":"Trail of Bits","url":"https://github.com/trailofbits/publications/blob/master/reviews/compound-3.pdf"},{"repos":[{"url":"https://github.com/compound-finance/compound-protocol"}],"title":"Compound V2 Security Assessment","date":"04/19","auditor":"Trail of Bits","url":"https://github.com/trailofbits/publications/blob/master/reviews/compound-2.pdf"}],"project":"Compound","project_url":"https://compound.finance/","description":"An algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.","bounty":"https://compound.finance/docs/security#bug-bounty","bounty_max":"$150,000","security_contact":"security@compound.finance","effort":"8 person-weeks."}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/compound-finance/compound-protocol/tree/f385d71983ae5c5799faae9b2dfea43e5cf75262"
+        }
+      ],
+      "title": "Compound Finance – Timelock Audit",
+      "date": "10/19",
+      "auditor": "OpenZeppelin",
+      "url": "https://blog.openzeppelin.com/compound-finance-patch-audit/"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/compound-finance/compound-protocol"
+        }
+      ],
+      "title": "Compound Audit",
+      "date": "08/19",
+      "auditor": "OpenZeppelin",
+      "url": "https://blog.openzeppelin.com/compound-audit/"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/compound-finance/compound-protocol"
+        }
+      ],
+      "title": "Compound Protocol Security Assessment",
+      "date": "08/19",
+      "auditor": "Trail of Bits",
+      "url": "https://github.com/trailofbits/publications/blob/master/reviews/compound-3.pdf"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/compound-finance/compound-protocol"
+        }
+      ],
+      "title": "Compound V2 Security Assessment",
+      "date": "04/19",
+      "auditor": "Trail of Bits",
+      "url": "https://github.com/trailofbits/publications/blob/master/reviews/compound-2.pdf"
+    }
+  ],
+  "project": "Compound",
+  "project_url": "https://compound.finance/",
+  "description": "An algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.",
+  "bounty": "https://compound.finance/docs/security#bug-bounty",
+  "bounty_max": "$150,000",
+  "security_contact": "security@compound.finance",
+  "effort": "8 person-weeks."
+}

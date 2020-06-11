@@ -1,1 +1,18 @@
-{"audits":[{"repos":[{"url":"https://github.com/MercuryProtocol/global-messaging-token-contracts/tree/d0765cbd0732453832455dae0e2cf892da1ab572/contracts"}],"title":"Global Messaging Token Audit","date":"10/17","auditor":"OpenZeppelin","url":"https://blog.openzeppelin.com/global-messaging-token-audit-865e6a821cd8/"}],"project":"Mercury Protocol","project_url":"https://www.mercuryprotocol.com/","description":"A suite of smart contracts and software services that enables a trustworthy, meaningful, and providerless communication layer for consumer app developers."}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/MercuryProtocol/global-messaging-token-contracts/tree/d0765cbd0732453832455dae0e2cf892da1ab572/contracts"
+        }
+      ],
+      "title": "Global Messaging Token Audit",
+      "date": "10/17",
+      "auditor": "OpenZeppelin",
+      "url": "https://blog.openzeppelin.com/global-messaging-token-audit-865e6a821cd8/"
+    }
+  ],
+  "project": "Mercury Protocol",
+  "project_url": "https://www.mercuryprotocol.com/",
+  "description": "A suite of smart contracts and software services that enables a trustworthy, meaningful, and providerless communication layer for consumer app developers."
+}

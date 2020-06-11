@@ -1,1 +1,19 @@
-{"audits":[{"repos":[{"url":"https://github.com/centrehq/centre-tokens/tree/4b9ebf3941a48e41e7363fee729035610a71ca66/contracts/minting"}],"title":"Centre Token Minting Contracts Audit","date":"04/19","auditor":"OpenZeppelin","url":"https://blog.openzeppelin.com/centre-token-minting-contracts-audit-6e723177d44b/"}],"project":"Centre","project_url":"https://www.centre.io/","description":"Connecting every person, every merchant, every financial service, every currency. Everywhere.","security_contact":"usdc-security@circle.com"}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/centrehq/centre-tokens/tree/4b9ebf3941a48e41e7363fee729035610a71ca66/contracts/minting"
+        }
+      ],
+      "title": "Centre Token Minting Contracts Audit",
+      "date": "04/19",
+      "auditor": "OpenZeppelin",
+      "url": "https://blog.openzeppelin.com/centre-token-minting-contracts-audit-6e723177d44b/"
+    }
+  ],
+  "project": "Centre",
+  "project_url": "https://www.centre.io/",
+  "description": "Connecting every person, every merchant, every financial service, every currency. Everywhere.",
+  "security_contact": "usdc-security@circle.com"
+}

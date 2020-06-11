@@ -1,1 +1,29 @@
-{"audits":[{"repos":[{"url":"https://github.com/iExecBlockchainComputing/rlc-token/tree/3d9aa99ba33bb035c59740a621b1f21cd45cbac5"}],"title":"iEx.ec RLC Token Audit","date":"04/17","auditor":"OpenZeppelin","url":"https://blog.openzeppelin.com/iex-ec-rlc-token-audit-80abd763709b/"},{"repos":[{"url":"https://github.com/iExecBlockchainComputing/PoCo"}],"title":"iExec Security Audit of PoCo Smart Contracts","date":"05/18","auditor":"ChainSecurity","url":"https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_iExec.pdf"}],"project":"iExec","project_url":"https://iex.ec/","description":"Decentralized cloud computing"}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/iExecBlockchainComputing/rlc-token/tree/3d9aa99ba33bb035c59740a621b1f21cd45cbac5"
+        }
+      ],
+      "title": "iEx.ec RLC Token Audit",
+      "date": "04/17",
+      "auditor": "OpenZeppelin",
+      "url": "https://blog.openzeppelin.com/iex-ec-rlc-token-audit-80abd763709b/"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/iExecBlockchainComputing/PoCo"
+        }
+      ],
+      "title": "iExec Security Audit of PoCo Smart Contracts",
+      "date": "05/18",
+      "auditor": "ChainSecurity",
+      "url": "https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_iExec.pdf"
+    }
+  ],
+  "project": "iExec",
+  "project_url": "https://iex.ec/",
+  "description": "Decentralized cloud computing"
+}

@@ -1,1 +1,18 @@
-{"audits":[{"repos":[{"url":"https://github.com/ChainXcom/coinfix.io-smart-contracts/tree/75edd659ce96c88fe2784f3e767d6617787e8b7c/merchant_subscription"}],"title":"Coinfix Token Audit","date":"01/18","auditor":"OpenZeppelin","url":"https://blog.openzeppelin.com/coinfix-token-audit-c4a0e64190bf/"}],"project":"Coinfix","project_url":"https://www.coinfix.io/","description":"Enterprise crypto payment solution. Engineeredfor security and versatility."}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/ChainXcom/coinfix.io-smart-contracts/tree/75edd659ce96c88fe2784f3e767d6617787e8b7c/merchant_subscription"
+        }
+      ],
+      "title": "Coinfix Token Audit",
+      "date": "01/18",
+      "auditor": "OpenZeppelin",
+      "url": "https://blog.openzeppelin.com/coinfix-token-audit-c4a0e64190bf/"
+    }
+  ],
+  "project": "Coinfix",
+  "project_url": "https://www.coinfix.io/",
+  "description": "Enterprise crypto payment solution. Engineeredfor security and versatility."
+}

@@ -1,1 +1,18 @@
-{"audits":[{"repos":[{"url":"https://github.com/pumapayio/smart-contracts/tree/5eb99b1a94d9e5d98873fb4338b97943b9821569"}],"title":"РumaPay Smart Contracts Security Analysis","date":"10/19","auditor":"SmartDec","url":"https://blog.smartdec.net/pumapay-smart-contracts-security-analysis-fe851f293e3b"}],"project":"PumaPay","project_url":"https://pumapay.io/","description":"First ever comprehensive crypto payment solution for businesses"}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/pumapayio/smart-contracts/tree/5eb99b1a94d9e5d98873fb4338b97943b9821569"
+        }
+      ],
+      "title": "РumaPay Smart Contracts Security Analysis",
+      "date": "10/19",
+      "auditor": "SmartDec",
+      "url": "https://blog.smartdec.net/pumapay-smart-contracts-security-analysis-fe851f293e3b"
+    }
+  ],
+  "project": "PumaPay",
+  "project_url": "https://pumapay.io/",
+  "description": "First ever comprehensive crypto payment solution for businesses"
+}

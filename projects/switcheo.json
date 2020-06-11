@@ -1,1 +1,20 @@
-{"audits":[{"repos":[{"url":"https://github.com/Switcheo/switcheo-eth"}],"title":"Security Audit of Switcheo's Smart Contracts","date":"11/18","auditor":"ChainSecurity","url":"https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Switcheo.pdf"}],"project":"Switcheo","project_url":"https://switcheo.network/","description":"Trustless and secure multi-chain trading experience.","bounty":"https://medium.com/switcheo/switcheo-bug-bounty-program-f9283d0ff42b","security_contact":"security@switcheo.network"}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/Switcheo/switcheo-eth"
+        }
+      ],
+      "title": "Security Audit of Switcheo's Smart Contracts",
+      "date": "11/18",
+      "auditor": "ChainSecurity",
+      "url": "https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Switcheo.pdf"
+    }
+  ],
+  "project": "Switcheo",
+  "project_url": "https://switcheo.network/",
+  "description": "Trustless and secure multi-chain trading experience.",
+  "bounty": "https://medium.com/switcheo/switcheo-bug-bounty-program-f9283d0ff42b",
+  "security_contact": "security@switcheo.network"
+}

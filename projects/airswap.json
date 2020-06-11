@@ -1,1 +1,36 @@
-{"audits":[{"repos":[],"title":"Nick Johnson Airswap Token Audit","date":"09/17","auditor":"Nick Johnson","url":"https://github.com/airswap/contracts-v1/blob/master/audits/nick-johnson/token.md"},{"repos":[],"title":"Nick Johnson Airswap Exchange Audit","date":"09/17","auditor":"Nick Johnson","url":"https://github.com/airswap/contracts-v1/blob/master/audits/nick-johnson/exchange.md"},{"repos":[],"title":"Airswap Token Contract Launch Audit","date":"10/17","auditor":"Philip Daian","url":"https://github.com/airswap/contracts-v1/blob/master/audits/phil-daian/airswap-token-contract-audit-v0.pdf"},{"repos":[],"title":"Airswap Exchange Contract Launch Audit","date":"9/17","auditor":"Philip Daian","url":"https://github.com/airswap/contracts-v1/blob/master/audits/phil-daian/airswap-exchange-contract-audit-v0.pdf"}],"project":"Airswap","project_url":"https://www.airswap.io/","description":"AirSwap enables peer-to-peer trading on the Ethereum blockchain.","security_contact":"bounty@airswap.io"}
+{
+  "audits": [
+    {
+      "repos": [],
+      "title": "Nick Johnson Airswap Token Audit",
+      "date": "09/17",
+      "auditor": "Nick Johnson",
+      "url": "https://github.com/airswap/contracts-v1/blob/master/audits/nick-johnson/token.md"
+    },
+    {
+      "repos": [],
+      "title": "Nick Johnson Airswap Exchange Audit",
+      "date": "09/17",
+      "auditor": "Nick Johnson",
+      "url": "https://github.com/airswap/contracts-v1/blob/master/audits/nick-johnson/exchange.md"
+    },
+    {
+      "repos": [],
+      "title": "Airswap Token Contract Launch Audit",
+      "date": "10/17",
+      "auditor": "Philip Daian",
+      "url": "https://github.com/airswap/contracts-v1/blob/master/audits/phil-daian/airswap-token-contract-audit-v0.pdf"
+    },
+    {
+      "repos": [],
+      "title": "Airswap Exchange Contract Launch Audit",
+      "date": "9/17",
+      "auditor": "Philip Daian",
+      "url": "https://github.com/airswap/contracts-v1/blob/master/audits/phil-daian/airswap-exchange-contract-audit-v0.pdf"
+    }
+  ],
+  "project": "Airswap",
+  "project_url": "https://www.airswap.io/",
+  "description": "AirSwap enables peer-to-peer trading on the Ethereum blockchain.",
+  "security_contact": "bounty@airswap.io"
+}

@@ -1,1 +1,19 @@
-{"audits":[{"repos":[{"url":"https://github.com/Storj/storj-contracts/tree/2bdeb27c0216d2f0889b6e7363d8a84b54cd7f39"}],"title":"Storj Token Audit","date":"06/17","auditor":"OpenZeppelin","url":"https://blog.openzeppelin.com/storj-token-audit-32a9af082797/"}],"project":"Storj","project_url":"https://storj.io/","description":"Decentralized cloud storage","security_contact":"hello@storj.io"}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/Storj/storj-contracts/tree/2bdeb27c0216d2f0889b6e7363d8a84b54cd7f39"
+        }
+      ],
+      "title": "Storj Token Audit",
+      "date": "06/17",
+      "auditor": "OpenZeppelin",
+      "url": "https://blog.openzeppelin.com/storj-token-audit-32a9af082797/"
+    }
+  ],
+  "project": "Storj",
+  "project_url": "https://storj.io/",
+  "description": "Decentralized cloud storage",
+  "security_contact": "hello@storj.io"
+}

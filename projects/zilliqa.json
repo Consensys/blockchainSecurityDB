@@ -1,1 +1,21 @@
-{"audits":[{"repos":[{"url":"https://github.com/Zilliqa/Zilliqa"}],"title":"Security Audit Report of Zilliqa Smart Contracts","date":"12/17","auditor":"ChainSecurity","url":"https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Zilliqa.pdf"}],"project":"Zilliqa","project_url":"https://www.zilliqa.com/","description":"Delivering a scalable and secure platform for developers and enterprises who wish to build decentralised applications.","bounty":"https://bugcrowd.com/zilliqa","bounty_max":"$5,000","security_contact":"security@zilliqa.com"}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/Zilliqa/Zilliqa"
+        }
+      ],
+      "title": "Security Audit Report of Zilliqa Smart Contracts",
+      "date": "12/17",
+      "auditor": "ChainSecurity",
+      "url": "https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Zilliqa.pdf"
+    }
+  ],
+  "project": "Zilliqa",
+  "project_url": "https://www.zilliqa.com/",
+  "description": "Delivering a scalable and secure platform for developers and enterprises who wish to build decentralised applications.",
+  "bounty": "https://bugcrowd.com/zilliqa",
+  "bounty_max": "$5,000",
+  "security_contact": "security@zilliqa.com"
+}

@@ -1,1 +1,18 @@
-{"audits":[{"repos":[{"url":"https://github.com/fiinu/smart-contract/tree/7589b9d137bbf902e142e4f0476b06976e390bdb"}],"title":"Fiinu Token Audit","date":"10/17","auditor":"OpenZeppelin","url":"https://blog.openzeppelin.com/fiinu-token-audit-c62ecbf63ad1/"}],"project":"Fiinu","project_url":"https://fiinu.com/","description":"Fiinu is in the pre-application phase to obtain necessary licenses from the UK regulatory authorities."}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/fiinu/smart-contract/tree/7589b9d137bbf902e142e4f0476b06976e390bdb"
+        }
+      ],
+      "title": "Fiinu Token Audit",
+      "date": "10/17",
+      "auditor": "OpenZeppelin",
+      "url": "https://blog.openzeppelin.com/fiinu-token-audit-c62ecbf63ad1/"
+    }
+  ],
+  "project": "Fiinu",
+  "project_url": "https://fiinu.com/",
+  "description": "Fiinu is in the pre-application phase to obtain necessary licenses from the UK regulatory authorities."
+}

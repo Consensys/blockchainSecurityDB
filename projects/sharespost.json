@@ -1,1 +1,19 @@
-{"audits":[{"repos":[{"url":"https://github.com/privsecx/glass-poc"}],"title":"SharesPost ERC20 Audit","date":"01/19","auditor":"Quantstamp","url":"https://certificate.quantstamp.com/full/shares-post-erc-20"}],"project":"SharesPost","project_url":"https://sharespost.com/","description":"The SharesPost marketplace makes it easy to explore private growth companies, access investment opportunities and find liquidity.","effort":"4 auditors, 24 days."}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/privsecx/glass-poc"
+        }
+      ],
+      "title": "SharesPost ERC20 Audit",
+      "date": "01/19",
+      "auditor": "Quantstamp",
+      "url": "https://certificate.quantstamp.com/full/shares-post-erc-20"
+    }
+  ],
+  "project": "SharesPost",
+  "project_url": "https://sharespost.com/",
+  "description": "The SharesPost marketplace makes it easy to explore private growth companies, access investment opportunities and find liquidity.",
+  "effort": "4 auditors, 24 days."
+}

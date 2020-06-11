@@ -1,1 +1,19 @@
-{"audits":[{"repos":[{"url":"Listed in scope"}],"title":"DappHub Security Assessment","date":"12/17","auditor":"Trail of Bits","url":"https://github.com/trailofbits/publications/blob/master/reviews/dapphub.pdf"}],"project":"DappHub","project_url":"http://dapphub.com/","description":"Suite of blockchain-oriented developer tools in the spirit of Unix Philosophy","effort":"8 person-weeks."}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "Listed in scope"
+        }
+      ],
+      "title": "DappHub Security Assessment",
+      "date": "12/17",
+      "auditor": "Trail of Bits",
+      "url": "https://github.com/trailofbits/publications/blob/master/reviews/dapphub.pdf"
+    }
+  ],
+  "project": "DappHub",
+  "project_url": "http://dapphub.com/",
+  "description": "Suite of blockchain-oriented developer tools in the spirit of Unix Philosophy",
+  "effort": "8 person-weeks."
+}

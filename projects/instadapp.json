@@ -1,1 +1,19 @@
-{"audits":[{"repos":[{"url":"https://github.com/InstaDApp/smart-contract/tree/4863c0c4156af7ded9cdb38b66e5f5e527c4a6d0"}],"title":"InstaDApp Audit","date":"09/19","auditor":"OpenZeppelin","url":"https://blog.openzeppelin.com/instadapp-audit/"}],"project":"InstaDApp","project_url":"https://instadapp.io/","description":"Trustless Smart Accounts for DeFi.","security_contact":"info@instadapp.io"}
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/InstaDApp/smart-contract/tree/4863c0c4156af7ded9cdb38b66e5f5e527c4a6d0"
+        }
+      ],
+      "title": "InstaDApp Audit",
+      "date": "09/19",
+      "auditor": "OpenZeppelin",
+      "url": "https://blog.openzeppelin.com/instadapp-audit/"
+    }
+  ],
+  "project": "InstaDApp",
+  "project_url": "https://instadapp.io/",
+  "description": "Trustless Smart Accounts for DeFi.",
+  "security_contact": "info@instadapp.io"
+}
