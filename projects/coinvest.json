@@ -1,0 +1,18 @@
+{
+  "project": "Coinvest",
+  "project_url": "https://www.coinve.st/",
+  "description": "Coinvest develops solutions to empower the world to execute financial services using blockchain technology.",
+  "audits": [
+    {
+      "title": "Coinvest Token V2 Audit",
+      "url": "https://github.com/authio-ethereum/Audits/blob/master/CoinvestTokenV2/Coinvest%20Token%20V2%20Audit%20by%20Authio%20Updated%20Styling.pdf",
+      "auditor": "Authio",
+      "date": "05/18",
+      "repos": [
+        {
+          "url": "https://github.com/DecentralizedDerivatives/DRCT_standard"
+        }
+      ]
+    }
+  ]
+}

@@ -6,6 +6,17 @@
       "date": "09/18",
       "auditor": "ChainSecurity",
       "url": "https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_PoA.pdf"
+    },
+    {
+      "title": "POA Network Contract Audit",
+      "url": "https://github.com/authio-ethereum/Audits/blob/master/POANetwork/PoA%20Network%20Contract%20Audit%20Updated%20Styling.pdf",
+      "date": "10/17",
+      "auditor": "Authio",
+      "repos": [
+        {
+          "url": "https://github.com/poanetwork/poa-network-consensus-contracts"
+        }
+      ]
     }
   ],
   "project": "POA Network",

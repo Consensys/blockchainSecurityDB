@@ -3,7 +3,6 @@ const fs = require('fs');
 
 function jsonProjectToMd(file) {
   const jsonFile = require(`../projects/${file}`);
-  console.log(jsonFile)
 
   // Months map
   const monthsMap = {

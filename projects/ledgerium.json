@@ -1,0 +1,18 @@
+{
+  "project": "Ledgerium",
+  "project_url": "https://www.ledgerium.io/",
+  "description": "Every transaction. Every where. Every time.",
+  "audits": [
+    {
+      "title": "Ledgerium Security Assessment: Final Report",
+      "url": "https://github.com/authio-ethereum/Audits/blob/master/Ledgerium/Ledgerium%20Token%20Contract%20Audit.pdf",
+      "date": "01/18",
+      "auditor": "Authio",
+      "repos": [
+        {
+          "url": "https://github.com/ledgerium/pubdocs/blob/master/LedgeriumToken.sol"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "project": "My Wish",
+  "project_url": "https://mywish.io/",
+  "description": "Create your smart contract without coding",
+  "audits": [
+    {
+      "title": "My Wish ERC20 Token Audit",
+      "url": "https://github.com/authio-ethereum/Audits/blob/master/MyWish/MyWish%20Token%20Audit.pdf",
+      "date": "10/18",
+      "auditor": "Authio",
+      "repos": [
+        {
+          "url": "https://github.com/MyWishPlatform/crowdsale"
+        }
+      ]
+    }
+  ]
+}
