@@ -1,7 +1,7 @@
 const path = require('path');
 const fs = require('fs');
 
-function appendProjectToTable(file) {
+function createProjectTableRow(file) {
   const jsonFile = require(`../projects/${file}`);
   const fileName = file.split('.')[0];
 
@@ -59,22 +59,40 @@ ${auditMdArr[i] !== undefined ? auditMdArr[i] : ''}
 </ul>
   `
 
-  const tableMd = `
+  const tableRowMd = `
 |[${jsonFile.project}](projects/${fileName}.md)|${jsonFile.description}|${auditMd}|${jsonFile.bounty ? jsonFile.bounty : ''}|${jsonFile.bounty ? jsonFile.bounty_max : ''}|${jsonFile.security_contact ? jsonFile.security_contact : ''}|
   `
-
-  const formattedTableMd = tableMd.split('\n').join('');
+  
+  const formattedtableRowMd = tableRowMd.split('\n').join('');
 
   const writePath = path.join(__dirname, '../docs');
-  fs.appendFile(`${writePath}/index.md`, `\n${formattedTableMd}`, (err) => {
+
+  fs.appendFile(`${writePath}/index.md`, `\n${formattedtableRowMd}`, (err) => {
     if(err) throw err;
     console.log('Table row successfully appended.');
-  })
+  });
 }
 
-const projectsPath = path.join(__dirname, '../projects');
-fs.readdir(projectsPath, (err, files) => {
-  files.forEach(file => {
-    appendProjectToTable(file);
-  })
-});
+function createProjectTable() {
+  const tableStarterMd = 
+`# Projects
+
+|Title|Description|Audits|Bounty Program|Max Bounty|Security Contact|
+|-----|-----------|------|--------------|----------|----------------|`
+
+  const writePath = path.join(__dirname, '../docs');
+
+  fs.writeFile(`${writePath}/index.md`, tableStarterMd, err => {
+    if(err) throw err;
+    console.log('Table starter successfully created.');
+  });
+
+  const projectsPath = path.join(__dirname, '../projects');
+  fs.readdir(projectsPath, (err, files) => {
+    files.forEach(file => {
+      createProjectTableRow(file);
+    })
+  });
+}
+
+createProjectTable();
