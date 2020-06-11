@@ -1,0 +1,21 @@
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/pooltogether/pooltogether-contracts/tree/78ac6863f4616269f7d04a0ddd1d60bdfc454937"
+        }
+      ],
+      "title": "PoolTogether Audit",
+      "date": "01/20",
+      "auditor": "OpenZeppelin",
+      "url": "https://blog.openzeppelin.com/pooltogether-audit/"
+    }
+  ],
+  "project": "PoolTogether",
+  "project_url": "https://www.pooltogether.com/",
+  "description": "A no-loss, audited savings game powered by blockchain technology",
+  "bounty": "https://github.com/pooltogether/pooltogether-contracts/issues/1",
+  "bounty_max": "$25,000",
+  "security_contact": "hello@pooltogether.us"
+}

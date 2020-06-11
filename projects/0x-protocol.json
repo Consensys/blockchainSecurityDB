@@ -1,0 +1,84 @@
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/0xProject/0x-monorepo"
+        }
+      ],
+      "title": "0x v3 Staking Audit",
+      "date": "10/19",
+      "auditor": "ConsenSys Diligence",
+      "url": "https://diligence.consensys.net/audits/2019/10/0x-v3-staking/"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/0xProject/0x-monorepo"
+        }
+      ],
+      "title": "0x v3 Exchange Audit",
+      "date": "9/19",
+      "auditor": "ConsenSys Diligence",
+      "url": "https://diligence.consensys.net/audits/2019/09/0x-v3-exchange/"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/0xProject/0x-monorepo/blob/77484dc69eea1f4f1a8397590199f3f2489751d2/contracts/asset-proxy/contracts/src/ERC1155Proxy.sol"
+        }
+      ],
+      "title": "0x ERC1155Proxy Audit",
+      "date": "05/19",
+      "auditor": "ConsenSys Diligence",
+      "url": "https://github.com/ConsenSys/0x-audit-report-2019-05"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/0xProject/0x-monorepo/blob/development/contracts/asset-proxy/contracts/src/MultiAssetProxy.sol"
+        }
+      ],
+      "title": "0x MultiAssetProxy Audit",
+      "date": "12/18",
+      "auditor": "ConsenSys Diligence",
+      "url": "https://github.com/ConsenSys/0x-audit-report-2018-12"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/0xProject/0x-monorepo/commit/a05b14e4d9659be1cc495ee33fd8962ce773f87f"
+        }
+      ],
+      "title": "0x Protocol v2 Audit",
+      "date": "09/18",
+      "auditor": "ConsenSys Diligence",
+      "url": "https://github.com/ConsenSys/0x_audit_report_2018-07-23"
+    },
+    {
+      "repos": [],
+      "title": "0x Review",
+      "date": "08/17",
+      "auditor": "ConsenSys Diligence",
+      "url": "https://github.com/ConsenSys/0x-review/blob/master/report/1_process.md"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/0xProject/0x-monorepo"
+        }
+      ],
+      "title": "0x Protocol Security Assessment",
+      "date": "10/19",
+      "auditor": "Trail of Bits",
+      "url": "https://github.com/trailofbits/publications/blob/master/reviews/0x-protocol.pdf"
+    }
+  ],
+  "project": "0x Protocol",
+  "project_url": "https://0x.org/",
+  "description": "An open protocol that enables the peer-to-peer exchange of assets on the Ethereum blockchain.",
+  "effort": "10 person-weeks.",
+  "bounty": "https://0x.org/docs/guides/bug-bounty-program",
+  "bounty_max": "$100,000",
+  "security_contact": "team@0xproject.com"
+}

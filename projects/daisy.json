@@ -1,0 +1,15 @@
+{
+  "audits": [
+    {
+      "repos": [],
+      "title": "Daisy: Subscription Contracts Audit",
+      "date": "08/19",
+      "auditor": "ConsenSys Diligence",
+      "url": "https://github.com/ConsenSys/daisy-audit-report-2019-08"
+    }
+  ],
+  "project": "Daisy",
+  "project_url": "https://www.daisypayments.com/",
+  "description": "Daisy's software enables businesses to accept cryptocurrency for purchases, subscriptions, usage fees and other payments.",
+  "effort": "2 auditors"
+}

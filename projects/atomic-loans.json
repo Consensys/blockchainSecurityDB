@@ -1,0 +1,30 @@
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/AtomicLoans/atomicloans-eth-contracts"
+        }
+      ],
+      "title": "Atomic Loans Audit",
+      "date": "07/19",
+      "auditor": "ConsenSys Diligence",
+      "url": "https://github.com/ConsenSys/atomic-loans-audit-report-2019-07"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/AtomicLoans/atomicloans-eth-contracts"
+        }
+      ],
+      "title": "Atomic Loans Audit",
+      "date": "9/19",
+      "auditor": "ConsenSys Diligence",
+      "url": "https://diligence.consensys.net/audits/2019/09/atomic-loans/"
+    }
+  ],
+  "project": "Atomic Loans",
+  "project_url": "https://atomic.loans/",
+  "description": "Non-custodial Bitcoin-backed loans.",
+  "effort": "1 auditor"
+}

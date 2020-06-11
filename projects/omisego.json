@@ -1,24 +1,30 @@
 {
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/omisego/plasma-contracts"
+        }
+      ],
+      "title": "Omisego Morevp Audit",
+      "date": "01/20",
+      "auditor": "ConsenSys Diligence",
+      "url": "https://diligence.consensys.net/audits/2020/01/omisego-morevp/"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/omisego/plasma-contracts"
+        }
+      ],
+      "title": "Omisego Plasma MVP Audit",
+      "date": "10/18",
+      "auditor": "Quantstamp",
+      "url": "https://certificate.quantstamp.com/full/omisego-plasma-mvp"
+    }
+  ],
   "project": "OmiseGo",
   "project_url": "https://omisego.co/",
   "description": "OmiseGO enables businesses and individuals to securely offer and access a wide range of financial services, and invest, exchange and spend digital assets anytime, anywhere.",
-  "audits": [{
-    "title": "Omisego Morevp Audit",
-    "date": "01/20",
-    "auditor": "ConsenSys Diligence",
-    "url": "https://diligence.consensys.net/audits/2020/01/omisego-morevp/",
-    "repos": [{
-      "url": "https://github.com/omisego/plasma-contracts"
-    }],
-    "effort": "3 auditors"
-  }, {
-    "title": "Omisego Plasma MVP Audit",
-    "date": "10/18",
-    "auditor": "Quantstamp",
-    "url": "https://certificate.quantstamp.com/full/omisego-plasma-mvp",
-    "repos": [{
-      "url": "https://github.com/omisego/plasma-contracts"
-    }],
-    "effort": "5 auditors, 17 days."
-  }]
+  "effort": "5 auditors, 17 days."
 }

@@ -30,7 +30,7 @@ function separateJsonProjects(indexes) {
         let lastIndex;
         let j = index - 1;
         while(true) {
-          if(projectsArr[j]["Audit Title"] !== undefined) {
+          if(projectsArr[j]["Audit Title"] !== '') {
             lastIndex = j;
             break;
           }
@@ -55,4 +55,4 @@ function separateJsonProjects(indexes) {
   })
 }
 
-separateJsonProjects([0,1]);
+separateJsonProjects([197,198,199,200,201,202,203,204,205,206,207,208,209]);
