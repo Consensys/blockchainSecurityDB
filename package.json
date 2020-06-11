@@ -5,7 +5,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "parse-projects": "node ./utils/jsonProjectToMd.js && node ./utils/createProjectTable.js"
+    "build": "node ./utils/jsonProjectToMd.js && node ./utils/createProjectTable.js"
   },
   "repository": {
     "type": "git",
