@@ -20,7 +20,7 @@ Audited by: OpenZeppelin<br>
 #### [Aave Protocol Security Assessment](https://github.com/trailofbits/publications/blob/master/reviews/aaveprotocol.pdf)
 
 September, 2019<br>
-Audited by: Trail of Bits<br>
+Audited by: Trail of Bits<br>Effort: 4 person-weeks.<br>
 [Repo](https://gitlab.com/aave-tech/dlp)
       
 

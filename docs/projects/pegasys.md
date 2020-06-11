@@ -12,7 +12,7 @@ Comercially licensed enterprise Ethereum client
 #### [Pegasys Permissioning Audit](https://diligence.consensys.net/audits/2019/08/pegasys-permissioning/)
 
 August, 2019<br>
-Audited by: ConsenSys Diligence<br>
+Audited by: ConsenSys Diligence<br>Effort: 3 auditors<br>
 [Repo](https://github.com/PegaSysEng/permissioning-smart-contracts)
       
 

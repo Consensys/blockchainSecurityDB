@@ -12,7 +12,7 @@ Automated asset management strategies
 #### [Set Protocol Security Assessment](https://github.com/trailofbits/publications/blob/master/reviews/setprotocol.pdf)
 
 March, 2019<br>
-Audited by: Trail of Bits<br>
+Audited by: Trail of Bits<br>Effort: 5 person-weeks.<br>
 [Repo](https://github.com/SetProtocol/set-protocol-contracts)
       
 

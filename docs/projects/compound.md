@@ -28,7 +28,7 @@ Audited by: OpenZeppelin<br>
 #### [Compound Protocol Security Assessment](https://github.com/trailofbits/publications/blob/master/reviews/compound-3.pdf)
 
 August, 2019<br>
-Audited by: Trail of Bits<br>
+Audited by: Trail of Bits<br>Effort: 2 person-weeks.<br>
 [Repo](https://github.com/compound-finance/compound-protocol)
       
 
@@ -36,7 +36,7 @@ Audited by: Trail of Bits<br>
 #### [Compound V2 Security Assessment](https://github.com/trailofbits/publications/blob/master/reviews/compound-2.pdf)
 
 April, 2019<br>
-Audited by: Trail of Bits<br>
+Audited by: Trail of Bits<br>Effort: 8 person-weeks.<br>
 [Repo](https://github.com/compound-finance/compound-protocol)
       
 

@@ -20,7 +20,8 @@
       "title": "Golem Security Assessment",
       "date": "04/18",
       "auditor": "Trail of Bits",
-      "url": "https://github.com/trailofbits/publications/blob/master/reviews/golem.pdf"
+      "url": "https://github.com/trailofbits/publications/blob/master/reviews/golem.pdf",
+      "effort": "4 person-weeks."
     }
   ],
   "project": "Golem",
@@ -28,6 +29,5 @@
   "description": "Golem is a global, open source, decentralized supercomputer that anyone can access",
   "bounty": "https://blog.golemproject.net/golem-bug-bounty-competition/",
   "bounty_max": "$15,000",
-  "security_contact": "contact@golem.network",
-  "effort": "4 person-weeks."
+  "security_contact": "contact@golem.network"
 }

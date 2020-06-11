@@ -9,10 +9,10 @@
       "title": "Simple MultiSig Wallet Audit",
       "date": "9/18",
       "auditor": "ConsenSys Diligence",
-      "url": "https://diligence.consensys.net/files/SimpleMultisigWallet_Audit.pdf"
+      "url": "https://diligence.consensys.net/files/SimpleMultisigWallet_Audit.pdf",
+      "effort": "2 auditors, 13 days"
     }
   ],
   "project": "Simple Wallet",
-  "description": "A simple multisig wallet",
-  "effort": "2 auditors, 13 days"
+  "description": "A simple multisig wallet"
 }

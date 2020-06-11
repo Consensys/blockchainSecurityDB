@@ -9,12 +9,12 @@
       "title": "Pegasys Permissioning Audit",
       "date": "08/19",
       "auditor": "ConsenSys Diligence",
-      "url": "https://diligence.consensys.net/audits/2019/08/pegasys-permissioning/"
+      "url": "https://diligence.consensys.net/audits/2019/08/pegasys-permissioning/",
+      "effort": "3 auditors"
     }
   ],
   "project": "Pegasys",
   "project_url": "https://pegasys.tech/pegasys-plus/",
   "description": "Comercially licensed enterprise Ethereum client",
-  "effort": "3 auditors",
   "security_contact": "security@pegasys.tech"
 }

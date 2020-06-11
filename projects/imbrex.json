@@ -5,11 +5,11 @@
       "title": "RexMLS Smart Contracts Audit",
       "date": "06/18",
       "auditor": "ConsenSys Diligence",
-      "url": "https://drive.google.com/file/d/1KCFBTMK5dQeqxzmOsjs-fxeLmi7P12F1/view"
+      "url": "https://drive.google.com/file/d/1KCFBTMK5dQeqxzmOsjs-fxeLmi7P12F1/view",
+      "effort": "1 auditor"
     }
   ],
   "project": "Imbrex",
   "project_url": "https://about.imbrex.io/",
-  "description": "Syndicates real estate data into a new kind of globally accessible network, where data is locally sourced, validated and secured via the Ethereum blockchain, smart contracts and cryptoeconomics.",
-  "effort": "1 auditor"
+  "description": "Syndicates real estate data into a new kind of globally accessible network, where data is locally sourced, validated and secured via the Ethereum blockchain, smart contracts and cryptoeconomics."
 }

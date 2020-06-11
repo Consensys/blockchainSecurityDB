@@ -12,7 +12,7 @@ The infrastructure for asset management 3.0
 #### [Security Audit of Melon's Smart Contracts](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Melon.pdf)
 
 March, 2019<br>
-Audited by: ChainSecurity<br>
+Audited by: ChainSecurity<br>Effort: 4 auditors, 2 weeks.<br>
 [Repo](https://github.com/melonproject/protocol/tree/develop/src)
       
 

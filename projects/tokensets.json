@@ -9,13 +9,13 @@
       "title": "Set Protocol Security Assessment",
       "date": "03/19",
       "auditor": "Trail of Bits",
-      "url": "https://github.com/trailofbits/publications/blob/master/reviews/setprotocol.pdf"
+      "url": "https://github.com/trailofbits/publications/blob/master/reviews/setprotocol.pdf",
+      "effort": "5 person-weeks."
     }
   ],
   "project": "TokenSets",
   "project_url": "https://www.tokensets.com/",
   "description": "Automated asset management strategies",
-  "effort": "5 person-weeks.",
   "bounty": "https://medium.com/set-protocol/introducing-the-set-protocol-bug-bounty-program-5790f16d2b8c",
   "bounty_max": "$50,000",
   "security_contact": "security@setprotocol.com"

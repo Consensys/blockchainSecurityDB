@@ -9,13 +9,13 @@
       "title": "Livepeer Security Assessment",
       "date": "03/18",
       "auditor": "Trail of Bits",
-      "url": "https://github.com/trailofbits/publications/blob/master/reviews/livepeer.pdf"
+      "url": "https://github.com/trailofbits/publications/blob/master/reviews/livepeer.pdf",
+      "effort": "4 person-weeks."
     }
   ],
   "project": "Livepeer",
   "project_url": "https://livepeer.org/",
   "description": "Open source video infrastructure services, built on the Ethereum blockchain.",
-  "effort": "4 person-weeks.",
   "bounty": "https://github.com/livepeer/wiki/wiki/Bug-Bounty",
   "bounty_max": "$2,500",
   "security_contact": "security@livepeer.org"

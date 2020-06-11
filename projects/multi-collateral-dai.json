@@ -9,13 +9,13 @@
       "title": "MCD Core Smart Contracts Security Assessment",
       "date": "08/19",
       "auditor": "Trail of Bits",
-      "url": "https://github.com/trailofbits/publications/blob/master/reviews/mc-dai.pdf"
+      "url": "https://github.com/trailofbits/publications/blob/master/reviews/mc-dai.pdf",
+      "effort": "16 person-weeks."
     }
   ],
   "project": "Multi-Collateral Dai",
   "project_url": "https://makerdao.com/en/",
   "description": "Digital currency that can be used by anyone, anywhere, anytime.",
-  "effort": "16 person-weeks.",
   "bounty": "https://hackerone.com/makerdao_bbp/hacktivity?order_direction=DESC&order_field=popular&filter=type%3Abounty-awarded",
   "bounty_max": "$100,000",
   "security_contact": "infosec@makerdao.com"

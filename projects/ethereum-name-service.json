@@ -12,12 +12,12 @@
       "title": "ENS Permanent Registrar Audit",
       "date": "03/19",
       "auditor": "ConsenSys Diligence",
-      "url": "https://diligence.consensys.net/audits/2019/03/ens-permanent-registrar/"
+      "url": "https://diligence.consensys.net/audits/2019/03/ens-permanent-registrar/",
+      "effort": "2 auditors"
     }
   ],
   "project": "Ethereum Name Service",
   "project_url": "https://ens.domains/",
   "description": "A secure & decentralised way to address resources both on and off the blockchain using simple, human-readable names.",
-  "effort": "2 auditors",
   "bounty": "https://bounty.ethereum.org/#bounties"
 }

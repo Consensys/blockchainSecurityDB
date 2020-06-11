@@ -9,7 +9,8 @@
       "title": "Aragon DAO Templates Audit",
       "date": "08/19",
       "auditor": "ConsenSys Diligence",
-      "url": "https://github.com/ConsenSys/aragon-daotemplates-audit-report-2019-08"
+      "url": "https://github.com/ConsenSys/aragon-daotemplates-audit-report-2019-08",
+      "effort": "2 auditors"
     },
     {
       "repos": [
@@ -23,7 +24,8 @@
       "title": "Aragon Payroll Application Audit",
       "date": "07/19",
       "auditor": "ConsenSys Diligence",
-      "url": "https://github.com/ConsenSys/aragon-payroll-audit-report-2019-06"
+      "url": "https://github.com/ConsenSys/aragon-payroll-audit-report-2019-06",
+      "effort": "4 auditors"
     },
     {
       "repos": [
@@ -37,13 +39,13 @@
       "title": "AragonOS and Aragon Apps Audit",
       "date": "10/18",
       "auditor": "ConsenSys Diligence",
-      "url": "https://github.com/ConsenSys/aragon_audit_report_2018-06-04_extended/blob/master/Aragon-Audit-final.md"
+      "url": "https://github.com/ConsenSys/aragon_audit_report_2018-06-04_extended/blob/master/Aragon-Audit-final.md",
+      "effort": "5 auditors, 13 days"
     }
   ],
   "project": "Aragon",
   "project_url": "https://aragon.org/",
   "description": "Aragon gives internet communities unprecedented power to organize around shared values and resources.",
-  "effort": "5 auditors, 13 days",
   "bounty": "https://wiki.aragon.org/association/security/an_bug_bounty/",
   "bounty_max": "$50,000",
   "security_contact": "security@aragon.org"

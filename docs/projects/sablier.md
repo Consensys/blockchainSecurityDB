@@ -12,7 +12,7 @@ The protocol for real-time finance
 #### [Sablier Audit Report](https://certificate.quantstamp.com/full/sablier)
 
 October, 2019<br>
-Audited by: Quantstamp<br>
+Audited by: Quantstamp<br>Effort: 4 person-weeks<br>
 [Repo](https://github.com/sablierhq/sablier)
       
 

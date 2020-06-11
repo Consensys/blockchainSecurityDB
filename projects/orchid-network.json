@@ -9,11 +9,11 @@
       "title": "Orchid Network Protocol Audit",
       "date": "11/19",
       "auditor": "ConsenSys Diligence",
-      "url": "https://diligence.consensys.net/audits/2019/11/orchid-network-protocol/"
+      "url": "https://diligence.consensys.net/audits/2019/11/orchid-network-protocol/",
+      "effort": "2 auditors"
     }
   ],
   "project": "Orchid Network",
   "project_url": "https://www.orchid.com/",
-  "description": "A truly decentralized VPN service.",
-  "effort": "2 auditors"
+  "description": "A truly decentralized VPN service."
 }

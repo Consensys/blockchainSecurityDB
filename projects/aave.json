@@ -20,13 +20,13 @@
       "title": "Aave Protocol Security Assessment",
       "date": "09/19",
       "auditor": "Trail of Bits",
-      "url": "https://github.com/trailofbits/publications/blob/master/reviews/aaveprotocol.pdf"
+      "url": "https://github.com/trailofbits/publications/blob/master/reviews/aaveprotocol.pdf",
+      "effort": "4 person-weeks."
     }
   ],
   "project": "Aave",
   "project_url": "https://aave.com/",
   "description": "Open Source and Non-Custodial protocol to earn interest on deposits & borrow assets.",
   "bounty": "https://aave.com/bug-bounty",
-  "bounty_max": "$25,000",
-  "effort": "4 person-weeks."
+  "bounty_max": "$25,000"
 }

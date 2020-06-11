@@ -9,7 +9,8 @@
       "title": "Paxos Security Assessment",
       "date": "10/18",
       "auditor": "Trail of Bits",
-      "url": "https://github.com/trailofbits/publications/blob/master/reviews/paxos.pdf"
+      "url": "https://github.com/trailofbits/publications/blob/master/reviews/paxos.pdf",
+      "effort": "4 person-weeks."
     },
     {
       "repos": [
@@ -25,6 +26,5 @@
   ],
   "project": "Paxos",
   "project_url": "https://www.paxos.com/",
-  "description": "Creating a Global, Frictionless Economy",
-  "effort": "4 person-weeks."
+  "description": "Creating a Global, Frictionless Economy"
 }

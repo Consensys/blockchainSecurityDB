@@ -9,11 +9,11 @@
       "title": "Sai Security Assessment",
       "date": "10/17",
       "auditor": "Trail of Bits",
-      "url": "https://github.com/trailofbits/publications/blob/master/reviews/sai.pdf"
+      "url": "https://github.com/trailofbits/publications/blob/master/reviews/sai.pdf",
+      "effort": "8 person-weeks"
     }
   ],
   "project": "Sai",
   "project_url": "https://github.com/makerdao/sai",
-  "description": "Sai is a simple single-collateral stablecoin that is dependent on a trusted oracle address and has a kill-switch.",
-  "effort": "8 person-weeks"
+  "description": "Sai is a simple single-collateral stablecoin that is dependent on a trusted oracle address and has a kill-switch."
 }

@@ -12,7 +12,7 @@ Mainframe is home to trustless fixed-rate lending and borrowing. Users get predi
 #### [Mainframe Secondary Audit](https://certificate.quantstamp.com/full/mainframe-secondary-audit)
 
 July, 2018<br>
-Audited by: Quantstamp<br>
+Audited by: Quantstamp<br>Effort: 2 auditors, 2 days.<br>
 [Repo](https://github.com/MainframeHQ/contracts/tree/ERC20)
       
 

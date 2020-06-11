@@ -31,7 +31,8 @@
       "title": "Compound Protocol Security Assessment",
       "date": "08/19",
       "auditor": "Trail of Bits",
-      "url": "https://github.com/trailofbits/publications/blob/master/reviews/compound-3.pdf"
+      "url": "https://github.com/trailofbits/publications/blob/master/reviews/compound-3.pdf",
+      "effort": "2 person-weeks."
     },
     {
       "repos": [
@@ -42,7 +43,8 @@
       "title": "Compound V2 Security Assessment",
       "date": "04/19",
       "auditor": "Trail of Bits",
-      "url": "https://github.com/trailofbits/publications/blob/master/reviews/compound-2.pdf"
+      "url": "https://github.com/trailofbits/publications/blob/master/reviews/compound-2.pdf",
+      "effort": "8 person-weeks."
     }
   ],
   "project": "Compound",
@@ -50,6 +52,5 @@
   "description": "An algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.",
   "bounty": "https://compound.finance/docs/security#bug-bounty",
   "bounty_max": "$150,000",
-  "security_contact": "security@compound.finance",
-  "effort": "8 person-weeks."
+  "security_contact": "security@compound.finance"
 }

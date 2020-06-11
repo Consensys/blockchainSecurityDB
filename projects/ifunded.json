@@ -5,11 +5,11 @@
       "title": "iFunded Audit",
       "date": "04/19",
       "auditor": "ConsenSys Diligence",
-      "url": "https://github.com/ConsenSys/ifunded-audit-internal-2019-04/"
+      "url": "https://github.com/ConsenSys/ifunded-audit-internal-2019-04/",
+      "effort": "4 auditors"
     }
   ],
   "project": "iFunded",
   "project_url": "https://ifunded.de/en/",
-  "description": "The digital real estate investment platform",
-  "effort": "4 auditors"
+  "description": "The digital real estate investment platform"
 }

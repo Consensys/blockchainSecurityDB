@@ -12,7 +12,7 @@ Status is a secure messaging app, crypto wallet, and Web3 browser built with sta
 #### [Status Mobile App Security Audit](https://our.status.im/status-mobile-app-security-audit-complete-ahead-of-v1-launch/)
 
 November, 2019<br>
-Audited by: Trail of Bits<br>
+Audited by: Trail of Bits<br>Effort: 9 person-weeks<br>
 [Repo](https://github.com/status-im/status-protocol-go)[Repo](https://github.com/status-im/status-go)[Repo](https://github.com/status-im/whisper)[Repo](https://github.com/status-im/status-react)
       
 

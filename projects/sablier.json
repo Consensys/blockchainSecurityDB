@@ -9,12 +9,12 @@
       "title": "Sablier Audit Report",
       "date": "10/19",
       "auditor": "Quantstamp",
-      "url": "https://certificate.quantstamp.com/full/sablier"
+      "url": "https://certificate.quantstamp.com/full/sablier",
+      "effort": "4 person-weeks"
     }
   ],
   "project": "Sablier",
   "project_url": "https://sablier.finance/",
   "description": "The protocol for real-time finance",
-  "effort": "4 person-weeks",
   "security_contact": "hello@sablier.finance"
 }

@@ -12,7 +12,7 @@ Digital currency that can be used by anyone, anywhere, anytime.
 #### [MCD Core Smart Contracts Security Assessment](https://github.com/trailofbits/publications/blob/master/reviews/mc-dai.pdf)
 
 August, 2019<br>
-Audited by: Trail of Bits<br>
+Audited by: Trail of Bits<br>Effort: 16 person-weeks.<br>
 [Repo](Listed in scope)
       
 

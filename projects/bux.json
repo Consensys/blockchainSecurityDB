@@ -1,0 +1,18 @@
+{
+  "project": "Bux",
+  "project_url": "https://getbux.com/",
+  "description": "The single destination for anyone who wants to do more with their money.",
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/blockport/tokensale"
+        }
+      ],
+      "title": "Blockport Crowdsale Audit",
+      "date": "01/18",
+      "auditor": "Authio",
+      "url": "https://github.com/authio-ethereum/Audits/blob/master/BlockportCrowdsale/Blockport%20Crowdsale%20Audit%20Report%20Updated%20Styling.pdf"
+    }
+  ]
+}

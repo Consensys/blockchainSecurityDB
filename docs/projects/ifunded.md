@@ -12,7 +12,7 @@ The digital real estate investment platform
 #### [iFunded Audit](https://github.com/ConsenSys/ifunded-audit-internal-2019-04/)
 
 April, 2019<br>
-Audited by: ConsenSys Diligence<br>
+Audited by: ConsenSys Diligence<br>Effort: 4 auditors<br>
 
       
 

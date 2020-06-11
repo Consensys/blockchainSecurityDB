@@ -5,11 +5,11 @@
       "title": "FOAM Token Controller Audit",
       "date": "08/18",
       "auditor": "ConsenSys Diligence",
-      "url": "https://github.com/f-o-a-m/public-research/blob/master/foam-controller-audit-report-2018-08-24-master.pdf"
+      "url": "https://github.com/f-o-a-m/public-research/blob/master/foam-controller-audit-report-2018-08-24-master.pdf",
+      "effort": "2 auditors, 7 days"
     }
   ],
   "project": "FOAM",
   "project_url": "https://foam.space/",
-  "description": "Tools to enable a crowdsourced map and decentralized location services.",
-  "effort": "2 auditors, 7 days"
+  "description": "Tools to enable a crowdsourced map and decentralized location services."
 }

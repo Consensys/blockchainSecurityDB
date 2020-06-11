@@ -9,11 +9,11 @@
       "title": "Origin Protocol Security Assessment",
       "date": "11/18",
       "auditor": "Trail of Bits",
-      "url": "https://github.com/trailofbits/publications/blob/master/reviews/origin.pdf"
+      "url": "https://github.com/trailofbits/publications/blob/master/reviews/origin.pdf",
+      "effort": "4 person-weeks."
     }
   ],
   "project": "Origin Protocol",
   "project_url": "https://www.originprotocol.com/en",
-  "description": "Revolutionizing how people shop and conduct business online.",
-  "effort": "4 person-weeks."
+  "description": "Revolutionizing how people shop and conduct business online."
 }

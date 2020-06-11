@@ -12,7 +12,7 @@ The SharesPost marketplace makes it easy to explore private growth companies, ac
 #### [SharesPost ERC20 Audit](https://certificate.quantstamp.com/full/shares-post-erc-20)
 
 January, 2019<br>
-Audited by: Quantstamp<br>
+Audited by: Quantstamp<br>Effort: 4 auditors, 24 days.<br>
 [Repo](https://github.com/privsecx/glass-poc)
       
 

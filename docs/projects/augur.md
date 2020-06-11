@@ -26,4 +26,4 @@ Max payout: $30,000
 
 ## Additional Info
 
-Security Contact: bounty@augur.net cat
+Security Contact: bounty@augur.net

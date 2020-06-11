@@ -9,11 +9,11 @@
       "title": "Interactive Crowdsale Audit",
       "date": "03/18",
       "auditor": "ConsenSys Diligence",
-      "url": "https://github.com/ConsenSys/Interactive-Crowdsale-Audit"
+      "url": "https://github.com/ConsenSys/Interactive-Crowdsale-Audit",
+      "effort": "2 auditors, 30 days"
     }
   ],
   "project": "Zabo",
   "project_url": "https://zabo.com/",
-  "description": "Connect any cryptocurrency",
-  "effort": "2 auditors, 30 days"
+  "description": "Connect any cryptocurrency"
 }

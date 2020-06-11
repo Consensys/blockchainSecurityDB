@@ -12,11 +12,11 @@
       "title": "Ampleforth Ethereum Protocol Security Assessment",
       "date": "11/18",
       "auditor": "Trail of Bits",
-      "url": "https://github.com/trailofbits/publications/blob/master/reviews/ampleforth.pdf"
+      "url": "https://github.com/trailofbits/publications/blob/master/reviews/ampleforth.pdf",
+      "effort": "4 person-weeks."
     }
   ],
   "project": "Ampleforth",
   "project_url": "https://www.ampleforth.org/",
-  "description": "Synthetic commodity money",
-  "effort": "4 person-weeks."
+  "description": "Synthetic commodity money"
 }

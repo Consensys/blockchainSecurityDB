@@ -20,7 +20,7 @@ Audited by: OpenZeppelin<br>
 #### [Golem Security Assessment](https://github.com/trailofbits/publications/blob/master/reviews/golem.pdf)
 
 April, 2018<br>
-Audited by: Trail of Bits<br>
+Audited by: Trail of Bits<br>Effort: 4 person-weeks.<br>
 [Repo](https://github.com/golemfactory/golem)
       
 

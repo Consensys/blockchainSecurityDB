@@ -39,7 +39,7 @@ function separateJsonProjects(indexes) {
         newProject.audits[lastIndex].repos.push(Object.assign({url: project["Repo"]}));
       }
     }
-    project["Person-Weeks Effort"] ? newProject.effort = project["Person-Weeks Effort"] : null;
+    project["Person-Weeks Effort"] ? newProject.audits[index].effort = project["Person-Weeks Effort"] : null;
     project["Bounty URL"] ? newProject.bounty = project["Bounty URL"] : null;
     project["Bounty Max Payout"] ? newProject.bounty_max = project["Bounty Max Payout"] : null;
     project["Security Contact Email"] ? newProject.security_contact = project["Security Contact Email"] : null;

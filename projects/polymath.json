@@ -9,7 +9,8 @@
       "title": "Polymath-Core Audit",
       "date": "05/19",
       "auditor": "ConsenSys Diligence",
-      "url": "https://github.com/ConsenSys/polymath-audit-report-2019-04"
+      "url": "https://github.com/ConsenSys/polymath-audit-report-2019-04",
+      "effort": "3 auditors"
     },
     {
       "repos": [
@@ -37,6 +38,5 @@
   "project": "Polymath",
   "project_url": "https://polymath.network/",
   "description": "Polymath makes it easy to create, issue, and manage digital securities on the blockchain.",
-  "effort": "3 auditors",
   "security_contact": "support@polymath.zendesk.com"
 }

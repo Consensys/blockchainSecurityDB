@@ -12,7 +12,7 @@ Polymath makes it easy to create, issue, and manage digital securities on the bl
 #### [Polymath-Core Audit](https://github.com/ConsenSys/polymath-audit-report-2019-04)
 
 May, 2019<br>
-Audited by: ConsenSys Diligence<br>
+Audited by: ConsenSys Diligence<br>Effort: 3 auditors<br>
 [Repo](https://github.com/PolymathNetwork/polymath-core/releases/tag/3.0.0-audit)
       
 

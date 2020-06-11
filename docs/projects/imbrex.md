@@ -12,7 +12,7 @@ Syndicates real estate data into a new kind of globally accessible network, wher
 #### [RexMLS Smart Contracts Audit](https://drive.google.com/file/d/1KCFBTMK5dQeqxzmOsjs-fxeLmi7P12F1/view)
 
 June, 2018<br>
-Audited by: ConsenSys Diligence<br>
+Audited by: ConsenSys Diligence<br>Effort: 1 auditor<br>
 
       
 

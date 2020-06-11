@@ -9,7 +9,8 @@
       "title": "Uniswap Audit",
       "date": "01/19",
       "auditor": "ConsenSys Diligence",
-      "url": "https://github.com/ConsenSys/Uniswap-audit-report-2018-12"
+      "url": "https://github.com/ConsenSys/Uniswap-audit-report-2018-12",
+      "effort": "5 auditors"
     },
     {
       "repos": [
@@ -29,7 +30,6 @@
   "project": "Uniswap",
   "project_url": "https://uniswap.org/",
   "description": "A fully decentralized protocol for automated liquidity provision on Ethereum.",
-  "effort": "5 auditors",
   "bounty": "https://uniswap.org/bug-bounty/",
   "bounty_max": "$40,000",
   "security_contact": "contact@uniswap.io"
