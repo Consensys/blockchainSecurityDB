@@ -60,7 +60,7 @@ ${auditMdArr[i] !== undefined ? auditMdArr[i] : ''}
   `
 
   const tableRowMd = `
-|[${jsonFile.project}](projects/${fileName}.md)|${jsonFile.description}|${auditMd}|${jsonFile.bounty ? jsonFile.bounty : ''}|${jsonFile.bounty ? jsonFile.bounty_max : ''}|${jsonFile.security_contact ? jsonFile.security_contact : ''}|
+|[${jsonFile.project}](projects/${fileName}.md)|${jsonFile.description}|${auditMd}|${jsonFile.bounty ? jsonFile.bounty : ''}|${jsonFile.bounty ? jsonFile.bounty_max : ''}|
   `
   
   const formattedtableRowMd = tableRowMd.split('\n').join('');
@@ -77,8 +77,8 @@ function createProjectTable() {
   const tableStarterMd = 
 `# Projects
 
-|Title|Description|Audits|Bounty Program|Max Bounty|Security Contact|
-|-----|-----------|------|--------------|----------|----------------|`
+|Title|Description|Audits|Bounty Program|Max Bounty|
+|-----|-----------|------|--------------|----------|`
 
   const writePath = path.join(__dirname, '../docs');
 
