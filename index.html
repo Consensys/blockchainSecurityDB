@@ -7,7 +7,7 @@
         
         
         <link rel="shortcut icon" href="img/favicon.ico">
-        <title>Audit DB</title>
+        <title>Blockchain Security DB</title>
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <link href="css/font-awesome.min.css" rel="stylesheet">
         <link href="css/base.css" rel="stylesheet">
@@ -20,7 +20,10 @@
     <body class="homepage">
         <div class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
             <div class="container">
-                <a class="navbar-brand" href=".">Audit DB</a>
+                <a class="navbar-brand" href=".">
+                  <img src="/img/logo.png" alt="ConsenSys Diligence" class="nav-logo" />
+                  Blockchain Security DB
+                </a>
                 <!-- Expander button -->
                 <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
                     <span class="navbar-toggler-icon"></span>
@@ -29,6 +32,11 @@
                 <!-- Expanded navigation -->
                 <div id="navbar-collapse" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav ml-auto">
+                      <li class="nav-item">
+                        <a href="https://github.com/ConsenSys/blockchainSecurityDB" class="nav-link" target="_blank">
+                          <i class="fa fa-github"></i> Github
+                        </a>
+                      </li>
                         <li class="nav-item">
                             <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
                                 <i class="fa fa-search"></i> Search
@@ -43,882 +51,666 @@
             <div class="row">
                     <div role="main">
 
-<h1 id="projects">Projects</h1>
+<h1 id="blockchain-security-db">Blockchain Security DB</h1>
+<p>The Blockchain Security DB is an open-source database created by ConsenSys Diligence for all things blockchain security. The database contains a catalog of blockchain projects with details pertaining to their security including audits, bounties, and security contacts. Click on the name of the project in the project column to see more details about a project. To add or update a project, see <a href="https://github.com/ConsenSys/blockchainSecurityDB#add-or-update-a-project">this guide</a>.</p>
+<p>This project simply serves as an aggregation of blockchain security data, and does not guarantee the security of any particular project. </p>
 <table>
 <thead>
 <tr>
-<th>Title</th>
-<th>Description</th>
+<th>Project</th>
 <th>Audits</th>
 <th>Bounty Program</th>
 <th>Max Bounty</th>
-<th>Security Contact</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><a href="projects/0x-protocol/">0x Protocol</a></td>
-<td>An open protocol that enables the peer-to-peer exchange of assets on the Ethereum blockchain.</td>
+<td><a href="projects/0x-protocol/">0x Protocol</a><br>An open protocol that enables the peer-to-peer exchange of assets on the Ethereum blockchain.</td>
 <td><ul><li><a href="https://diligence.consensys.net/audits/2019/10/0x-v3-staking/">0x v3 Staking Audit (ConsenSys Diligence, Oct. 2019)</a></li>    <li><a href="https://diligence.consensys.net/audits/2019/09/0x-v3-exchange/">0x v3 Exchange Audit (ConsenSys Diligence, Sep. 2019)</a></li>    <li><a href="https://github.com/ConsenSys/0x-audit-report-2019-05">0x ERC1155Proxy Audit (ConsenSys Diligence, May. 2019)</a></li>    <li><a href="https://github.com/ConsenSys/0x-audit-report-2018-12">0x MultiAssetProxy Audit (ConsenSys Diligence, Dec. 2018)</a></li>    <li><a href="https://github.com/ConsenSys/0x_audit_report_2018-07-23">0x Protocol v2 Audit (ConsenSys Diligence, Sep. 2018)</a></li>    <li><a href="https://github.com/ConsenSys/0x-review/blob/master/report/1_process.md">0x Review (ConsenSys Diligence, Aug. 2017)</a></li>    <li><a href="https://github.com/trailofbits/publications/blob/master/reviews/0x-protocol.pdf">0x Protocol Security Assessment (Trail of Bits, Oct. 2019)</a></li>    </ul></td>
 <td>https://0x.org/docs/guides/bug-bounty-program</td>
 <td>$100,000</td>
-<td>team@0xproject.com</td>
 </tr>
 <tr>
-<td><a href="projects/aave/">Aave</a></td>
-<td>Open Source and Non-Custodial protocol to earn interest on deposits &amp; borrow assets.</td>
+<td><a href="projects/aave/">Aave</a><br>Open Source and Non-Custodial protocol to earn interest on deposits &amp; borrow assets.</td>
 <td><ul><li><a href="https://blog.openzeppelin.com/aave-protocol-audit/">Aave Protocol Audit (OpenZeppelin, Jan. 2020)</a></li>    <li><a href="https://github.com/trailofbits/publications/blob/master/reviews/aaveprotocol.pdf">Aave Protocol Security Assessment (Trail of Bits, Sep. 2019)</a></li>    </ul></td>
 <td>https://aave.com/bug-bounty</td>
 <td>$25,000</td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/airswap/">Airswap</a></td>
-<td>AirSwap enables peer-to-peer trading on the Ethereum blockchain.</td>
+<td><a href="projects/airswap/">Airswap</a><br>AirSwap enables peer-to-peer trading on the Ethereum blockchain.</td>
 <td><ul><li><a href="https://github.com/airswap/contracts-v1/blob/master/audits/nick-johnson/token.md">Nick Johnson Airswap Token Audit (Nick Johnson, Sep. 2017)</a></li>    <li><a href="https://github.com/airswap/contracts-v1/blob/master/audits/nick-johnson/exchange.md">Nick Johnson Airswap Exchange Audit (Nick Johnson, Sep. 2017)</a></li>    <li><a href="https://github.com/airswap/contracts-v1/blob/master/audits/phil-daian/airswap-token-contract-audit-v0.pdf">Airswap Token Contract Launch Audit (Philip Daian, Oct. 2017)</a></li>    <li><a href="https://github.com/airswap/contracts-v1/blob/master/audits/phil-daian/airswap-exchange-contract-audit-v0.pdf">Airswap Exchange Contract Launch Audit (Philip Daian, Sep. 2017)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td>bounty@airswap.io</td>
 </tr>
 <tr>
-<td><a href="projects/ampleforth/">Ampleforth</a></td>
-<td>Synthetic commodity money</td>
+<td><a href="projects/ampleforth/">Ampleforth</a><br>Synthetic commodity money</td>
 <td><ul><li><a href="https://github.com/trailofbits/publications/blob/master/reviews/ampleforth.pdf">Ampleforth Ethereum Protocol Security Assessment (Trail of Bits, Nov. 2018)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/aragon/">Aragon</a></td>
-<td>Aragon gives internet communities unprecedented power to organize around shared values and resources.</td>
+<td><a href="projects/aragon/">Aragon</a><br>Aragon gives internet communities unprecedented power to organize around shared values and resources.</td>
 <td><ul><li><a href="https://github.com/ConsenSys/aragon-daotemplates-audit-report-2019-08">Aragon DAO Templates Audit (ConsenSys Diligence, Aug. 2019)</a></li>    <li><a href="https://github.com/ConsenSys/aragon-payroll-audit-report-2019-06">Aragon Payroll Application Audit (ConsenSys Diligence, Jul. 2019)</a></li>    <li><a href="https://github.com/ConsenSys/aragon_audit_report_2018-06-04_extended/blob/master/Aragon-Audit-final.md">AragonOS and Aragon Apps Audit (ConsenSys Diligence, Oct. 2018)</a></li>    </ul></td>
 <td>https://wiki.aragon.org/association/security/an_bug_bounty/</td>
 <td>$50,000</td>
-<td>security@aragon.org</td>
 </tr>
 <tr>
-<td><a href="projects/atomic-loans/">Atomic Loans</a></td>
-<td>Non-custodial Bitcoin-backed loans.</td>
+<td><a href="projects/atomic-loans/">Atomic Loans</a><br>Non-custodial Bitcoin-backed loans.</td>
 <td><ul><li><a href="https://github.com/ConsenSys/atomic-loans-audit-report-2019-07">Atomic Loans Audit (ConsenSys Diligence, Jul. 2019)</a></li>    <li><a href="https://diligence.consensys.net/audits/2019/09/atomic-loans/">Atomic Loans Audit (ConsenSys Diligence, Sep. 2019)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/augur/">Augur</a></td>
-<td>The world’s most accessible, no-limit betting exchange.</td>
+<td><a href="projects/augur/">Augur</a><br>The world’s most accessible, no-limit betting exchange.</td>
 <td><ul><li><a href="https://blog.openzeppelin.com/augur-core-audit-244160d77c09/">Augur Core Audit (OpenZeppelin, Mar. 2018)</a></li>    </ul></td>
 <td>https://www.augur.net/blog/v2-bug-bounty/</td>
 <td>$30,000</td>
-<td>bounty@augur.net</td>
 </tr>
 <tr>
-<td><a href="projects/babb/">BABB</a></td>
-<td>Empowers users to do everything from storing and managing their assets to fundraising and donating to causes all over the world.</td>
+<td><a href="projects/babb/">BABB</a><br>Empowers users to do everything from storing and managing their assets to fundraising and donating to causes all over the world.</td>
 <td><ul><li><a href="https://blog.openzeppelin.com/bax-token-audit-85fe7b186c89/">Bax Token Audit (OpenZeppelin, Feb. 2018)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/basic-attention-token/">Basic Attention Token</a></td>
-<td>Blockchain-based digital advertising.</td>
-<td><ul><li><a href="https://blog.openzeppelin.com/basic-attention-token-bat-audit-88bf196df64b/">Basic Attention Token (BAT) Audit (OpenZeppelin, May. 2017)</a></li>    </ul></td>
-<td>https://hackerone.com/brave</td>
-<td>$500</td>
-<td>security@brave.com</td>
-</tr>
-<tr>
-<td><a href="projects/bitclave/">BitClave</a></td>
-<td>Make your data work for you</td>
-<td><ul><li><a href="https://blog.openzeppelin.com/bitclave-token-audit-570b0c664eb0/">BitClave Token Audit (OpenZeppelin, Nov. 2017)</a></li>    </ul></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="projects/bancor-network/">Bancor Network</a></td>
-<td>Your smart crypto wallet</td>
+<td><a href="projects/bancor-network/">Bancor Network</a><br>Your smart crypto wallet</td>
 <td><ul><li><a href="https://gist.github.com/Arachnid/c65fd1bd61a8e0294aef95a4808edc78">Bancor Audit (Nick Johnson, May. 2017)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td>security@bancor.network</td>
 </tr>
 <tr>
-<td><a href="projects/blockchaincapital/">BlockchainCapital</a></td>
-<td>Blockchain Capital is a leading venture firm in the blockchain industry</td>
+<td><a href="projects/basic-attention-token/">Basic Attention Token</a><br>Blockchain-based digital advertising.</td>
+<td><ul><li><a href="https://blog.openzeppelin.com/basic-attention-token-bat-audit-88bf196df64b/">Basic Attention Token (BAT) Audit (OpenZeppelin, May. 2017)</a></li>    </ul></td>
+<td>https://hackerone.com/brave</td>
+<td>$500</td>
+</tr>
+<tr>
+<td><a href="projects/bitclave/">BitClave</a><br>Make your data work for you</td>
+<td><ul><li><a href="https://blog.openzeppelin.com/bitclave-token-audit-570b0c664eb0/">BitClave Token Audit (OpenZeppelin, Nov. 2017)</a></li>    </ul></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="projects/blockchaincapital/">BlockchainCapital</a><br>Blockchain Capital is a leading venture firm in the blockchain industry</td>
 <td><ul><li><a href="https://blog.openzeppelin.com/blockchain-capital-token-audit-68e882d14f0/">Blockchain Capital Token Audit (OpenZeppelin, Apr. 2017)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/blockstate/">BlockState</a></td>
-<td>BlockState is a Swiss security token platform for non-bankable assets such as SME equity and debt or real estate.</td>
+<td><a href="projects/blockstate/">BlockState</a><br>BlockState is a Swiss security token platform for non-bankable assets such as SME equity and debt or real estate.</td>
 <td><ul><li><a href="https://blog.smartdec.net/blockstate-smart-contracts-security-analysis-bba30e8100ff">BlockState Smart Contracts Security Analysis (SmartDec, Nov. 2018)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/bounties-network/">Bounties Network</a></td>
-<td>Create projects, collaborate, and get paid for doing great work in any domain.</td>
+<td><a href="projects/bounties-network/">Bounties Network</a><br>Create projects, collaborate, and get paid for doing great work in any domain.</td>
 <td><ul><li><a href="https://github.com/ConsenSys/bounties-audit-report-2019-03">Bounties Network Audit (ConsenSys Diligence, Mar. 2019)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/brickblock/">Brickblock</a></td>
-<td>Help fund managers save time, cut costs, and offer a superior investor experience.</td>
+<td><a href="projects/brickblock/">Brickblock</a><br>Help fund managers save time, cut costs, and offer a superior investor experience.</td>
 <td><ul><li><a href="https://github.com/brickblock-io/smart-contracts/blob/master/docs/audits/2018-09-20%20-%20Full%20Ecosystem%20%5BPhase%202%5D%20-%20Audit%20by%20ConsenSys%20final.pdf">Brickblock [Phase 2] Audit (ConsenSys Diligence, Jun. 2018)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td>security@brickblock.io</td>
 </tr>
 <tr>
-<td><a href="projects/bux/">Bux</a></td>
-<td>The single destination for anyone who wants to do more with their money.</td>
+<td><a href="projects/bux/">Bux</a><br>The single destination for anyone who wants to do more with their money.</td>
 <td><ul><li><a href="https://github.com/authio-ethereum/Audits/blob/master/BlockportCrowdsale/Blockport%20Crowdsale%20Audit%20Report%20Updated%20Styling.pdf">Blockport Crowdsale Audit (Authio, Jan. 2018)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/bzx/">bZx</a></td>
-<td>The most powerful open finance protocol</td>
+<td><a href="projects/bzx/">bZx</a><br>The most powerful open finance protocol</td>
 <td><ul><li><a href="https://github.com/mattdf/audits/blob/master/bZx/bzx-audit.pdf">bZx Network Smart Contracts Audit by ZK Labs (ZK Labs, Sep. 2018)</a></li>    <li><a href="https://bzx.network/pdfs/CertiK%20Verification%20Report%20for%20bZx.pdf">bZx Audit Report (Certik, Feb. 2020)</a></li>    </ul></td>
 <td>https://medium.com/@KyleJKistner/introducing-the-bzx-bug-bounty-program-ad74d3171444</td>
 <td>$5,000</td>
-<td>team@bzx.network</td>
 </tr>
 <tr>
-<td><a href="projects/centre/">Centre</a></td>
-<td>Connecting every person, every merchant, every financial service, every currency. Everywhere.</td>
+<td><a href="projects/centre/">Centre</a><br>Connecting every person, every merchant, every financial service, every currency. Everywhere.</td>
 <td><ul><li><a href="https://blog.openzeppelin.com/centre-token-minting-contracts-audit-6e723177d44b/">Centre Token Minting Contracts Audit (OpenZeppelin, Apr. 2019)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td>usdc-security@circle.com</td>
 </tr>
 <tr>
-<td><a href="projects/coinfix/">Coinfix</a></td>
-<td>Enterprise crypto payment solution. Engineeredfor security and versatility.</td>
+<td><a href="projects/coinfix/">Coinfix</a><br>Enterprise crypto payment solution. Engineeredfor security and versatility.</td>
 <td><ul><li><a href="https://blog.openzeppelin.com/coinfix-token-audit-c4a0e64190bf/">Coinfix Token Audit (OpenZeppelin, Jan. 2018)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/coinvest/">Coinvest</a></td>
-<td>Coinvest develops solutions to empower the world to execute financial services using blockchain technology.</td>
+<td><a href="projects/coinvest/">Coinvest</a><br>Coinvest develops solutions to empower the world to execute financial services using blockchain technology.</td>
 <td><ul><li><a href="https://github.com/authio-ethereum/Audits/blob/master/CoinvestTokenV2/Coinvest%20Token%20V2%20Audit%20by%20Authio%20Updated%20Styling.pdf">Coinvest Token V2 Audit (Authio, May. 2018)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/compound/">Compound</a></td>
-<td>An algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.</td>
+<td><a href="projects/compound/">Compound</a><br>An algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.</td>
 <td><ul><li><a href="https://blog.openzeppelin.com/compound-finance-patch-audit/">Compound Finance – Timelock Audit (OpenZeppelin, Oct. 2019)</a></li>    <li><a href="https://blog.openzeppelin.com/compound-audit/">Compound Audit (OpenZeppelin, Aug. 2019)</a></li>    <li><a href="https://github.com/trailofbits/publications/blob/master/reviews/compound-3.pdf">Compound Protocol Security Assessment (Trail of Bits, Aug. 2019)</a></li>    <li><a href="https://github.com/trailofbits/publications/blob/master/reviews/compound-2.pdf">Compound V2 Security Assessment (Trail of Bits, Apr. 2019)</a></li>    </ul></td>
 <td>https://compound.finance/docs/security#bug-bounty</td>
 <td>$150,000</td>
-<td>security@compound.finance</td>
 </tr>
 <tr>
-<td><a href="projects/computable/">Computable</a></td>
-<td>Buy, Sell, and Invest in independent data cooperatives governed by code.</td>
+<td><a href="projects/computable/">Computable</a><br>Buy, Sell, and Invest in independent data cooperatives governed by code.</td>
 <td><ul><li><a href="https://github.com/trailofbits/publications/blob/master/reviews/computable.pdf">The Computable Protocol Security Assessment (Trail of Bits, Jun. 2019)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/cosmos/">Cosmos</a></td>
-<td>The foundation for a new token economy</td>
+<td><a href="projects/cosmos/">Cosmos</a><br>The foundation for a new token economy</td>
 <td><ul><li><a href="https://blog.openzeppelin.com/cosmos-fundraiser-audit-7543a57335a4/">COSMOS Fundraiser Audit (OpenZeppelin, Apr. 2017)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/daisy/">Daisy</a></td>
-<td>Daisy's software enables businesses to accept cryptocurrency for purchases, subscriptions, usage fees and other payments.</td>
+<td><a href="projects/daisy/">Daisy</a><br>Daisy's software enables businesses to accept cryptocurrency for purchases, subscriptions, usage fees and other payments.</td>
 <td><ul><li><a href="https://github.com/ConsenSys/daisy-audit-report-2019-08">Daisy: Subscription Contracts Audit (ConsenSys Diligence, Aug. 2019)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/daostack/">DAOstack</a></td>
-<td>DAOstack is an open source project advancing the technology and adoption of decentralized governance.</td>
+<td><a href="projects/daostack/">DAOstack</a><br>DAOstack is an open source project advancing the technology and adoption of decentralized governance.</td>
 <td><ul><li><a href="https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_DAOstack_v2.pdf">Security Audit of DAOStack's Smart Contracts (ChainSecurity, Jan. 2019)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/dapphub/">DappHub</a></td>
-<td>Suite of blockchain-oriented developer tools in the spirit of Unix Philosophy</td>
+<td><a href="projects/dapphub/">DappHub</a><br>Suite of blockchain-oriented developer tools in the spirit of Unix Philosophy</td>
 <td><ul><li><a href="https://github.com/trailofbits/publications/blob/master/reviews/dapphub.pdf">DappHub Security Assessment (Trail of Bits, Dec. 2017)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/decentraland/">Decentraland</a></td>
-<td>Create, explore and trade in the first-ever virtual world owned by its users.</td>
+<td><a href="projects/decentraland/">Decentraland</a><br>Create, explore and trade in the first-ever virtual world owned by its users.</td>
 <td><ul><li><a href="https://blog.openzeppelin.com/decentraland-mana-token-audit-ee56a6bca708/">Decentraland MANA Token Audit (OpenZeppelin, Jul. 2017)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td>hello@decentraland.org</td>
 </tr>
 <tr>
-<td><a href="projects/dharma/">Dharma</a></td>
-<td>Send money to anyone. Earn interest everywhere.</td>
+<td><a href="projects/dharma/">Dharma</a><br>Send money to anyone. Earn interest everywhere.</td>
 <td><ul><li><a href="https://blog.openzeppelin.com/dharma-audit-2f1386455688/">Dharma Audit (OpenZeppelin, Jul. 2018)</a></li>    <li><a href="https://github.com/trailofbits/publications/blob/master/reviews/dharma-smartwallet.pdf">Dharma Labs Smart Wallet Security Assessment (Trail of Bits, Oct. 2019)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td>security@dharma.io</td>
 </tr>
 <tr>
-<td><a href="projects/digipharm/">Digipharm</a></td>
-<td>Accelerating the digital transformation to outcome-based healthcare</td>
+<td><a href="projects/digipharm/">Digipharm</a><br>Accelerating the digital transformation to outcome-based healthcare</td>
 <td><ul><li><a href="https://medium.com/@abhi_blockchain/digipharm-smart-contract-audit-report-a877c8e82fd6">Digipharm Smart Contract Audit Report (Quillhash, Jun. 2019)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/digix/">Digix</a></td>
-<td>The future of gold is digital</td>
+<td><a href="projects/digix/">Digix</a><br>The future of gold is digital</td>
 <td><ul><li><a href="https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Digix.pdf">Security Audit of Digix's Smart Contracts (ChainSecurity, Dec. 2018)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/dydx/">dYdX</a></td>
-<td>The most powerful open trading platform for crypto assets</td>
+<td><a href="projects/dydx/">dYdX</a><br>The most powerful open trading platform for crypto assets</td>
 <td><ul><li><a href="https://blog.openzeppelin.com/solo-margin-protocol-audit-30ac2aaf6b10/">Solo Margin Protocol Audit (OpenZeppelin, Apr. 2019)</a></li>    </ul></td>
 <td>https://integral.dydx.exchange/perpetual-bug-bounty/</td>
 <td>$50,000</td>
-<td>security@dydx.exchange</td>
 </tr>
 <tr>
-<td><a href="projects/eco/">Eco</a></td>
-<td>A better way to pay</td>
+<td><a href="projects/eco/">Eco</a><br>A better way to pay</td>
 <td><ul><li><a href="https://blog.openzeppelin.com/eco-contracts-audit/">Eco Contracts Audit (OpenZeppelin, Jan. 2020)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/emusic/">eMusic</a></td>
-<td>A blockchain-based music distribution platform that pays artists more fairly and efficiently.</td>
+<td><a href="projects/emusic/">eMusic</a><br>A blockchain-based music distribution platform that pays artists more fairly and efficiently.</td>
 <td><ul><li><a href="https://github.com/authio-ethereum/Audits/blob/master/eMusic/eMusic%20EMU%20Token%20Audit.pdf">EMU Token Smart Contracts Audit (Authio, Apr. 2019)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/enigma/">Enigma</a></td>
-<td>Enigma builds and supports groundbreaking privacy-focused technologies and networks.</td>
+<td><a href="projects/enigma/">Enigma</a><br>Enigma builds and supports groundbreaking privacy-focused technologies and networks.</td>
 <td><ul><li><a href="https://blog.openzeppelin.com/enigma-token-audit-91111e0b7f8a/">Enigma Token Audit (OpenZeppelin, Oct. 2017)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/ethereum-name-service/">Ethereum Name Service</a></td>
-<td>A secure &amp; decentralised way to address resources both on and off the blockchain using simple, human-readable names.</td>
+<td><a href="projects/ethereum-name-service/">Ethereum Name Service</a><br>A secure &amp; decentralised way to address resources both on and off the blockchain using simple, human-readable names.</td>
 <td><ul><li><a href="https://diligence.consensys.net/audits/2019/03/ens-permanent-registrar/">ENS Permanent Registrar Audit (ConsenSys Diligence, Mar. 2019)</a></li>    </ul></td>
 <td>https://bounty.ethereum.org/#bounties</td>
 <td>undefined</td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/ethex/">Ethex</a></td>
-<td>First provably fair crypto ETH Lottery!</td>
+<td><a href="projects/ethex/">Ethex</a><br>First provably fair crypto ETH Lottery!</td>
 <td><ul><li><a href="https://blog.smartdec.net/ethex-smart-contracts-security-analysis-104cf067fd02">Ethex Smart Contracts Security Analysis (SmartDec, Nov. 2019)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/everus/">Everus</a></td>
-<td>The First Wallet for you to earn hassle-free</td>
+<td><a href="projects/everus/">Everus</a><br>The First Wallet for you to earn hassle-free</td>
 <td><ul><li><a href="https://blog.openzeppelin.com/everus-token-audit-a05f0959534e/">Everus Token Audit (OpenZeppelin, Oct. 2017)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/fiinu/">Fiinu</a></td>
-<td>Fiinu is in the pre-application phase to obtain necessary licenses from the UK regulatory authorities.</td>
+<td><a href="projects/fiinu/">Fiinu</a><br>Fiinu is in the pre-application phase to obtain necessary licenses from the UK regulatory authorities.</td>
 <td><ul><li><a href="https://blog.openzeppelin.com/fiinu-token-audit-c62ecbf63ad1/">Fiinu Token Audit (OpenZeppelin, Oct. 2017)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/flexa/">Flexa</a></td>
-<td>The fastest, most fraud-proof payments network in the world.</td>
+<td><a href="projects/flexa/">Flexa</a><br>The fastest, most fraud-proof payments network in the world.</td>
 <td><ul><li><a href="https://github.com/trailofbits/publications/blob/master/reviews/Flexa.pdf">Flexa Security Assessment (Trail of Bits, Sep. 2019)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/foam/">FOAM</a></td>
-<td>Tools to enable a crowdsourced map and decentralized location services.</td>
+<td><a href="projects/foam/">FOAM</a><br>Tools to enable a crowdsourced map and decentralized location services.</td>
 <td><ul><li><a href="https://github.com/f-o-a-m/public-research/blob/master/foam-controller-audit-report-2018-08-24-master.pdf">FOAM Token Controller Audit (ConsenSys Diligence, Aug. 2018)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/gnosis/">Gnosis</a></td>
-<td>Gnosis builds new market mechanisms for open finance.</td>
+<td><a href="projects/gnosis/">Gnosis</a><br>Gnosis builds new market mechanisms for open finance.</td>
 <td><ul><li><a href="https://blog.openzeppelin.com/gnosis-multisig-wallet-audit-d702ff0e2b1e/">Gnosis Multisig Wallet Audit (OpenZeppelin, Mar. 2018)</a></li>    </ul></td>
 <td>https://blog.gnosis.pm/2020-dex-bug-bounty-210f2b67a764</td>
 <td>$50,000</td>
-<td>info@gnosis.pm</td>
 </tr>
 <tr>
-<td><a href="projects/golem/">Golem</a></td>
-<td>Golem is a global, open source, decentralized supercomputer that anyone can access</td>
+<td><a href="projects/golem/">Golem</a><br>Golem is a global, open source, decentralized supercomputer that anyone can access</td>
 <td><ul><li><a href="https://blog.openzeppelin.com/golem-network-token-gnt-audit-edfa4a45bc32/">Golem Network Token (GNT) Audit (OpenZeppelin, Nov. 2016)</a></li>    <li><a href="https://github.com/trailofbits/publications/blob/master/reviews/golem.pdf">Golem Security Assessment (Trail of Bits, Apr. 2018)</a></li>    </ul></td>
 <td>https://blog.golemproject.net/golem-bug-bounty-competition/</td>
 <td>$15,000</td>
-<td>contact@golem.network</td>
 </tr>
 <tr>
-<td><a href="projects/hivepower/">HivePower</a></td>
-<td>Hive Power is accompanying energy utilities through the digitalisation and decentralisation processes, using state of the art machine learning and blockchain technologies.</td>
+<td><a href="projects/hivepower/">HivePower</a><br>Hive Power is accompanying energy utilities through the digitalisation and decentralisation processes, using state of the art machine learning and blockchain technologies.</td>
 <td><ul><li><a href="https://blog.smartdec.net/hivepower-smart-contracts-security-analysis-e0a8f6ec772b">HivePower Smart Contracts Security Analysis (SmartDec, Jun. 2018)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/hopper/">Hopper</a></td>
-<td>Open-Source Mixer for Mobile-friendly private transfers on Ethereum.</td>
+<td><a href="projects/hopper/">Hopper</a><br>Open-Source Mixer for Mobile-friendly private transfers on Ethereum.</td>
 <td><ul><li><a href="https://blog.smartdec.net/hopper-smart-contracts-security-audit-b40b0e1b60a1">Hopper Smart Contracts Security Audit (SmartDec, Aug. 2019)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/idle-finance/">Idle Finance</a></td>
-<td>Earn the yield you deserve without worry about finding the best option, either if you want to optimize returns or risks.</td>
+<td><a href="projects/idle-finance/">Idle Finance</a><br>Earn the yield you deserve without worry about finding the best option, either if you want to optimize returns or risks.</td>
 <td><ul><li><a href="https://certificate.quantstamp.com/full/idle-finance">Idle Finance Audit (Quantstamp, May. 2020)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td>security@idle.finance</td>
 </tr>
 <tr>
-<td><a href="projects/iexec/">iExec</a></td>
-<td>Decentralized cloud computing</td>
+<td><a href="projects/iexec/">iExec</a><br>Decentralized cloud computing</td>
 <td><ul><li><a href="https://blog.openzeppelin.com/iex-ec-rlc-token-audit-80abd763709b/">iEx.ec RLC Token Audit (OpenZeppelin, Apr. 2017)</a></li>    <li><a href="https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_iExec.pdf">iExec Security Audit of PoCo Smart Contracts (ChainSecurity, May. 2018)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/imbrex/">Imbrex</a></td>
-<td>Syndicates real estate data into a new kind of globally accessible network, where data is locally sourced, validated and secured via the Ethereum blockchain, smart contracts and cryptoeconomics.</td>
-<td><ul><li><a href="https://drive.google.com/file/d/1KCFBTMK5dQeqxzmOsjs-fxeLmi7P12F1/view">RexMLS Smart Contracts Audit (ConsenSys Diligence, Jun. 2018)</a></li>    </ul></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="projects/instadapp/">InstaDApp</a></td>
-<td>Trustless Smart Accounts for DeFi.</td>
-<td><ul><li><a href="https://blog.openzeppelin.com/instadapp-audit/">InstaDApp Audit (OpenZeppelin, Sep. 2019)</a></li>    </ul></td>
-<td></td>
-<td></td>
-<td>info@instadapp.io</td>
-</tr>
-<tr>
-<td><a href="projects/kin/">Kin</a></td>
-<td>A new way to engage, grow, and monetize your digital community.</td>
-<td><ul><li><a href="https://blog.openzeppelin.com/kin-token-audit-121788c06fe/">Kin Token Audit (OpenZeppelin, Sep. 2017)</a></li>    </ul></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="projects/kyber-network/">Kyber Network</a></td>
-<td>On-chain liquidity protocol that aggregates liquidity from a wide range of reserves, powering instant and secure token exchange in any decentralized application.</td>
-<td><ul><li><a href="https://blog.smartdec.net/kyber-network-smart-contracts-security-analysis-508d0a0f8637">Kyber Network Smart Contracts Security Analysis (SmartDec, Jul. 2019)</a></li>    <li><a href="https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_KyberNetwork.pdf">Expert Security Audit of Kyber Network V2 (ChainSecurity, Jun. 2018)</a></li>    </ul></td>
-<td></td>
-<td></td>
-<td>hello@kyber.network</td>
-</tr>
-<tr>
-<td><a href="projects/livepeer/">Livepeer</a></td>
-<td>Open source video infrastructure services, built on the Ethereum blockchain.</td>
-<td><ul><li><a href="https://github.com/trailofbits/publications/blob/master/reviews/livepeer.pdf">Livepeer Security Assessment (Trail of Bits, Mar. 2018)</a></li>    </ul></td>
-<td>https://github.com/livepeer/wiki/wiki/Bug-Bounty</td>
-<td>$2,500</td>
-<td>security@livepeer.org</td>
-</tr>
-<tr>
-<td><a href="projects/ledgerium/">Ledgerium</a></td>
-<td>Every transaction. Every where. Every time.</td>
-<td><ul><li><a href="https://github.com/authio-ethereum/Audits/blob/master/Ledgerium/Ledgerium%20Token%20Contract%20Audit.pdf">Ledgerium Security Assessment: Final Report (Authio, Jan. 2018)</a></li>    </ul></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="projects/mainframe/">Mainframe</a></td>
-<td>Mainframe is home to trustless fixed-rate lending and borrowing. Users get predictable exposure to assets without volatile interest rates.</td>
-<td><ul><li><a href="https://certificate.quantstamp.com/full/mainframe-secondary-audit">Mainframe Secondary Audit (Quantstamp, Jul. 2018)</a></li>    </ul></td>
-<td></td>
-<td></td>
-<td>security@mainframe.com</td>
-</tr>
-<tr>
-<td><a href="projects/market-protocol/">MARKET Protocol</a></td>
-<td>MARKET Protocol allows users to trade the price of anything while leveraging the benefits of the blockchain.</td>
-<td><ul><li><a href="https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_MARKET_Protocol.pdf">Security Audit of Market Protocol Smart Contracts (ChainSecurity, May. 2019)</a></li>    </ul></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="projects/marmo/">Marmo</a></td>
-<td>Marmo SDK simplifies interactions with the Ethereum network, allowing you to focus on building great blockchain products without worrying about the blockchain.</td>
-<td><ul><li><a href="https://blog.openzeppelin.com/marmo-contracts-audit-3c17e9642120/">Marmo Contracts Audit (OpenZeppelin, Apr. 2019)</a></li>    </ul></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="projects/melon/">Melon</a></td>
-<td>The infrastructure for asset management 3.0</td>
-<td><ul><li><a href="https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Melon.pdf">Security Audit of Melon's Smart Contracts (ChainSecurity, Mar. 2019)</a></li>    </ul></td>
-<td>https://medium.com/melonprotocol/melon-bug-bounty-program-b33f7d4a80a6</td>
-<td>$10,000</td>
-<td>security@melonport.com</td>
-</tr>
-<tr>
-<td><a href="projects/metal/">Metal</a></td>
-<td>Make money better by using crypto.</td>
-<td><ul><li><a href="https://blog.openzeppelin.com/metal-token-audit-d7e4dbf17bcf/">Metal Token Audit (OpenZeppelin, Jun. 2017)</a></li>    </ul></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="projects/mercury-protocol/">Mercury Protocol</a></td>
-<td>A suite of smart contracts and software services that enables a trustworthy, meaningful, and providerless communication layer for consumer app developers.</td>
-<td><ul><li><a href="https://blog.openzeppelin.com/global-messaging-token-audit-865e6a821cd8/">Global Messaging Token Audit (OpenZeppelin, Oct. 2017)</a></li>    </ul></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="projects/money-on-chain/">Money on Chain</a></td>
-<td>Defi for Bitcoin</td>
-<td><ul><li><a href="https://blog.coinfabrik.com/money-on-chain-security-audit-iv/">Money on Chain Security Audit IV (CoinFabrik, Dec. 2019)</a></li>    <li><a href="https://blog.coinfabrik.com/money-on-chain-security-audit-iii/">Money on Chain Security Audit III (CoinFabrik, Jul. 2019)</a></li>    <li><a href="https://blog.coinfabrik.com/money-on-chain-gas-cost/">Money on Chain Gas Cost (CoinFabrik, Nov. 2019)</a></li>    <li><a href="https://blog.coinfabrik.com/money-on-chain-security-audit-i/">Money on Chain Security Audit I (CoinFabrik, Nov. 2019)</a></li>    </ul></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="projects/monolith/">Monolith</a></td>
-<td>Everything you would expect from a financial platform, built for the DeFi economy.</td>
-<td><ul><li><a href="https://github.com/trailofbits/publications/blob/master/reviews/TokenCard.pdf">TokenCard Security Assessment (Trail of Bits, May. 2019)</a></li>    </ul></td>
-<td>https://hackerone.com/monolith</td>
-<td>$10,000</td>
-<td></td>
-</tr>
-<tr>
-<td><a href="projects/multi-collateral-dai/">Multi-Collateral Dai</a></td>
-<td>Digital currency that can be used by anyone, anywhere, anytime.</td>
-<td><ul><li><a href="https://github.com/trailofbits/publications/blob/master/reviews/mc-dai.pdf">MCD Core Smart Contracts Security Assessment (Trail of Bits, Aug. 2019)</a></li>    </ul></td>
-<td>https://hackerone.com/makerdao_bbp/hacktivity?order_direction=DESC&amp;order_field=popular&amp;filter=type%3Abounty-awarded</td>
-<td>$100,000</td>
-<td>infosec@makerdao.com</td>
-</tr>
-<tr>
-<td><a href="projects/my-wish/">My Wish</a></td>
-<td>Create your smart contract without coding</td>
-<td><ul><li><a href="https://github.com/authio-ethereum/Audits/blob/master/MyWish/MyWish%20Token%20Audit.pdf">My Wish ERC20 Token Audit (Authio, Oct. 2018)</a></li>    </ul></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="projects/nahmii/">Nahmii</a></td>
-<td>The future of blockchain scaling today</td>
-<td><ul><li><a href="https://blog.coinfabrik.com/nahmii-security-audit/">Nahmii Security Audit (CoinFabrik, Nov. 2019)</a></li>    </ul></td>
-<td></td>
-<td></td>
-<td>security@hubii.com</td>
-</tr>
-<tr>
-<td><a href="projects/nucypher/">NuCypher</a></td>
-<td>Cryptographic infrastructure for privacy-preserving applications</td>
-<td><ul><li><a href="https://github.com/trailofbits/publications/blob/master/reviews/nucypher-2.pdf">NuCypher Security Assessment (Trail of Bits, Feb. 2019)</a></li>    <li><a href="https://github.com/trailofbits/publications/blob/master/reviews/nucypher.pdf">NuCypher Security Assessment (Trail of Bits, Aug. 2018)</a></li>    </ul></td>
-<td></td>
-<td></td>
-<td>security@nucypher.com</td>
-</tr>
-<tr>
-<td><a href="projects/numerai/">Numerai</a></td>
-<td>The hardest data science tournament on the planet.</td>
-<td><ul><li><a href="https://github.com/trailofbits/publications/blob/master/reviews/numerai.pdf">Numerai Security Assessment (Trail of Bits, May. 2019)</a></li>    </ul></td>
-<td>https://docs.numer.ai/tournament/bounties</td>
-<td>100 NMR</td>
-<td>security@numer.ai</td>
-</tr>
-<tr>
-<td><a href="projects/ifunded/">iFunded</a></td>
-<td>The digital real estate investment platform</td>
+<td><a href="projects/ifunded/">iFunded</a><br>The digital real estate investment platform</td>
 <td><ul><li><a href="https://github.com/ConsenSys/ifunded-audit-internal-2019-04/">iFunded Audit (ConsenSys Diligence, Apr. 2019)</a></li>    </ul></td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td><a href="projects/imbrex/">Imbrex</a><br>Syndicates real estate data into a new kind of globally accessible network, where data is locally sourced, validated and secured via the Ethereum blockchain, smart contracts and cryptoeconomics.</td>
+<td><ul><li><a href="https://drive.google.com/file/d/1KCFBTMK5dQeqxzmOsjs-fxeLmi7P12F1/view">RexMLS Smart Contracts Audit (ConsenSys Diligence, Jun. 2018)</a></li>    </ul></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td><a href="projects/nexus-mutual/">Nexus Mutual</a></td>
-<td>A people-powered alternative to insurance</td>
+<td><a href="projects/instadapp/">InstaDApp</a><br>Trustless Smart Accounts for DeFi.</td>
+<td><ul><li><a href="https://blog.openzeppelin.com/instadapp-audit/">InstaDApp Audit (OpenZeppelin, Sep. 2019)</a></li>    </ul></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="projects/kin/">Kin</a><br>A new way to engage, grow, and monetize your digital community.</td>
+<td><ul><li><a href="https://blog.openzeppelin.com/kin-token-audit-121788c06fe/">Kin Token Audit (OpenZeppelin, Sep. 2017)</a></li>    </ul></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="projects/kyber-network/">Kyber Network</a><br>On-chain liquidity protocol that aggregates liquidity from a wide range of reserves, powering instant and secure token exchange in any decentralized application.</td>
+<td><ul><li><a href="https://blog.smartdec.net/kyber-network-smart-contracts-security-analysis-508d0a0f8637">Kyber Network Smart Contracts Security Analysis (SmartDec, Jul. 2019)</a></li>    <li><a href="https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_KyberNetwork.pdf">Expert Security Audit of Kyber Network V2 (ChainSecurity, Jun. 2018)</a></li>    </ul></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="projects/ledgerium/">Ledgerium</a><br>Every transaction. Every where. Every time.</td>
+<td><ul><li><a href="https://github.com/authio-ethereum/Audits/blob/master/Ledgerium/Ledgerium%20Token%20Contract%20Audit.pdf">Ledgerium Security Assessment: Final Report (Authio, Jan. 2018)</a></li>    </ul></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="projects/livepeer/">Livepeer</a><br>Open source video infrastructure services, built on the Ethereum blockchain.</td>
+<td><ul><li><a href="https://github.com/trailofbits/publications/blob/master/reviews/livepeer.pdf">Livepeer Security Assessment (Trail of Bits, Mar. 2018)</a></li>    </ul></td>
+<td>https://github.com/livepeer/wiki/wiki/Bug-Bounty</td>
+<td>$2,500</td>
+</tr>
+<tr>
+<td><a href="projects/mainframe/">Mainframe</a><br>Mainframe is home to trustless fixed-rate lending and borrowing. Users get predictable exposure to assets without volatile interest rates.</td>
+<td><ul><li><a href="https://certificate.quantstamp.com/full/mainframe-secondary-audit">Mainframe Secondary Audit (Quantstamp, Jul. 2018)</a></li>    </ul></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="projects/market-protocol/">MARKET Protocol</a><br>MARKET Protocol allows users to trade the price of anything while leveraging the benefits of the blockchain.</td>
+<td><ul><li><a href="https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_MARKET_Protocol.pdf">Security Audit of Market Protocol Smart Contracts (ChainSecurity, May. 2019)</a></li>    </ul></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="projects/melon/">Melon</a><br>The infrastructure for asset management 3.0</td>
+<td><ul><li><a href="https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Melon.pdf">Security Audit of Melon's Smart Contracts (ChainSecurity, Mar. 2019)</a></li>    </ul></td>
+<td>https://medium.com/melonprotocol/melon-bug-bounty-program-b33f7d4a80a6</td>
+<td>$10,000</td>
+</tr>
+<tr>
+<td><a href="projects/marmo/">Marmo</a><br>Marmo SDK simplifies interactions with the Ethereum network, allowing you to focus on building great blockchain products without worrying about the blockchain.</td>
+<td><ul><li><a href="https://blog.openzeppelin.com/marmo-contracts-audit-3c17e9642120/">Marmo Contracts Audit (OpenZeppelin, Apr. 2019)</a></li>    </ul></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="projects/mercury-protocol/">Mercury Protocol</a><br>A suite of smart contracts and software services that enables a trustworthy, meaningful, and providerless communication layer for consumer app developers.</td>
+<td><ul><li><a href="https://blog.openzeppelin.com/global-messaging-token-audit-865e6a821cd8/">Global Messaging Token Audit (OpenZeppelin, Oct. 2017)</a></li>    </ul></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="projects/metal/">Metal</a><br>Make money better by using crypto.</td>
+<td><ul><li><a href="https://blog.openzeppelin.com/metal-token-audit-d7e4dbf17bcf/">Metal Token Audit (OpenZeppelin, Jun. 2017)</a></li>    </ul></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="projects/money-on-chain/">Money on Chain</a><br>Defi for Bitcoin</td>
+<td><ul><li><a href="https://blog.coinfabrik.com/money-on-chain-security-audit-iv/">Money on Chain Security Audit IV (CoinFabrik, Dec. 2019)</a></li>    <li><a href="https://blog.coinfabrik.com/money-on-chain-security-audit-iii/">Money on Chain Security Audit III (CoinFabrik, Jul. 2019)</a></li>    <li><a href="https://blog.coinfabrik.com/money-on-chain-gas-cost/">Money on Chain Gas Cost (CoinFabrik, Nov. 2019)</a></li>    <li><a href="https://blog.coinfabrik.com/money-on-chain-security-audit-i/">Money on Chain Security Audit I (CoinFabrik, Nov. 2019)</a></li>    </ul></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="projects/multi-collateral-dai/">Multi-Collateral Dai</a><br>Digital currency that can be used by anyone, anywhere, anytime.</td>
+<td><ul><li><a href="https://github.com/trailofbits/publications/blob/master/reviews/mc-dai.pdf">MCD Core Smart Contracts Security Assessment (Trail of Bits, Aug. 2019)</a></li>    </ul></td>
+<td>https://hackerone.com/makerdao_bbp/hacktivity?order_direction=DESC&amp;order_field=popular&amp;filter=type%3Abounty-awarded</td>
+<td>$100,000</td>
+</tr>
+<tr>
+<td><a href="projects/monolith/">Monolith</a><br>Everything you would expect from a financial platform, built for the DeFi economy.</td>
+<td><ul><li><a href="https://github.com/trailofbits/publications/blob/master/reviews/TokenCard.pdf">TokenCard Security Assessment (Trail of Bits, May. 2019)</a></li>    </ul></td>
+<td>https://hackerone.com/monolith</td>
+<td>$10,000</td>
+</tr>
+<tr>
+<td><a href="projects/my-wish/">My Wish</a><br>Create your smart contract without coding</td>
+<td><ul><li><a href="https://github.com/authio-ethereum/Audits/blob/master/MyWish/MyWish%20Token%20Audit.pdf">My Wish ERC20 Token Audit (Authio, Oct. 2018)</a></li>    </ul></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="projects/nahmii/">Nahmii</a><br>The future of blockchain scaling today</td>
+<td><ul><li><a href="https://blog.coinfabrik.com/nahmii-security-audit/">Nahmii Security Audit (CoinFabrik, Nov. 2019)</a></li>    </ul></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="projects/nexus-mutual/">Nexus Mutual</a><br>A people-powered alternative to insurance</td>
 <td><ul><li><a href="https://www.scribd.com/document/411077416/Solidified-Audit-Report-Nexus-Mutual-20-05-2019">Solidified Audit Report for Nexus Mutual (Solidified, Apr. 2019)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td>security@nexusmutual.io</td>
 </tr>
 <tr>
-<td><a href="projects/omisego/">OmiseGo</a></td>
-<td>OmiseGO enables businesses and individuals to securely offer and access a wide range of financial services, and invest, exchange and spend digital assets anytime, anywhere.</td>
+<td><a href="projects/nucypher/">NuCypher</a><br>Cryptographic infrastructure for privacy-preserving applications</td>
+<td><ul><li><a href="https://github.com/trailofbits/publications/blob/master/reviews/nucypher-2.pdf">NuCypher Security Assessment (Trail of Bits, Feb. 2019)</a></li>    <li><a href="https://github.com/trailofbits/publications/blob/master/reviews/nucypher.pdf">NuCypher Security Assessment (Trail of Bits, Aug. 2018)</a></li>    </ul></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="projects/numerai/">Numerai</a><br>The hardest data science tournament on the planet.</td>
+<td><ul><li><a href="https://github.com/trailofbits/publications/blob/master/reviews/numerai.pdf">Numerai Security Assessment (Trail of Bits, May. 2019)</a></li>    </ul></td>
+<td>https://docs.numer.ai/tournament/bounties</td>
+<td>100 NMR</td>
+</tr>
+<tr>
+<td><a href="projects/omisego/">OmiseGo</a><br>OmiseGO enables businesses and individuals to securely offer and access a wide range of financial services, and invest, exchange and spend digital assets anytime, anywhere.</td>
 <td><ul><li><a href="https://diligence.consensys.net/audits/2020/01/omisego-morevp/">Omisego Morevp Audit (ConsenSys Diligence, Jan. 2020)</a></li>    <li><a href="https://certificate.quantstamp.com/full/omisego-plasma-mvp">Omisego Plasma MVP Audit (Quantstamp, Oct. 2018)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/origin-protocol/">Origin Protocol</a></td>
-<td>Revolutionizing how people shop and conduct business online.</td>
-<td><ul><li><a href="https://github.com/trailofbits/publications/blob/master/reviews/origin.pdf">Origin Protocol Security Assessment (Trail of Bits, Nov. 2018)</a></li>    </ul></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="projects/ost-platform/">OST Platform</a></td>
-<td>Enables developers to seamlessly embed Ethereum wallets into mainstream applications to benefit from zero-fee micro-transactions.</td>
-<td><ul><li><a href="https://blog.openzeppelin.com/simple-token-sale-audit-30e5f2365463/">Simple Token Sale Audit (OpenZeppelin, Nov. 2017)</a></li>    </ul></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="projects/paxos/">Paxos</a></td>
-<td>Creating a Global, Frictionless Economy</td>
-<td><ul><li><a href="https://github.com/trailofbits/publications/blob/master/reviews/paxos.pdf">Paxos Security Assessment (Trail of Bits, Oct. 2018)</a></li>    <li><a href="https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Paxos.pdf">Security Audit of Paxos's Smart Contracts (ChainSecurity, Sep. 2018)</a></li>    </ul></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="projects/poa-network/">POA Network</a></td>
-<td>POA Network encompasses an EVM blockchain as well as product development for the entire Ethereum ecosystem</td>
-<td><ul><li><a href="https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_PoA.pdf">Security Audit of POA Network's Smart Contracts (ChainSecurity, Sep. 2018)</a></li>    <li><a href="https://github.com/authio-ethereum/Audits/blob/master/POANetwork/PoA%20Network%20Contract%20Audit%20Updated%20Styling.pdf">POA Network Contract Audit (Authio, Oct. 2017)</a></li>    </ul></td>
-<td></td>
-<td></td>
-<td>security@poanetwork.com</td>
-</tr>
-<tr>
-<td><a href="projects/polymath/">Polymath</a></td>
-<td>Polymath makes it easy to create, issue, and manage digital securities on the blockchain.</td>
-<td><ul><li><a href="https://github.com/ConsenSys/polymath-audit-report-2019-04">Polymath-Core Audit (ConsenSys Diligence, May. 2019)</a></li>    <li><a href="https://blog.openzeppelin.com/polymath-audit-be55e9936aba/">Polymath Audit (OpenZeppelin, Feb. 2018)</a></li>    <li><a href="https://blog.coinfabrik.com/polymath-core-audit/">Polymath Core Audit (CoinFabrik, Nov. 2019)</a></li>    </ul></td>
-<td></td>
-<td></td>
-<td>support@polymath.zendesk.com</td>
-</tr>
-<tr>
-<td><a href="projects/orchid-network/">Orchid Network</a></td>
-<td>A truly decentralized VPN service.</td>
+<td><a href="projects/orchid-network/">Orchid Network</a><br>A truly decentralized VPN service.</td>
 <td><ul><li><a href="https://diligence.consensys.net/audits/2019/11/orchid-network-protocol/">Orchid Network Protocol Audit (ConsenSys Diligence, Nov. 2019)</a></li>    </ul></td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td><a href="projects/origin-protocol/">Origin Protocol</a><br>Revolutionizing how people shop and conduct business online.</td>
+<td><ul><li><a href="https://github.com/trailofbits/publications/blob/master/reviews/origin.pdf">Origin Protocol Security Assessment (Trail of Bits, Nov. 2018)</a></li>    </ul></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td><a href="projects/pegasys/">Pegasys</a></td>
-<td>Comercially licensed enterprise Ethereum client</td>
+<td><a href="projects/ost-platform/">OST Platform</a><br>Enables developers to seamlessly embed Ethereum wallets into mainstream applications to benefit from zero-fee micro-transactions.</td>
+<td><ul><li><a href="https://blog.openzeppelin.com/simple-token-sale-audit-30e5f2365463/">Simple Token Sale Audit (OpenZeppelin, Nov. 2017)</a></li>    </ul></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="projects/paxos/">Paxos</a><br>Creating a Global, Frictionless Economy</td>
+<td><ul><li><a href="https://github.com/trailofbits/publications/blob/master/reviews/paxos.pdf">Paxos Security Assessment (Trail of Bits, Oct. 2018)</a></li>    <li><a href="https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Paxos.pdf">Security Audit of Paxos's Smart Contracts (ChainSecurity, Sep. 2018)</a></li>    </ul></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="projects/pegasys/">Pegasys</a><br>Comercially licensed enterprise Ethereum client</td>
 <td><ul><li><a href="https://diligence.consensys.net/audits/2019/08/pegasys-permissioning/">Pegasys Permissioning Audit (ConsenSys Diligence, Aug. 2019)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td>security@pegasys.tech</td>
 </tr>
 <tr>
-<td><a href="projects/props/">PROPS</a></td>
-<td>A new way for apps to reward users with a financial stake in the network</td>
-<td><ul><li><a href="https://blog.openzeppelin.com/props-rewards-engine-contracts-audit/">PROPS Rewards Engine Contracts Audit (OpenZeppelin, Sep. 2019)</a></li>    <li><a href="https://blog.openzeppelin.com/props-token-contracts-audit-2/">PROPS Token Contracts Audit (OpenZeppelin, Sep. 2019)</a></li>    </ul></td>
-<td></td>
+<td><a href="projects/poa-network/">POA Network</a><br>POA Network encompasses an EVM blockchain as well as product development for the entire Ethereum ecosystem</td>
+<td><ul><li><a href="https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_PoA.pdf">Security Audit of POA Network's Smart Contracts (ChainSecurity, Sep. 2018)</a></li>    <li><a href="https://github.com/authio-ethereum/Audits/blob/master/POANetwork/PoA%20Network%20Contract%20Audit%20Updated%20Styling.pdf">POA Network Contract Audit (Authio, Oct. 2017)</a></li>    </ul></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td><a href="projects/pooltogether/">PoolTogether</a></td>
-<td>A no-loss, audited savings game powered by blockchain technology</td>
+<td><a href="projects/polymath/">Polymath</a><br>Polymath makes it easy to create, issue, and manage digital securities on the blockchain.</td>
+<td><ul><li><a href="https://github.com/ConsenSys/polymath-audit-report-2019-04">Polymath-Core Audit (ConsenSys Diligence, May. 2019)</a></li>    <li><a href="https://blog.openzeppelin.com/polymath-audit-be55e9936aba/">Polymath Audit (OpenZeppelin, Feb. 2018)</a></li>    <li><a href="https://blog.coinfabrik.com/polymath-core-audit/">Polymath Core Audit (CoinFabrik, Nov. 2019)</a></li>    </ul></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="projects/pooltogether/">PoolTogether</a><br>A no-loss, audited savings game powered by blockchain technology</td>
 <td><ul><li><a href="https://blog.openzeppelin.com/pooltogether-audit/">PoolTogether Audit (OpenZeppelin, Jan. 2020)</a></li>    </ul></td>
 <td>https://github.com/pooltogether/pooltogether-contracts/issues/1</td>
 <td>$25,000</td>
-<td>hello@pooltogether.us</td>
 </tr>
 <tr>
-<td><a href="projects/pumapay/">PumaPay</a></td>
-<td>First ever comprehensive crypto payment solution for businesses</td>
+<td><a href="projects/props/">PROPS</a><br>A new way for apps to reward users with a financial stake in the network</td>
+<td><ul><li><a href="https://blog.openzeppelin.com/props-rewards-engine-contracts-audit/">PROPS Rewards Engine Contracts Audit (OpenZeppelin, Sep. 2019)</a></li>    <li><a href="https://blog.openzeppelin.com/props-token-contracts-audit-2/">PROPS Token Contracts Audit (OpenZeppelin, Sep. 2019)</a></li>    </ul></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="projects/pumapay/">PumaPay</a><br>First ever comprehensive crypto payment solution for businesses</td>
 <td><ul><li><a href="https://blog.smartdec.net/pumapay-smart-contracts-security-analysis-fe851f293e3b">РumaPay Smart Contracts Security Analysis (SmartDec, Oct. 2019)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/qiibee/">Qiibee</a></td>
-<td>The global standard for loyalty on the blockchain</td>
+<td><a href="projects/qiibee/">Qiibee</a><br>The global standard for loyalty on the blockchain</td>
 <td><ul><li><a href="https://blog.openzeppelin.com/qiibee-token-audit-b19c03262f99/">Qiibee Token Audit (OpenZeppelin, Dec. 2017)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/rate3/">Rate3</a></td>
-<td>Creating a connected tokenized world</td>
+<td><a href="projects/rate3/">Rate3</a><br>Creating a connected tokenized world</td>
 <td><ul><li><a href="https://blog.smartdec.net/rate3-smart-contracts-security-analysis-41a6a3971ca">Rate3 Smart Contracts Security Analysis (SmartDec, Dec. 2018)</a></li>    <li><a href="https://blog.smartdec.net/rate3-smart-contracts-security-analysis-e95439201785">Rate3 Smart Contracts Security Audit (SmartDec, Apr. 2018)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/ren/">Ren</a></td>
-<td>Liquidity, unchained.</td>
+<td><a href="projects/ren/">Ren</a><br>Liquidity, unchained.</td>
 <td><ul><li><a href="https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Republic.pdf">Security Audit of Republic Protocol's Smart Contracts (ChainSecurity, Oct. 2018)</a></li>    </ul></td>
 <td>https://renproject.zendesk.com/hc/en-us/articles/360007788613-Official-Terms-Conditions-of-the-Ren-Bounties-Bounty-Program</td>
 <td>undefined</td>
-<td>security@republicprotocol.com</td>
 </tr>
 <tr>
-<td><a href="projects/rndr/">RNDR</a></td>
-<td>Distributed GPU rendering on the blockchain</td>
-<td><ul><li><a href="https://blog.openzeppelin.com/rndr-token-transfer-audit-74b21356b849/">RNDR Token Transfer Audit (OpenZeppelin, Nov. 2018)</a></li>    <li><a href="https://blog.openzeppelin.com/render-token-audit-2a078ba6d759/">Render Token Audit (OpenZeppelin, Sep. 2017)</a></li>    </ul></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="projects/sablier/">Sablier</a></td>
-<td>The protocol for real-time finance</td>
+<td><a href="projects/sablier/">Sablier</a><br>The protocol for real-time finance</td>
 <td><ul><li><a href="https://certificate.quantstamp.com/full/sablier">Sablier Audit Report (Quantstamp, Oct. 2019)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td>hello@sablier.finance</td>
 </tr>
 <tr>
-<td><a href="projects/sharespost/">SharesPost</a></td>
-<td>The SharesPost marketplace makes it easy to explore private growth companies, access investment opportunities and find liquidity.</td>
-<td><ul><li><a href="https://certificate.quantstamp.com/full/shares-post-erc-20">SharesPost ERC20 Audit (Quantstamp, Jan. 2019)</a></li>    </ul></td>
-<td></td>
+<td><a href="projects/rndr/">RNDR</a><br>Distributed GPU rendering on the blockchain</td>
+<td><ul><li><a href="https://blog.openzeppelin.com/rndr-token-transfer-audit-74b21356b849/">RNDR Token Transfer Audit (OpenZeppelin, Nov. 2018)</a></li>    <li><a href="https://blog.openzeppelin.com/render-token-audit-2a078ba6d759/">Render Token Audit (OpenZeppelin, Sep. 2017)</a></li>    </ul></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td><a href="projects/sai/">Sai</a></td>
-<td>Sai is a simple single-collateral stablecoin that is dependent on a trusted oracle address and has a kill-switch.</td>
+<td><a href="projects/sai/">Sai</a><br>Sai is a simple single-collateral stablecoin that is dependent on a trusted oracle address and has a kill-switch.</td>
 <td><ul><li><a href="https://github.com/trailofbits/publications/blob/master/reviews/sai.pdf">Sai Security Assessment (Trail of Bits, Oct. 2017)</a></li>    </ul></td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td><a href="projects/sharespost/">SharesPost</a><br>The SharesPost marketplace makes it easy to explore private growth companies, access investment opportunities and find liquidity.</td>
+<td><ul><li><a href="https://certificate.quantstamp.com/full/shares-post-erc-20">SharesPost ERC20 Audit (Quantstamp, Jan. 2019)</a></li>    </ul></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td><a href="projects/smart-valor/">Smart Valor</a></td>
-<td>Europe's premier digital asset exchange</td>
-<td><ul><li><a href="https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_SmartValor.pdf">Security Audit of Smart Valor's Smart Contracts (ChainSecurity, Oct. 2018)</a></li>    </ul></td>
-<td>https://news.smartvalor.com/bug-bounty/</td>
-<td>10,000 Valor</td>
-<td>support@smartvalor.com</td>
-</tr>
-<tr>
-<td><a href="projects/simple-wallet/">Simple Wallet</a></td>
-<td>A simple multisig wallet</td>
+<td><a href="projects/simple-wallet/">Simple Wallet</a><br>A simple multisig wallet</td>
 <td><ul><li><a href="https://diligence.consensys.net/files/SimpleMultisigWallet_Audit.pdf">Simple MultiSig Wallet Audit (ConsenSys Diligence, Sep. 2018)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/sonm/">Sonm</a></td>
-<td>Decentralized fog computing platform</td>
+<td><a href="projects/smart-valor/">Smart Valor</a><br>Europe's premier digital asset exchange</td>
+<td><ul><li><a href="https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_SmartValor.pdf">Security Audit of Smart Valor's Smart Contracts (ChainSecurity, Oct. 2018)</a></li>    </ul></td>
+<td>https://news.smartvalor.com/bug-bounty/</td>
+<td>10,000 Valor</td>
+</tr>
+<tr>
+<td><a href="projects/sonm/">Sonm</a><br>Decentralized fog computing platform</td>
 <td><ul><li><a href="https://blog.smartdec.net/sonm-smart-contracts-security-analysis-f24e1da6b467">SONM Smart Contracts Security Analysis (SmartDec, Aug. 2018)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/status/">Status</a></td>
-<td>Status is a secure messaging app, crypto wallet, and Web3 browser built with state of the art technology.</td>
+<td><a href="projects/status/">Status</a><br>Status is a secure messaging app, crypto wallet, and Web3 browser built with state of the art technology.</td>
 <td><ul><li><a href="https://our.status.im/status-mobile-app-security-audit-complete-ahead-of-v1-launch/">Status Mobile App Security Audit (Trail of Bits, Nov. 2019)</a></li>    </ul></td>
 <td>https://gist.github.com/adambabik/7e1c9148610a64fbeb953eaf1b742456</td>
 <td>$50,000</td>
-<td>security@status.im</td>
 </tr>
 <tr>
-<td><a href="projects/stokr/">STOKR</a></td>
-<td>Invest in companies you believe in. Built on the blockchain for more independency, more transparency and no middlemen.</td>
+<td><a href="projects/stokr/">STOKR</a><br>Invest in companies you believe in. Built on the blockchain for more independency, more transparency and no middlemen.</td>
 <td><ul><li><a href="https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_STOKR.pdf">Security Audit of STOKR's Smart Contracts (ChainSecurity, Apr. 2019)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/storj/">Storj</a></td>
-<td>Decentralized cloud storage</td>
+<td><a href="projects/storj/">Storj</a><br>Decentralized cloud storage</td>
 <td><ul><li><a href="https://blog.openzeppelin.com/storj-token-audit-32a9af082797/">Storj Token Audit (OpenZeppelin, Jun. 2017)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td>hello@storj.io</td>
 </tr>
 <tr>
-<td><a href="projects/switcheo/">Switcheo</a></td>
-<td>Trustless and secure multi-chain trading experience.</td>
+<td><a href="projects/switcheo/">Switcheo</a><br>Trustless and secure multi-chain trading experience.</td>
 <td><ul><li><a href="https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Switcheo.pdf">Security Audit of Switcheo's Smart Contracts (ChainSecurity, Nov. 2018)</a></li>    </ul></td>
 <td>https://medium.com/switcheo/switcheo-bug-bounty-program-f9283d0ff42b</td>
 <td>undefined</td>
-<td>security@switcheo.network</td>
 </tr>
 <tr>
-<td><a href="projects/synthetix/">Synthetix</a></td>
-<td>A protocol for trading synthetic assets on Ethereum</td>
+<td><a href="projects/synthetix/">Synthetix</a><br>A protocol for trading synthetic assets on Ethereum</td>
 <td><ul><li><a href="https://github.com/sigp/public-audits/blob/master/havven-2018-04-05/README.md">Havven eUSD Audit (Sigma Prime, Apr. 2018)</a></li>    <li><a href="https://github.com/sigp/public-audits/blob/master/havven-2018-06-06/havven-review.pdf">Havven nUSD Audit (Sigma Prime, Jun. 2018)</a></li>    <li><a href="https://blog.synthetix.io/havven-validated-by-cryptecon-analysis/">Havven nUSD Economics Audits (Cryptecon, Jun. 2018)</a></li>    <li><a href="https://github.com/sigp/public-audits/blob/master/havven-2018-06-18/review.pdf">Havven Issuance Controller Audit (Sigma Prime, Jun. 2018)</a></li>    <li><a href="https://github.com/sigp/public-audits/blob/master/synthetix/multicurrency/review.pdf">Synthetix Multicurrency (Sigma Prime, Jan. 2019)</a></li>    <li><a href="https://www.iosiro.com/audits/synthetix-phase-1-smart-contract-audit">Synthetix Phase 1 Smart Contract Audit (iosiro, Feb. 2019)</a></li>    <li><a href="https://www.iosiro.com/audits/synthetix-phase-2-smart-contract-audit">Synthetix Phase 2 Smart Contract Audit (iosiro, Aug. 2019)</a></li>    <li><a href="https://github.com/sigp/public-audits/blob/master/synthetix/unipool/review.pdf">sETH LP Rewards (SIP-31) (Sigma Prime, Feb. 2020)</a></li>    <li><a href="https://www.iosiro.com/audits/synthetix-sip37-smart-contract-audit">Synthetix SIP-37 Smart Contract Audit (iosiro, Feb. 2020)</a></li>    <li><a href="https://github.com/sigp/public-audits/blob/master/synthetix/ethercollateral/review.pdf">Skinny Ether Collateral (SIP-35) (Sigma Prime, Feb. 2020)</a></li>    <li><a href="https://iosiro.com/audits/synthetix-pr-435-smart-contract-audit">Synthetix PR-435 Smart Contract Audit (iosiro, Feb. 2020)</a></li>    <li><a href="https://github.com/sigp/public-audits/blob/master/synthetix/delegates/review.pdf">One week claims and advanced delegation (SIP-9, SIP-10, SIP-14) (Sigma Prime, Mar. 2020)</a></li>    <li><a href="https://iosiro.com/audits/synthetix-sip-44-and-sip-46-smart-contract-audit">Synthetix SIP-44 and SIP-46 Smart Contract Audit (iosiro, Mar. 2020)</a></li>    </ul></td>
 <td>https://blog.synthetix.io/synthetix-bug-bounties/</td>
 <td>$5,000</td>
-<td>security@synthetix.io</td>
 </tr>
 <tr>
-<td><a href="projects/tierion/">Tierion</a></td>
-<td>Tierion creates technology and products that reduce the cost and complexity of trust.</td>
-<td><ul><li><a href="https://blog.openzeppelin.com/tierion-network-token-audit-163850fd1787/">Tierion Network Token Audit (OpenZeppelin, Aug. 2017)</a></li>    <li><a href="https://blog.openzeppelin.com/tierion-presale-audit-ec14b91c3140/">Tierion Presale Audit (OpenZeppelin, Jul. 2017)</a></li>    </ul></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="projects/tokenbridge/">TokenBridge</a></td>
-<td>Blockchain bridge to global stock markets</td>
-<td><ul><li><a href="https://blog.smartdec.net/tokenbridge-by-poa-network-smart-contracts-security-analysis-156c509abe5f">TokenBridge (by POA Network) Smart Contracts Security Analysis (SmartDec, Jul. 2019)</a></li>    </ul></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="projects/timvi/">Timvi</a></td>
-<td>Use this convenient DeFi platform to earn an annual interest, make investments, exchange assets and borrow funds to boost your profits.</td>
-<td><ul><li><a href="https://blog.coinfabrik.com/timvi-smart-contract-audit/">Timvi Smart Contract Audit (CoinFabrik, Nov. 2019)</a></li>    </ul></td>
-<td>https://timvi.com/bounty-program.html</td>
-<td>$15,000</td>
-<td></td>
-</tr>
-<tr>
-<td><a href="projects/tokensets/">TokenSets</a></td>
-<td>Automated asset management strategies</td>
-<td><ul><li><a href="https://github.com/trailofbits/publications/blob/master/reviews/setprotocol.pdf">Set Protocol Security Assessment (Trail of Bits, Mar. 2019)</a></li>    </ul></td>
-<td>https://medium.com/set-protocol/introducing-the-set-protocol-bug-bounty-program-5790f16d2b8c</td>
-<td>$50,000</td>
-<td>security@setprotocol.com</td>
-</tr>
-<tr>
-<td><a href="projects/tether/">Tether</a></td>
-<td>Digital money for a digital age</td>
+<td><a href="projects/tether/">Tether</a><br>Digital money for a digital age</td>
 <td><ul><li><a href="https://blog.openzeppelin.com/tether-token-audit-438d561a380/">Tether Token Audit (OpenZeppelin, Jan. 2018)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td>security@tether.to, security@bitfinex.com</td>
 </tr>
 <tr>
-<td><a href="projects/tornado-cash/">Tornado.cash</a></td>
-<td>Ethereum mixer that uses zkSNARKs for private transactions.</td>
+<td><a href="projects/tierion/">Tierion</a><br>Tierion creates technology and products that reduce the cost and complexity of trust.</td>
+<td><ul><li><a href="https://blog.openzeppelin.com/tierion-network-token-audit-163850fd1787/">Tierion Network Token Audit (OpenZeppelin, Aug. 2017)</a></li>    <li><a href="https://blog.openzeppelin.com/tierion-presale-audit-ec14b91c3140/">Tierion Presale Audit (OpenZeppelin, Jul. 2017)</a></li>    </ul></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="projects/timvi/">Timvi</a><br>Use this convenient DeFi platform to earn an annual interest, make investments, exchange assets and borrow funds to boost your profits.</td>
+<td><ul><li><a href="https://blog.coinfabrik.com/timvi-smart-contract-audit/">Timvi Smart Contract Audit (CoinFabrik, Nov. 2019)</a></li>    </ul></td>
+<td>https://timvi.com/bounty-program.html</td>
+<td>$15,000</td>
+</tr>
+<tr>
+<td><a href="projects/tokenbridge/">TokenBridge</a><br>Blockchain bridge to global stock markets</td>
+<td><ul><li><a href="https://blog.smartdec.net/tokenbridge-by-poa-network-smart-contracts-security-analysis-156c509abe5f">TokenBridge (by POA Network) Smart Contracts Security Analysis (SmartDec, Jul. 2019)</a></li>    </ul></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="projects/tokensets/">TokenSets</a><br>Automated asset management strategies</td>
+<td><ul><li><a href="https://github.com/trailofbits/publications/blob/master/reviews/setprotocol.pdf">Set Protocol Security Assessment (Trail of Bits, Mar. 2019)</a></li>    </ul></td>
+<td>https://medium.com/set-protocol/introducing-the-set-protocol-bug-bounty-program-5790f16d2b8c</td>
+<td>$50,000</td>
+</tr>
+<tr>
+<td><a href="projects/tornado-cash/">Tornado.cash</a><br>Ethereum mixer that uses zkSNARKs for private transactions.</td>
 <td><ul><li><a href="https://blog.smartdec.net/tornado-mixer-security-audit-fe1976d439e8">Tornado Mixer Security Audit (SmartDec, Sep. 2019)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/unikoingold/">UnikoinGold</a></td>
-<td>The world's largest esports gaming token</td>
+<td><a href="projects/unikoingold/">UnikoinGold</a><br>The world's largest esports gaming token</td>
 <td><ul><li><a href="https://blog.openzeppelin.com/unikoingold-token-audit-aafb7de07f3/">UnikoinGold Token Audit (OpenZeppelin, Nov. 2017)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/uniswap/">Uniswap</a></td>
-<td>A fully decentralized protocol for automated liquidity provision on Ethereum.</td>
+<td><a href="projects/uniswap/">Uniswap</a><br>A fully decentralized protocol for automated liquidity provision on Ethereum.</td>
 <td><ul><li><a href="https://github.com/ConsenSys/Uniswap-audit-report-2018-12">Uniswap Audit (ConsenSys Diligence, Jan. 2019)</a></li>    <li><a href="https://uniswap.org/audit.html">Uniswap V2 Audit Report (dapp.org, Apr. 2020)</a></li>    </ul></td>
 <td>https://uniswap.org/bug-bounty/</td>
 <td>$40,000</td>
-<td>contact@uniswap.io</td>
 </tr>
 <tr>
-<td><a href="projects/uport/">uPort</a></td>
-<td>Trusted ecosystems that let you, your partners and customers share data in a simple, secure, privacy-preserving* way.</td>
+<td><a href="projects/uport/">uPort</a><br>Trusted ecosystems that let you, your partners and customers share data in a simple, secure, privacy-preserving* way.</td>
 <td><ul><li><a href="https://github.com/ConsenSys/uport-audit">Uport Audit (ConsenSys Diligence, Apr. 2016)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/wax/">WAX</a></td>
-<td>The safest and most convenient way to create, buy, sell, and trade virtual items - to anyone, anywhere in the world.</td>
+<td><a href="projects/wax/">WAX</a><br>The safest and most convenient way to create, buy, sell, and trade virtual items - to anyone, anywhere in the world.</td>
 <td><ul><li><a href="https://blog.openzeppelin.com/wax-token-audit-e072e580407e/">WAX Token Audit (OpenZeppelin, Dec. 2017)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td>support@wax.io</td>
 </tr>
 <tr>
-<td><a href="projects/wetrust/">WeTrust</a></td>
-<td>WeTrust is a collaborative savings, lending and insurance platform that is autonomous, agnostic, frictionless, and decentralized.</td>
+<td><a href="projects/wetrust/">WeTrust</a><br>WeTrust is a collaborative savings, lending and insurance platform that is autonomous, agnostic, frictionless, and decentralized.</td>
 <td><ul><li><a href="https://blog.openzeppelin.com/wetrust-rosca-contract-code-audit-928a536c5dd2/">WeTrust ROSCA contract code audit (OpenZeppelin, Feb. 2017)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/yggdrash/">YGGDRASH</a></td>
-<td>YGGDRASH is the next generation multi-dimensional blockchain platform aiming to connect all real world assets and other blockchains.</td>
+<td><a href="projects/yggdrash/">YGGDRASH</a><br>YGGDRASH is the next generation multi-dimensional blockchain platform aiming to connect all real world assets and other blockchains.</td>
 <td><ul><li><a href="https://blog.smartdec.net/yggdrash-smart-contracts-security-analysis-4bd745b9aaf7">YGGDRASH Smart Contracts Security Analysis (SmartDec, Aug. 2018)</a></li>    </ul></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td><a href="projects/wrapped-bitcoin/">Wrapped Bitcoin</a></td>
-<td>Wrapped Bitcoin delivers the power of Bitcoin with the flexibility of an ERC20 token</td>
-<td><ul><li><a href="https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_WBTC.pdf">Security Audit of WBTC DAO's Smart Contracts (ChainSecurity, Oct. 2018)</a></li>    </ul></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="projects/zabo/">Zabo</a></td>
-<td>Connect any cryptocurrency</td>
+<td><a href="projects/zabo/">Zabo</a><br>Connect any cryptocurrency</td>
 <td><ul><li><a href="https://github.com/ConsenSys/Interactive-Crowdsale-Audit">Interactive Crowdsale Audit (ConsenSys Diligence, Mar. 2018)</a></li>    </ul></td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td><a href="projects/wrapped-bitcoin/">Wrapped Bitcoin</a><br>Wrapped Bitcoin delivers the power of Bitcoin with the flexibility of an ERC20 token</td>
+<td><ul><li><a href="https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_WBTC.pdf">Security Audit of WBTC DAO's Smart Contracts (ChainSecurity, Oct. 2018)</a></li>    </ul></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td><a href="projects/zilliqa/">Zilliqa</a></td>
-<td>Delivering a scalable and secure platform for developers and enterprises who wish to build decentralised applications.</td>
+<td><a href="projects/zilliqa/">Zilliqa</a><br>Delivering a scalable and secure platform for developers and enterprises who wish to build decentralised applications.</td>
 <td><ul><li><a href="https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Zilliqa.pdf">Security Audit Report of Zilliqa Smart Contracts (ChainSecurity, Dec. 2017)</a></li>    </ul></td>
 <td>https://bugcrowd.com/zilliqa</td>
 <td>$5,000</td>
-<td>security@zilliqa.com</td>
 </tr>
 </tbody>
 </table></div>
@@ -1005,5 +797,5 @@
 
 <!--
 MkDocs version : 1.1.2
-Build Date UTC : 2020-06-12 18:29:46.736321+00:00
+Build Date UTC : 2020-06-12 22:32:03.696967+00:00
 -->
