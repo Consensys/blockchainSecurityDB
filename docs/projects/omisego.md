@@ -28,3 +28,6 @@ Audited by: Quantstamp<br>Effort: 5 auditors, 17 days.<br>
 
 
 
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/omisego.json)

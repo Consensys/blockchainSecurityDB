@@ -39,3 +39,6 @@ Audited by: CoinFabrik<br>
 ## Additional Info
 
 Security Contact: support@polymath.zendesk.com
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/polymath.json)

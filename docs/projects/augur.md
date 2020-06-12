@@ -27,3 +27,6 @@ Max payout: $30,000
 ## Additional Info
 
 Security Contact: bounty@augur.net
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/augur.json)

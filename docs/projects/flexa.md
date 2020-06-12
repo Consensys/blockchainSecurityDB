@@ -20,3 +20,6 @@ Audited by: Trail of Bits<br>Effort: 2 person-weeks.<br>
 
 
 
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/flexa.json)

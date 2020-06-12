@@ -27,3 +27,6 @@ Max payout: 100 NMR
 ## Additional Info
 
 Security Contact: security@numer.ai
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/numerai.json)

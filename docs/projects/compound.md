@@ -51,3 +51,6 @@ Max payout: $150,000
 ## Additional Info
 
 Security Contact: security@compound.finance
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/compound.json)

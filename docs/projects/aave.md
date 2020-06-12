@@ -32,3 +32,6 @@ Audited by: Trail of Bits<br>Effort: 4 person-weeks.<br>
 Max payout: $25,000
 
 
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/aave.json)

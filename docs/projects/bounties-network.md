@@ -20,3 +20,6 @@ Audited by: ConsenSys Diligence<br>Effort: 4 auditors<br>
 
 
 
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/bounties-network.json)

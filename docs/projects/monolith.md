@@ -24,3 +24,6 @@ Audited by: Trail of Bits<br>Effort: 5 person-weeks.<br>
 Max payout: $10,000
 
 
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/monolith.json)

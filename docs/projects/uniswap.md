@@ -35,3 +35,6 @@ Max payout: $40,000
 ## Additional Info
 
 Security Contact: contact@uniswap.io
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/uniswap.json)

@@ -20,3 +20,6 @@ Audited by: ConsenSys Diligence<br>Effort: 2 auditors, 30 days<br>
 
 
 
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/zabo.json)

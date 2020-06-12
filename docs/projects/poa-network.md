@@ -31,3 +31,6 @@ Audited by: Authio<br>
 ## Additional Info
 
 Security Contact: security@poanetwork.com
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/poa-network.json)

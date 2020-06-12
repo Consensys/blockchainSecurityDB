@@ -27,3 +27,6 @@ Max payout: $100,000
 ## Additional Info
 
 Security Contact: infosec@makerdao.com
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/multi-collateral-dai.json)

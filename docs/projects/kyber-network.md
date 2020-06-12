@@ -31,3 +31,6 @@ Audited by: ChainSecurity<br>
 ## Additional Info
 
 Security Contact: hello@kyber.network
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/kyber-network.json)

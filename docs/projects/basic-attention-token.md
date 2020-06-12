@@ -27,3 +27,6 @@ Max payout: $500
 ## Additional Info
 
 Security Contact: security@brave.com
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/basic-attention-token.json)

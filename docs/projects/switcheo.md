@@ -27,3 +27,6 @@ Audited by: ChainSecurity<br>
 ## Additional Info
 
 Security Contact: security@switcheo.network
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/switcheo.json)

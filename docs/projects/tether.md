@@ -23,3 +23,6 @@ Audited by: OpenZeppelin<br>
 ## Additional Info
 
 Security Contact: security@tether.to, security@bitfinex.com
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/tether.json)

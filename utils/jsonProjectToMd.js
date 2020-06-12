@@ -3,6 +3,7 @@ const fs = require('fs');
 
 function jsonProjectToMd(file) {
   const jsonFile = require(`../projects/${file}`);
+  const fileName = file.split('.')[0];
 
   // Months map
   const monthsMap = {
@@ -88,9 +89,10 @@ ${jsonFile.security_contact ?
 `## Additional Info
 
 Security Contact: ${jsonFile.security_contact}
-` : ''}`
+` : ''}
 
-  const fileName = file.split('.')[0];
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/${fileName}.json)`
+
   const writePath = path.join(__dirname, '../docs/projects');
   fs.writeFile(`${writePath}/${fileName}.md`, fullMd, (err) => {
     if(err) throw err;

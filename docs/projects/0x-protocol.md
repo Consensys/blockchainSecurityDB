@@ -75,3 +75,6 @@ Max payout: $100,000
 ## Additional Info
 
 Security Contact: team@0xproject.com
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/0x-protocol.json)

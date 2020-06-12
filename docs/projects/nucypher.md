@@ -31,3 +31,6 @@ Audited by: Trail of Bits<br>Effort: 12 person-weeks.<br>
 ## Additional Info
 
 Security Contact: security@nucypher.com
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/nucypher.json)

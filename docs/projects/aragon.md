@@ -43,3 +43,6 @@ Max payout: $50,000
 ## Additional Info
 
 Security Contact: security@aragon.org
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/aragon.json)

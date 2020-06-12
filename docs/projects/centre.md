@@ -23,3 +23,6 @@ Audited by: OpenZeppelin<br>
 ## Additional Info
 
 Security Contact: usdc-security@circle.com
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/centre.json)

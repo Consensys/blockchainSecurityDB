@@ -47,3 +47,6 @@ Audited by: Philip Daian<br>
 ## Additional Info
 
 Security Contact: bounty@airswap.io
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/airswap.json)

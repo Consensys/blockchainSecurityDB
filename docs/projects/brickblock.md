@@ -23,3 +23,6 @@ Audited by: ConsenSys Diligence<br>Effort: 2 auditors<br>
 ## Additional Info
 
 Security Contact: security@brickblock.io
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/brickblock.json)

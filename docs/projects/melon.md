@@ -27,3 +27,6 @@ Max payout: $10,000
 ## Additional Info
 
 Security Contact: security@melonport.com
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/melon.json)

@@ -23,3 +23,6 @@ Audited by: OpenZeppelin<br>
 ## Additional Info
 
 Security Contact: hello@decentraland.org
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/decentraland.json)

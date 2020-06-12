@@ -23,3 +23,6 @@ Audited by: Quantstamp<br>Effort: 4 person-weeks<br>
 ## Additional Info
 
 Security Contact: hello@sablier.finance
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/sablier.json)

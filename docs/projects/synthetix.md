@@ -123,3 +123,6 @@ Max payout: $5,000
 ## Additional Info
 
 Security Contact: security@synthetix.io
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/synthetix.json)

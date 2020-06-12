@@ -31,3 +31,6 @@ Audited by: Trail of Bits<br>Effort: 4 person-weeks.<br>
 ## Additional Info
 
 Security Contact: security@dharma.io
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/dharma.json)

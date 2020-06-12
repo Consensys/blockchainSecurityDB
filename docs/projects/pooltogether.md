@@ -27,3 +27,6 @@ Max payout: $25,000
 ## Additional Info
 
 Security Contact: hello@pooltogether.us
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/pooltogether.json)

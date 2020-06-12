@@ -23,3 +23,6 @@ Audited by: CoinFabrik<br>
 ## Additional Info
 
 Security Contact: security@hubii.com
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/nahmii.json)

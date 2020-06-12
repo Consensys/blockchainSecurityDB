@@ -28,3 +28,6 @@ Audited by: OpenZeppelin<br>
 
 
 
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/rndr.json)

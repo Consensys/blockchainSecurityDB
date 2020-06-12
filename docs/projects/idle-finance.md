@@ -23,3 +23,6 @@ Audited by: Quantstamp<br>
 ## Additional Info
 
 Security Contact: security@idle.finance
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/idle-finance.json)

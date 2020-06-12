@@ -24,3 +24,6 @@ Audited by: CoinFabrik<br>
 Max payout: $15,000
 
 
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/timvi.json)

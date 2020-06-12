@@ -23,3 +23,6 @@ Audited by: ConsenSys Diligence<br>Effort: 3 auditors<br>
 ## Additional Info
 
 Security Contact: security@pegasys.tech
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/pegasys.json)

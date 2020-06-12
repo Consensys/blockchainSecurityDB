@@ -27,3 +27,6 @@ Max payout: $50,000
 ## Additional Info
 
 Security Contact: info@gnosis.pm
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/gnosis.json)

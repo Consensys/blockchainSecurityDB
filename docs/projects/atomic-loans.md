@@ -28,3 +28,6 @@ Audited by: ConsenSys Diligence<br>Effort: 1 auditor<br>
 
 
 
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/atomic-loans.json)

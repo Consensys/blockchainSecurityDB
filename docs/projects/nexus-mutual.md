@@ -23,3 +23,6 @@ Audited by: Solidified<br>
 ## Additional Info
 
 Security Contact: security@nexusmutual.io
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/nexus-mutual.json)

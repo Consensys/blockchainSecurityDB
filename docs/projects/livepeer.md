@@ -27,3 +27,6 @@ Max payout: $2,500
 ## Additional Info
 
 Security Contact: security@livepeer.org
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/livepeer.json)

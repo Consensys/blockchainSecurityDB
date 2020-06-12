@@ -28,3 +28,6 @@ Audited by: SmartDec<br>
 
 
 
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/rate3.json)

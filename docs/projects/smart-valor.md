@@ -27,3 +27,6 @@ Max payout: 10,000 Valor
 ## Additional Info
 
 Security Contact: support@smartvalor.com
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/smart-valor.json)

@@ -23,3 +23,6 @@ Audited by: OpenZeppelin<br>
 ## Additional Info
 
 Security Contact: support@wax.io
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/wax.json)

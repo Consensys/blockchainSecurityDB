@@ -44,3 +44,6 @@ Audited by: CoinFabrik<br>
 
 
 
+
+
+[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/money-on-chain.json)
