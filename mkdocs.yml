@@ -1,4 +1,4 @@
-site_name: Audit DB
+site_name: Blockchain Security DB
 theme:
     name: null
     custom_dir: 'theme/'
