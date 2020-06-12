@@ -33,6 +33,16 @@ body > .container {
     /* csslint ignore:end */
 }
 
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+.nav-logo {
+    height: 30px;
+    margin-right: 4px;
+}
+
 .source-links {
     float: right;
 }

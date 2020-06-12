@@ -63,7 +63,10 @@
             <div class="container">
 
                 {%- block site_name %}
-                <a class="navbar-brand" href="{{ nav.homepage.url|url }}">{{ config.site_name }}</a>
+                <a class="navbar-brand" href="{{ nav.homepage.url|url }}">
+                  <img src="img/logo.png" alt="ConsenSys Diligence" class="nav-logo" />
+                  {{ config.site_name }}
+                </a>
                 {%- endblock %}
 
                 {%- if nav|length>1 or (page and (page.next_page or page.previous_page)) or config.repo_url %}
