@@ -64,7 +64,7 @@
 
                 {%- block site_name %}
                 <a class="navbar-brand" href="{{ nav.homepage.url|url }}">
-                  <img src="img/logo.png" alt="ConsenSys Diligence" class="nav-logo" />
+                  <img src="/img/logo.png" alt="ConsenSys Diligence" class="nav-logo" />
                   {{ config.site_name }}
                 </a>
                 {%- endblock %}
@@ -79,6 +79,11 @@
                 <!-- Expanded navigation -->
                 <div id="navbar-collapse" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav ml-auto">
+                      <li class="nav-item">
+                        <a href="{{ config.repo }}" class="nav-link" target="_blank">
+                          <i class="fa fa-github"></i> Github
+                        </a>
+                      </li>
                       {%- block search_button %}
                         {%- if 'search' in config['plugins'] %}
                         <li class="nav-item">

@@ -3,6 +3,7 @@ theme:
     name: null
     custom_dir: 'theme/'
     nav_style: light
+repo: https://github.com/ConsenSys/blockchainSecurityDB
 plugins:
     - search
     
