@@ -1,5 +1,7 @@
 
 # MARKET Protocol
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/market-protocol.json)
   
 [https://marketprotocol.io/](https://marketprotocol.io/)<br>
 MARKET Protocol allows users to trade the price of anything while leveraging the benefits of the blockchain.
@@ -20,6 +22,3 @@ Audited by: ChainSecurity<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/market-protocol.json)

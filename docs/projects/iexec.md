@@ -1,5 +1,7 @@
 
 # iExec
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/iexec.json)
   
 [https://iex.ec/](https://iex.ec/)<br>
 Decentralized cloud computing
@@ -28,6 +30,3 @@ Audited by: ChainSecurity<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/iexec.json)

@@ -1,5 +1,7 @@
 
 # POA Network
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/poa-network.json)
   
 [https://www.poa.network/](https://www.poa.network/)<br>
 POA Network encompasses an EVM blockchain as well as product development for the entire Ethereum ecosystem
@@ -31,6 +33,3 @@ Audited by: Authio<br>
 ## Additional Info
 
 Security Contact: security@poanetwork.com
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/poa-network.json)

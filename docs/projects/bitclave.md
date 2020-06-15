@@ -1,5 +1,7 @@
 
 # BitClave
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/bitclave.json)
   
 [https://www.bitclave.com/](https://www.bitclave.com/)<br>
 Make your data work for you
@@ -20,6 +22,3 @@ Audited by: OpenZeppelin<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/bitclave.json)

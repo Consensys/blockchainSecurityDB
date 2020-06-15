@@ -1,5 +1,7 @@
 
 # Golem
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/golem.json)
   
 [https://golem.network/](https://golem.network/)<br>
 Golem is a global, open source, decentralized supercomputer that anyone can access
@@ -35,6 +37,3 @@ Max payout: $15,000
 ## Additional Info
 
 Security Contact: contact@golem.network
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/golem.json)

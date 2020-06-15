@@ -1,5 +1,7 @@
 
 # Melon
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/melon.json)
   
 [https://melonprotocol.com/](https://melonprotocol.com/)<br>
 The infrastructure for asset management 3.0
@@ -27,6 +29,3 @@ Max payout: $10,000
 ## Additional Info
 
 Security Contact: security@melonport.com
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/melon.json)

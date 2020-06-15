@@ -1,5 +1,7 @@
 
 # Status
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/status.json)
   
 [https://status.im/](https://status.im/)<br>
 Status is a secure messaging app, crypto wallet, and Web3 browser built with state of the art technology.
@@ -27,6 +29,3 @@ Max payout: $50,000
 ## Additional Info
 
 Security Contact: security@status.im
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/status.json)

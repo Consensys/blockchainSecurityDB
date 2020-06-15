@@ -1,5 +1,7 @@
 
 # Storj
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/storj.json)
   
 [https://storj.io/](https://storj.io/)<br>
 Decentralized cloud storage
@@ -23,6 +25,3 @@ Audited by: OpenZeppelin<br>
 ## Additional Info
 
 Security Contact: hello@storj.io
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/storj.json)

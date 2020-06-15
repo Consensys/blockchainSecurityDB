@@ -1,5 +1,7 @@
 
 # Aragon
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/aragon.json)
   
 [https://aragon.org/](https://aragon.org/)<br>
 Aragon gives internet communities unprecedented power to organize around shared values and resources.
@@ -43,6 +45,3 @@ Max payout: $50,000
 ## Additional Info
 
 Security Contact: security@aragon.org
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/aragon.json)

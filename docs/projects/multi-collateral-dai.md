@@ -1,5 +1,7 @@
 
 # Multi-Collateral Dai
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/multi-collateral-dai.json)
   
 [https://makerdao.com/en/](https://makerdao.com/en/)<br>
 Digital currency that can be used by anyone, anywhere, anytime.
@@ -27,6 +29,3 @@ Max payout: $100,000
 ## Additional Info
 
 Security Contact: infosec@makerdao.com
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/multi-collateral-dai.json)

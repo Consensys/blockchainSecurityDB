@@ -1,5 +1,7 @@
 
 # Bux
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/bux.json)
   
 [https://getbux.com/](https://getbux.com/)<br>
 The single destination for anyone who wants to do more with their money.
@@ -20,6 +22,3 @@ Audited by: Authio<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/bux.json)

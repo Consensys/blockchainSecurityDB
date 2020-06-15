@@ -1,5 +1,7 @@
 
 # PumaPay
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/pumapay.json)
   
 [https://pumapay.io/](https://pumapay.io/)<br>
 First ever comprehensive crypto payment solution for businesses
@@ -20,6 +22,3 @@ Audited by: SmartDec<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/pumapay.json)

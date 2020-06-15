@@ -1,5 +1,7 @@
 
 # PROPS
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/props.json)
   
 [https://www.propsproject.com/](https://www.propsproject.com/)<br>
 A new way for apps to reward users with a financial stake in the network
@@ -28,6 +30,3 @@ Audited by: OpenZeppelin<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/props.json)

@@ -1,5 +1,7 @@
 
 # Everus
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/everus.json)
   
 [https://everus.org/](https://everus.org/)<br>
 The First Wallet for you to earn hassle-free
@@ -20,6 +22,3 @@ Audited by: OpenZeppelin<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/everus.json)

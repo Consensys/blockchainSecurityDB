@@ -1,5 +1,7 @@
 
 # Ren
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/ren.json)
   
 [https://renproject.io/](https://renproject.io/)<br>
 Liquidity, unchained.
@@ -27,6 +29,3 @@ Audited by: ChainSecurity<br>
 ## Additional Info
 
 Security Contact: security@republicprotocol.com
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/ren.json)

@@ -72,6 +72,8 @@ ${auditMdArr[i] !== undefined ? auditMdArr[i] : ''}
   const fullMd = 
   `
 # ${jsonFile.project}
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/${fileName}.json)
   
 [${jsonFile.project_url}](${jsonFile.project_url})<br>
 ${jsonFile.description}
@@ -89,9 +91,7 @@ ${jsonFile.security_contact ?
 `## Additional Info
 
 Security Contact: ${jsonFile.security_contact}
-` : ''}
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/${fileName}.json)`
+` : ''}`
 
   const writePath = path.join(__dirname, '../docs/projects');
   fs.writeFile(`${writePath}/${fileName}.md`, fullMd, (err) => {

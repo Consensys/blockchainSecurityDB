@@ -1,5 +1,7 @@
 
 # Orchid Network
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/orchid-network.json)
   
 [https://www.orchid.com/](https://www.orchid.com/)<br>
 A truly decentralized VPN service.
@@ -20,6 +22,3 @@ Audited by: ConsenSys Diligence<br>Effort: 2 auditors<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/orchid-network.json)

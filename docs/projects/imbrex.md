@@ -1,5 +1,7 @@
 
 # Imbrex
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/imbrex.json)
   
 [https://about.imbrex.io/](https://about.imbrex.io/)<br>
 Syndicates real estate data into a new kind of globally accessible network, where data is locally sourced, validated and secured via the Ethereum blockchain, smart contracts and cryptoeconomics.
@@ -20,6 +22,3 @@ Audited by: ConsenSys Diligence<br>Effort: 1 auditor<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/imbrex.json)

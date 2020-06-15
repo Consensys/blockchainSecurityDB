@@ -1,5 +1,7 @@
 
 # Ethex
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/ethex.json)
   
 [https://ethex.bet/](https://ethex.bet/)<br>
 First provably fair crypto ETH Lottery!
@@ -20,6 +22,3 @@ Audited by: SmartDec<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/ethex.json)

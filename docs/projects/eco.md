@@ -1,5 +1,7 @@
 
 # Eco
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/eco.json)
   
 [https://eco.com/](https://eco.com/)<br>
 A better way to pay
@@ -20,6 +22,3 @@ Audited by: OpenZeppelin<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/eco.json)

@@ -1,5 +1,7 @@
 
 # BABB
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/babb.json)
   
 [https://getbabb.com/](https://getbabb.com/)<br>
 Empowers users to do everything from storing and managing their assets to fundraising and donating to causes all over the world.
@@ -20,6 +22,3 @@ Audited by: OpenZeppelin<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/babb.json)

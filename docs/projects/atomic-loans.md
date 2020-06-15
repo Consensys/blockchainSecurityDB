@@ -1,5 +1,7 @@
 
 # Atomic Loans
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/atomic-loans.json)
   
 [https://atomic.loans/](https://atomic.loans/)<br>
 Non-custodial Bitcoin-backed loans.
@@ -28,6 +30,3 @@ Audited by: ConsenSys Diligence<br>Effort: 1 auditor<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/atomic-loans.json)

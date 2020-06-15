@@ -1,5 +1,7 @@
 
 # Pegasys
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/pegasys.json)
   
 [https://pegasys.tech/pegasys-plus/](https://pegasys.tech/pegasys-plus/)<br>
 Comercially licensed enterprise Ethereum client
@@ -23,6 +25,3 @@ Audited by: ConsenSys Diligence<br>Effort: 3 auditors<br>
 ## Additional Info
 
 Security Contact: security@pegasys.tech
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/pegasys.json)

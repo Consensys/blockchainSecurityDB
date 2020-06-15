@@ -1,5 +1,7 @@
 
 # BlockchainCapital
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/blockchaincapital.json)
   
 [https://blockchain.capital/](https://blockchain.capital/)<br>
 Blockchain Capital is a leading venture firm in the blockchain industry
@@ -20,6 +22,3 @@ Audited by: OpenZeppelin<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/blockchaincapital.json)

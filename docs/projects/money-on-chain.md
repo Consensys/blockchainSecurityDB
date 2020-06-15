@@ -1,5 +1,7 @@
 
 # Money on Chain
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/money-on-chain.json)
   
 [https://moneyonchain.com/](https://moneyonchain.com/)<br>
 Defi for Bitcoin
@@ -44,6 +46,3 @@ Audited by: CoinFabrik<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/money-on-chain.json)

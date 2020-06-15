@@ -1,5 +1,7 @@
 
 # Tether
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/tether.json)
   
 [https://tether.to/](https://tether.to/)<br>
 Digital money for a digital age
@@ -23,6 +25,3 @@ Audited by: OpenZeppelin<br>
 ## Additional Info
 
 Security Contact: security@tether.to, security@bitfinex.com
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/tether.json)

@@ -1,5 +1,7 @@
 
 # Monolith
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/monolith.json)
   
 [https://monolith.xyz/](https://monolith.xyz/)<br>
 Everything you would expect from a financial platform, built for the DeFi economy.
@@ -24,6 +26,3 @@ Audited by: Trail of Bits<br>Effort: 5 person-weeks.<br>
 Max payout: $10,000
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/monolith.json)

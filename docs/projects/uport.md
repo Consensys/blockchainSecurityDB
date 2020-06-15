@@ -1,5 +1,7 @@
 
 # uPort
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/uport.json)
   
 [https://www.uport.me/](https://www.uport.me/)<br>
 Trusted ecosystems that let you, your partners and customers share data in a simple, secure, privacy-preserving* way.
@@ -20,6 +22,3 @@ Audited by: ConsenSys Diligence<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/uport.json)

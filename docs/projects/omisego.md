@@ -1,5 +1,7 @@
 
 # OmiseGo
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/omisego.json)
   
 [https://omisego.co/](https://omisego.co/)<br>
 OmiseGO enables businesses and individuals to securely offer and access a wide range of financial services, and invest, exchange and spend digital assets anytime, anywhere.
@@ -28,6 +30,3 @@ Audited by: Quantstamp<br>Effort: 5 auditors, 17 days.<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/omisego.json)

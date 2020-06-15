@@ -1,5 +1,7 @@
 
 # NuCypher
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/nucypher.json)
   
 [https://www.nucypher.com/](https://www.nucypher.com/)<br>
 Cryptographic infrastructure for privacy-preserving applications
@@ -31,6 +33,3 @@ Audited by: Trail of Bits<br>Effort: 12 person-weeks.<br>
 ## Additional Info
 
 Security Contact: security@nucypher.com
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/nucypher.json)

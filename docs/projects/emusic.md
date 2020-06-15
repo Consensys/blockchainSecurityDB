@@ -1,5 +1,7 @@
 
 # eMusic
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/emusic.json)
   
 [https://www.emusic.com/](https://www.emusic.com/)<br>
 A blockchain-based music distribution platform that pays artists more fairly and efficiently.
@@ -20,6 +22,3 @@ Audited by: Authio<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/emusic.json)

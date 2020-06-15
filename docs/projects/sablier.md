@@ -1,5 +1,7 @@
 
 # Sablier
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/sablier.json)
   
 [https://sablier.finance/](https://sablier.finance/)<br>
 The protocol for real-time finance
@@ -23,6 +25,3 @@ Audited by: Quantstamp<br>Effort: 4 person-weeks<br>
 ## Additional Info
 
 Security Contact: hello@sablier.finance
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/sablier.json)

@@ -1,5 +1,7 @@
 
 # Augur
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/augur.json)
   
 [https://www.augur.net/](https://www.augur.net/)<br>
 The world’s most accessible, no-limit betting exchange.
@@ -27,6 +29,3 @@ Max payout: $30,000
 ## Additional Info
 
 Security Contact: bounty@augur.net
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/augur.json)

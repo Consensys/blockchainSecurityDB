@@ -1,5 +1,7 @@
 
 # Basic Attention Token
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/basic-attention-token.json)
   
 [https://basicattentiontoken.org/](https://basicattentiontoken.org/)<br>
 Blockchain-based digital advertising.
@@ -27,6 +29,3 @@ Max payout: $500
 ## Additional Info
 
 Security Contact: security@brave.com
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/basic-attention-token.json)

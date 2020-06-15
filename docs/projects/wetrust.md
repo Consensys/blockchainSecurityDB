@@ -1,5 +1,7 @@
 
 # WeTrust
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/wetrust.json)
   
 [https://www.wetrust.io/](https://www.wetrust.io/)<br>
 WeTrust is a collaborative savings, lending and insurance platform that is autonomous, agnostic, frictionless, and decentralized.
@@ -20,6 +22,3 @@ Audited by: OpenZeppelin<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/wetrust.json)

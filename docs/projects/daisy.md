@@ -1,5 +1,7 @@
 
 # Daisy
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/daisy.json)
   
 [https://www.daisypayments.com/](https://www.daisypayments.com/)<br>
 Daisy's software enables businesses to accept cryptocurrency for purchases, subscriptions, usage fees and other payments.
@@ -20,6 +22,3 @@ Audited by: ConsenSys Diligence<br>Effort: 2 auditors<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/daisy.json)

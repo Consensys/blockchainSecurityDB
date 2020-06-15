@@ -1,5 +1,7 @@
 
 # Idle Finance
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/idle-finance.json)
   
 [https://idle.finance/](https://idle.finance/)<br>
 Earn the yield you deserve without worry about finding the best option, either if you want to optimize returns or risks.
@@ -23,6 +25,3 @@ Audited by: Quantstamp<br>
 ## Additional Info
 
 Security Contact: security@idle.finance
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/idle-finance.json)

@@ -1,5 +1,7 @@
 
 # dYdX
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/dydx.json)
   
 [https://dydx.exchange/](https://dydx.exchange/)<br>
 The most powerful open trading platform for crypto assets
@@ -27,6 +29,3 @@ Max payout: $50,000
 ## Additional Info
 
 Security Contact: security@dydx.exchange
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/dydx.json)

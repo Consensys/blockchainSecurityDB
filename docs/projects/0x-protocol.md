@@ -1,5 +1,7 @@
 
 # 0x Protocol
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/0x-protocol.json)
   
 [https://0x.org/](https://0x.org/)<br>
 An open protocol that enables the peer-to-peer exchange of assets on the Ethereum blockchain.
@@ -75,6 +77,3 @@ Max payout: $100,000
 ## Additional Info
 
 Security Contact: team@0xproject.com
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/0x-protocol.json)

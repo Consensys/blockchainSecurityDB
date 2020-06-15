@@ -1,5 +1,7 @@
 
 # Ampleforth
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/ampleforth.json)
   
 [https://www.ampleforth.org/](https://www.ampleforth.org/)<br>
 Synthetic commodity money
@@ -20,6 +22,3 @@ Audited by: Trail of Bits<br>Effort: 4 person-weeks.<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/ampleforth.json)

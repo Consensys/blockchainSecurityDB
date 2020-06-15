@@ -1,5 +1,7 @@
 
 # HivePower
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/hivepower.json)
   
 [https://hivepower.tech/](https://hivepower.tech/)<br>
 Hive Power is accompanying energy utilities through the digitalisation and decentralisation processes, using state of the art machine learning and blockchain technologies.
@@ -20,6 +22,3 @@ Audited by: SmartDec<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/hivepower.json)

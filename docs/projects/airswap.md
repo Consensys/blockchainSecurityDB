@@ -1,5 +1,7 @@
 
 # Airswap
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/airswap.json)
   
 [https://www.airswap.io/](https://www.airswap.io/)<br>
 AirSwap enables peer-to-peer trading on the Ethereum blockchain.
@@ -47,6 +49,3 @@ Audited by: Philip Daian<br>
 ## Additional Info
 
 Security Contact: bounty@airswap.io
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/airswap.json)

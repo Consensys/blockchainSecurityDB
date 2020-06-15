@@ -1,5 +1,7 @@
 
 # Polymath
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/polymath.json)
   
 [https://polymath.network/](https://polymath.network/)<br>
 Polymath makes it easy to create, issue, and manage digital securities on the blockchain.
@@ -39,6 +41,3 @@ Audited by: CoinFabrik<br>
 ## Additional Info
 
 Security Contact: support@polymath.zendesk.com
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/polymath.json)

@@ -1,5 +1,7 @@
 
 # BlockState
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/blockstate.json)
   
 [https://blockstate.com/](https://blockstate.com/)<br>
 BlockState is a Swiss security token platform for non-bankable assets such as SME equity and debt or real estate.
@@ -20,6 +22,3 @@ Audited by: SmartDec<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/blockstate.json)

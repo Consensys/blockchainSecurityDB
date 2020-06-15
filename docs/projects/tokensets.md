@@ -1,5 +1,7 @@
 
 # TokenSets
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/tokensets.json)
   
 [https://www.tokensets.com/](https://www.tokensets.com/)<br>
 Automated asset management strategies
@@ -27,6 +29,3 @@ Max payout: $50,000
 ## Additional Info
 
 Security Contact: security@setprotocol.com
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/tokensets.json)

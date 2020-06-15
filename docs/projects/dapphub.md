@@ -1,5 +1,7 @@
 
 # DappHub
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/dapphub.json)
   
 [http://dapphub.com/](http://dapphub.com/)<br>
 Suite of blockchain-oriented developer tools in the spirit of Unix Philosophy
@@ -20,6 +22,3 @@ Audited by: Trail of Bits<br>Effort: 8 person-weeks.<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/dapphub.json)

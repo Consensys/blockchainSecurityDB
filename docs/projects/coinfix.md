@@ -1,5 +1,7 @@
 
 # Coinfix
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/coinfix.json)
   
 [https://www.coinfix.io/](https://www.coinfix.io/)<br>
 Enterprise crypto payment solution. Engineeredfor security and versatility.
@@ -20,6 +22,3 @@ Audited by: OpenZeppelin<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/coinfix.json)

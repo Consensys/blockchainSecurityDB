@@ -1,5 +1,7 @@
 
 # Gnosis
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/gnosis.json)
   
 [https://gnosis.io/](https://gnosis.io/)<br>
 Gnosis builds new market mechanisms for open finance.
@@ -27,6 +29,3 @@ Max payout: $50,000
 ## Additional Info
 
 Security Contact: info@gnosis.pm
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/gnosis.json)

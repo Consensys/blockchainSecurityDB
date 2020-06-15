@@ -1,5 +1,7 @@
 
 # Mercury Protocol
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/mercury-protocol.json)
   
 [https://www.mercuryprotocol.com/](https://www.mercuryprotocol.com/)<br>
 A suite of smart contracts and software services that enables a trustworthy, meaningful, and providerless communication layer for consumer app developers.
@@ -20,6 +22,3 @@ Audited by: OpenZeppelin<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/mercury-protocol.json)

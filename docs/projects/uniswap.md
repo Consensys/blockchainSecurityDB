@@ -1,5 +1,7 @@
 
 # Uniswap
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/uniswap.json)
   
 [https://uniswap.org/](https://uniswap.org/)<br>
 A fully decentralized protocol for automated liquidity provision on Ethereum.
@@ -35,6 +37,3 @@ Max payout: $40,000
 ## Additional Info
 
 Security Contact: contact@uniswap.io
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/uniswap.json)

@@ -1,5 +1,7 @@
 
 # Kyber Network
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/kyber-network.json)
   
 [https://kyber.network/](https://kyber.network/)<br>
 On-chain liquidity protocol that aggregates liquidity from a wide range of reserves, powering instant and secure token exchange in any decentralized application.
@@ -31,6 +33,3 @@ Audited by: ChainSecurity<br>
 ## Additional Info
 
 Security Contact: hello@kyber.network
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/kyber-network.json)

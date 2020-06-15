@@ -1,5 +1,7 @@
 
 # Bancor Network
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/bancor-network.json)
   
 [https://www.bancor.network/](https://www.bancor.network/)<br>
 Your smart crypto wallet
@@ -23,6 +25,3 @@ Audited by: Nick Johnson<br>Effort: 1 person-week<br>
 ## Additional Info
 
 Security Contact: security@bancor.network
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/bancor-network.json)

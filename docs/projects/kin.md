@@ -1,5 +1,7 @@
 
 # Kin
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/kin.json)
   
 [https://www.kin.org/](https://www.kin.org/)<br>
 A new way to engage, grow, and monetize your digital community.
@@ -20,6 +22,3 @@ Audited by: OpenZeppelin<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/kin.json)

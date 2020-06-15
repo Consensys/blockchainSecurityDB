@@ -1,5 +1,7 @@
 
 # Tornado.cash
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/tornado-cash.json)
   
 [https://tornado.cash/](https://tornado.cash/)<br>
 Ethereum mixer that uses zkSNARKs for private transactions.
@@ -20,6 +22,3 @@ Audited by: SmartDec<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/tornado-cash.json)

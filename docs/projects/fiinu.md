@@ -1,5 +1,7 @@
 
 # Fiinu
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/fiinu.json)
   
 [https://fiinu.com/](https://fiinu.com/)<br>
 Fiinu is in the pre-application phase to obtain necessary licenses from the UK regulatory authorities.
@@ -20,6 +22,3 @@ Audited by: OpenZeppelin<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/fiinu.json)

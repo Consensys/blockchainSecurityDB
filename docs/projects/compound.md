@@ -1,5 +1,7 @@
 
 # Compound
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/compound.json)
   
 [https://compound.finance/](https://compound.finance/)<br>
 An algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.
@@ -51,6 +53,3 @@ Max payout: $150,000
 ## Additional Info
 
 Security Contact: security@compound.finance
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/compound.json)

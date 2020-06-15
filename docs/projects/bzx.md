@@ -1,5 +1,7 @@
 
 # bZx
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/bzx.json)
   
 [https://bzx.network/](https://bzx.network/)<br>
 The most powerful open finance protocol
@@ -35,6 +37,3 @@ Max payout: $5,000
 ## Additional Info
 
 Security Contact: team@bzx.network
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/bzx.json)

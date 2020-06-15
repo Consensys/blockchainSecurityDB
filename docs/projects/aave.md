@@ -1,5 +1,7 @@
 
 # Aave
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/aave.json)
   
 [https://aave.com/](https://aave.com/)<br>
 Open Source and Non-Custodial protocol to earn interest on deposits & borrow assets.
@@ -32,6 +34,3 @@ Audited by: Trail of Bits<br>Effort: 4 person-weeks.<br>
 Max payout: $25,000
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/aave.json)

@@ -1,5 +1,7 @@
 
 # Zilliqa
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/zilliqa.json)
   
 [https://www.zilliqa.com/](https://www.zilliqa.com/)<br>
 Delivering a scalable and secure platform for developers and enterprises who wish to build decentralised applications.
@@ -27,6 +29,3 @@ Max payout: $5,000
 ## Additional Info
 
 Security Contact: security@zilliqa.com
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/zilliqa.json)

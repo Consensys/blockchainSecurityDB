@@ -1,5 +1,7 @@
 
 # Centre
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/centre.json)
   
 [https://www.centre.io/](https://www.centre.io/)<br>
 Connecting every person, every merchant, every financial service, every currency. Everywhere.
@@ -23,6 +25,3 @@ Audited by: OpenZeppelin<br>
 ## Additional Info
 
 Security Contact: usdc-security@circle.com
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/centre.json)

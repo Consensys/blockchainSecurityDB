@@ -1,5 +1,7 @@
 
 # Brickblock
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/brickblock.json)
   
 [https://www.brickblock.io/](https://www.brickblock.io/)<br>
 Help fund managers save time, cut costs, and offer a superior investor experience.
@@ -23,6 +25,3 @@ Audited by: ConsenSys Diligence<br>Effort: 2 auditors<br>
 ## Additional Info
 
 Security Contact: security@brickblock.io
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/brickblock.json)

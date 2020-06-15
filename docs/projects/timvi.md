@@ -1,5 +1,7 @@
 
 # Timvi
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/timvi.json)
   
 [https://timvi.com/](https://timvi.com/)<br>
 Use this convenient DeFi platform to earn an annual interest, make investments, exchange assets and borrow funds to boost your profits.
@@ -24,6 +26,3 @@ Audited by: CoinFabrik<br>
 Max payout: $15,000
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/timvi.json)

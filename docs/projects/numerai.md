@@ -1,5 +1,7 @@
 
 # Numerai
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/numerai.json)
   
 [https://numer.ai/](https://numer.ai/)<br>
 The hardest data science tournament on the planet.
@@ -27,6 +29,3 @@ Max payout: 100 NMR
 ## Additional Info
 
 Security Contact: security@numer.ai
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/numerai.json)

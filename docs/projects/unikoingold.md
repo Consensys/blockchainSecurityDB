@@ -1,5 +1,7 @@
 
 # UnikoinGold
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/unikoingold.json)
   
 [https://unikoingold.com/](https://unikoingold.com/)<br>
 The world's largest esports gaming token
@@ -20,6 +22,3 @@ Audited by: OpenZeppelin<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/unikoingold.json)

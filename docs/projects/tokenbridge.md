@@ -1,5 +1,7 @@
 
 # TokenBridge
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/tokenbridge.json)
   
 [https://tokenbridge.co/](https://tokenbridge.co/)<br>
 Blockchain bridge to global stock markets
@@ -20,6 +22,3 @@ Audited by: SmartDec<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/tokenbridge.json)

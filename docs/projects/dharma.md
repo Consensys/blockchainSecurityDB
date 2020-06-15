@@ -1,5 +1,7 @@
 
 # Dharma
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/dharma.json)
   
 [https://www.dharma.io/](https://www.dharma.io/)<br>
 Send money to anyone. Earn interest everywhere.
@@ -31,6 +33,3 @@ Audited by: Trail of Bits<br>Effort: 4 person-weeks.<br>
 ## Additional Info
 
 Security Contact: security@dharma.io
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/dharma.json)

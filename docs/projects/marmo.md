@@ -1,5 +1,7 @@
 
 # Marmo
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/marmo.json)
   
 [https://marmo.io/](https://marmo.io/)<br>
 Marmo SDK simplifies interactions with the Ethereum network, allowing you to focus on building great blockchain products without worrying about the blockchain.
@@ -20,6 +22,3 @@ Audited by: OpenZeppelin<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/marmo.json)

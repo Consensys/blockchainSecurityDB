@@ -1,5 +1,7 @@
 
 # DAOstack
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/daostack.json)
   
 [https://daostack.io/](https://daostack.io/)<br>
 DAOstack is an open source project advancing the technology and adoption of decentralized governance.
@@ -20,6 +22,3 @@ Audited by: ChainSecurity<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/daostack.json)

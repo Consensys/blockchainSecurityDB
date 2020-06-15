@@ -1,5 +1,7 @@
 
 # PoolTogether
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/pooltogether.json)
   
 [https://www.pooltogether.com/](https://www.pooltogether.com/)<br>
 A no-loss, audited savings game powered by blockchain technology
@@ -27,6 +29,3 @@ Max payout: $25,000
 ## Additional Info
 
 Security Contact: hello@pooltogether.us
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/pooltogether.json)

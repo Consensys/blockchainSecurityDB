@@ -1,5 +1,7 @@
 
 # Ethereum Name Service
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/ethereum-name-service.json)
   
 [https://ens.domains/](https://ens.domains/)<br>
 A secure & decentralised way to address resources both on and off the blockchain using simple, human-readable names.
@@ -24,6 +26,3 @@ Audited by: ConsenSys Diligence<br>Effort: 2 auditors<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/ethereum-name-service.json)

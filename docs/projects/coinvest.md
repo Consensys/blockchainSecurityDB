@@ -1,5 +1,7 @@
 
 # Coinvest
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/coinvest.json)
   
 [https://www.coinve.st/](https://www.coinve.st/)<br>
 Coinvest develops solutions to empower the world to execute financial services using blockchain technology.
@@ -20,6 +22,3 @@ Audited by: Authio<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/coinvest.json)

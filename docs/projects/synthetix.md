@@ -1,5 +1,7 @@
 
 # Synthetix
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/synthetix.json)
   
 [https://www.synthetix.io/](https://www.synthetix.io/)<br>
 A protocol for trading synthetic assets on Ethereum
@@ -123,6 +125,3 @@ Max payout: $5,000
 ## Additional Info
 
 Security Contact: security@synthetix.io
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/synthetix.json)

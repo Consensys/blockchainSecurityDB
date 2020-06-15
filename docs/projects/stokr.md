@@ -1,5 +1,7 @@
 
 # STOKR
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/stokr.json)
   
 [https://stokr.io/](https://stokr.io/)<br>
 Invest in companies you believe in. Built on the blockchain for more independency, more transparency and no middlemen.
@@ -20,6 +22,3 @@ Audited by: ChainSecurity<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/stokr.json)

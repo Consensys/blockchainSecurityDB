@@ -1,5 +1,7 @@
 
 # Origin Protocol
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/origin-protocol.json)
   
 [https://www.originprotocol.com/en](https://www.originprotocol.com/en)<br>
 Revolutionizing how people shop and conduct business online.
@@ -20,6 +22,3 @@ Audited by: Trail of Bits<br>Effort: 4 person-weeks.<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/origin-protocol.json)

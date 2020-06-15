@@ -1,5 +1,7 @@
 
 # Zabo
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/zabo.json)
   
 [https://zabo.com/](https://zabo.com/)<br>
 Connect any cryptocurrency
@@ -20,6 +22,3 @@ Audited by: ConsenSys Diligence<br>Effort: 2 auditors, 30 days<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/zabo.json)

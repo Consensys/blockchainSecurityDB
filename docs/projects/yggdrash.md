@@ -1,5 +1,7 @@
 
 # YGGDRASH
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/yggdrash.json)
   
 [https://yggdrash.io/](https://yggdrash.io/)<br>
 YGGDRASH is the next generation multi-dimensional blockchain platform aiming to connect all real world assets and other blockchains.
@@ -20,6 +22,3 @@ Audited by: SmartDec<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/yggdrash.json)

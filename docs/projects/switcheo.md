@@ -1,5 +1,7 @@
 
 # Switcheo
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/switcheo.json)
   
 [https://switcheo.network/](https://switcheo.network/)<br>
 Trustless and secure multi-chain trading experience.
@@ -27,6 +29,3 @@ Audited by: ChainSecurity<br>
 ## Additional Info
 
 Security Contact: security@switcheo.network
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/switcheo.json)

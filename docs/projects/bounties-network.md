@@ -1,5 +1,7 @@
 
 # Bounties Network
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/bounties-network.json)
   
 [https://bounties.network/](https://bounties.network/)<br>
 Create projects, collaborate, and get paid for doing great work in any domain.
@@ -20,6 +22,3 @@ Audited by: ConsenSys Diligence<br>Effort: 4 auditors<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/bounties-network.json)

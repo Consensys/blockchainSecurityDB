@@ -1,5 +1,7 @@
 
 # Enigma
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/enigma.json)
   
 [https://www.enigma.co/](https://www.enigma.co/)<br>
 Enigma builds and supports groundbreaking privacy-focused technologies and networks.
@@ -20,6 +22,3 @@ Audited by: OpenZeppelin<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/enigma.json)

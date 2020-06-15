@@ -1,5 +1,7 @@
 
 # Decentraland
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/decentraland.json)
   
 [https://decentraland.org/](https://decentraland.org/)<br>
 Create, explore and trade in the first-ever virtual world owned by its users.
@@ -23,6 +25,3 @@ Audited by: OpenZeppelin<br>
 ## Additional Info
 
 Security Contact: hello@decentraland.org
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/decentraland.json)

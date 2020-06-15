@@ -1,5 +1,7 @@
 
 # Nexus Mutual
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/nexus-mutual.json)
   
 [https://nexusmutual.io/](https://nexusmutual.io/)<br>
 A people-powered alternative to insurance
@@ -23,6 +25,3 @@ Audited by: Solidified<br>
 ## Additional Info
 
 Security Contact: security@nexusmutual.io
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/nexus-mutual.json)

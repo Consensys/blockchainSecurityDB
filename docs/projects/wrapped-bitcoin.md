@@ -1,5 +1,7 @@
 
 # Wrapped Bitcoin
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/wrapped-bitcoin.json)
   
 [https://www.wbtc.network/](https://www.wbtc.network/)<br>
 Wrapped Bitcoin delivers the power of Bitcoin with the flexibility of an ERC20 token
@@ -20,6 +22,3 @@ Audited by: ChainSecurity<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/wrapped-bitcoin.json)

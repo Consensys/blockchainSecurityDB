@@ -1,5 +1,7 @@
 
 # SharesPost
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/sharespost.json)
   
 [https://sharespost.com/](https://sharespost.com/)<br>
 The SharesPost marketplace makes it easy to explore private growth companies, access investment opportunities and find liquidity.
@@ -20,6 +22,3 @@ Audited by: Quantstamp<br>Effort: 4 auditors, 24 days.<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/sharespost.json)

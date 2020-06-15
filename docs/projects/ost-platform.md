@@ -1,5 +1,7 @@
 
 # OST Platform
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/ost-platform.json)
   
 [https://ost.com/](https://ost.com/)<br>
 Enables developers to seamlessly embed Ethereum wallets into mainstream applications to benefit from zero-fee micro-transactions.
@@ -20,6 +22,3 @@ Audited by: OpenZeppelin<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/ost-platform.json)

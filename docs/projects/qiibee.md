@@ -1,5 +1,7 @@
 
 # Qiibee
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/qiibee.json)
   
 [https://qiibee.com/](https://qiibee.com/)<br>
 The global standard for loyalty on the blockchain
@@ -20,6 +22,3 @@ Audited by: OpenZeppelin<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/qiibee.json)

@@ -1,5 +1,7 @@
 
 # Nahmii
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/nahmii.json)
   
 [https://www.nahmii.io/](https://www.nahmii.io/)<br>
 The future of blockchain scaling today
@@ -23,6 +25,3 @@ Audited by: CoinFabrik<br>
 ## Additional Info
 
 Security Contact: security@hubii.com
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/nahmii.json)

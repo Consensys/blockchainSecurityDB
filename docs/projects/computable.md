@@ -1,5 +1,7 @@
 
 # Computable
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/computable.json)
   
 [https://computable.io/](https://computable.io/)<br>
 Buy, Sell, and Invest in independent data cooperatives governed by code.
@@ -20,6 +22,3 @@ Audited by: Trail of Bits<br>Effort: 8 person-weeks.<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/computable.json)

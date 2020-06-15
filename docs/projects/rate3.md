@@ -1,5 +1,7 @@
 
 # Rate3
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/rate3.json)
   
 [https://www.rate3.network/](https://www.rate3.network/)<br>
 Creating a connected tokenized world
@@ -28,6 +30,3 @@ Audited by: SmartDec<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/rate3.json)

@@ -1,5 +1,7 @@
 
 # My Wish
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/my-wish.json)
   
 [https://mywish.io/](https://mywish.io/)<br>
 Create your smart contract without coding
@@ -20,6 +22,3 @@ Audited by: Authio<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/my-wish.json)

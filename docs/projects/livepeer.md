@@ -1,5 +1,7 @@
 
 # Livepeer
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/livepeer.json)
   
 [https://livepeer.org/](https://livepeer.org/)<br>
 Open source video infrastructure services, built on the Ethereum blockchain.
@@ -27,6 +29,3 @@ Max payout: $2,500
 ## Additional Info
 
 Security Contact: security@livepeer.org
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/livepeer.json)

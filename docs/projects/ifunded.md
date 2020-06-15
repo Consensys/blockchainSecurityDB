@@ -1,5 +1,7 @@
 
 # iFunded
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/ifunded.json)
   
 [https://ifunded.de/en/](https://ifunded.de/en/)<br>
 The digital real estate investment platform
@@ -20,6 +22,3 @@ Audited by: ConsenSys Diligence<br>Effort: 4 auditors<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/ifunded.json)

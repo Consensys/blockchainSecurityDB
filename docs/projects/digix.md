@@ -1,5 +1,7 @@
 
 # Digix
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/digix.json)
   
 [https://digix.global/#/](https://digix.global/#/)<br>
 The future of gold is digital
@@ -20,6 +22,3 @@ Audited by: ChainSecurity<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/digix.json)

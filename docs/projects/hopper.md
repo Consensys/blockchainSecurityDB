@@ -1,5 +1,7 @@
 
 # Hopper
+
+[Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/hopper.json)
   
 [https://github.com/argentlabs/hopper](https://github.com/argentlabs/hopper)<br>
 Open-Source Mixer for Mobile-friendly private transfers on Ethereum.
@@ -20,6 +22,3 @@ Audited by: SmartDec<br>
 
 
 
-
-
-[Edit this document](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects/hopper.json)
