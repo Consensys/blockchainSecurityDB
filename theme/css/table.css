@@ -18,6 +18,10 @@ body td, th {
   padding: 8px;
 }
 
+body thead th:nth-of-type(2) {
+  width: 50%;
+}
+
 body td ul {
   padding: 0;
   margin: 0;
