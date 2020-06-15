@@ -1,0 +1,29 @@
+body table {
+  border: 2px solid grey;
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+body tbody {
+  vertical-align: top;
+}
+
+body td {
+  word-wrap: break-word;
+}
+
+body td, th {
+  border: 2px solid grey;
+  padding: 8px;
+}
+
+body td ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+body td ul li {
+  margin-bottom: 8px;
+}
