@@ -75,11 +75,19 @@ ${auditMdArr[i] !== undefined ? auditMdArr[i] : ''}
 
 function createProjectTable() {
   const tableStarterMd = 
-`# Blockchain Security DB
+`# Blockchain Security Database
 
-The Blockchain Security DB is an open-source database created by ConsenSys Diligence for all things blockchain security. The database contains a catalog of blockchain projects with details pertaining to their security including audits, bounties, and security contacts. Click on the name of the project in the project column to see more details about a project. To add or update a project, see [this guide](https://github.com/ConsenSys/blockchainSecurityDB#add-or-update-a-project).
+The Blockchain Security Database is an open-source database created by [ConsenSys Diligence](https://diligence.consensys.net/) 
+to act as a repository of security information organized by projects. The database contains a catalog of blockchain projects 
+with details pertaining to their security including audits, bounties, and security contacts. Click on the name of the project 
+in the project column to see more details about a project. To add or update a project, 
+see [this guide](https://github.com/ConsenSys/blockchainSecurityDB#add-or-update-a-project).
 
-This project simply serves as an aggregation of blockchain security data, and does not guarantee the security of any particular project. 
+The objective is only to present the information we could find, not to evaluate or interpret it. In order to enable other 
+projects to take advantage of this resource, all the data for a given projects is stored in a [JSON file](https://github.com/ConsenSys/blockchainSecurityDB/blob/master/projects) 
+making it easily machine-readable.
+
+**This project simply serves as an aggregation of blockchain security data, and does not guarantee the security of any particular project.**
 
 |Project|Audits|Max Bounty Payout|
 |-------|------|-----------------|`
