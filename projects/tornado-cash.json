@@ -3,6 +3,39 @@
     {
       "repos": [
         {
+          "url": "https://github.com/tornadocash/tornado-core/tree/0484408e82e8f1eebd081186cb11189aa0e9b57f"
+        }
+      ],
+      "title": "Tornado Cash cryptographic review",
+      "date": "11/19",
+      "auditor": "ABDK Consulting",
+      "url": "https://tornado.cash/Tornado_cryptographic_review.pdf"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/tornadocash/tornado-core/tree/0484408e82e8f1eebd081186cb11189aa0e9b57f"
+        }
+      ],
+      "title": "Tornado Cash smart contract audit",
+      "date": "11/19",
+      "auditor": "ABDK Consulting",
+      "url": "https://tornado.cash/Tornado_solidity_audit.pdf"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/tornadocash/tornado-core/tree/0484408e82e8f1eebd081186cb11189aa0e9b57f"
+        }
+      ],
+      "title": "Tornado Cash zkSNARK circuits audit",
+      "date": "11/19",
+      "auditor": "ABDK Consulting",
+      "url": "https://tornado.cash/Tornado_circuit_audit.pdf"
+    },
+    {
+      "repos": [
+        {
           "url": "https://github.com/tornadocash/tornado-core/tree/51b06ed661ad0d480c9995401ed47cc324e1ac7e"
         }
       ],
@@ -14,5 +47,5 @@
   ],
   "project": "Tornado.cash",
   "project_url": "https://tornado.cash/",
-  "description": "Ethereum mixer that uses zkSNARKs for private transactions."
+  "description": "Ethereum privacy solution that uses zkSNARKs for private transactions."
 }
