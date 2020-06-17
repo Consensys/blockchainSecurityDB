@@ -1,0 +1,45 @@
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/omgnetwork/plasma-contracts"
+        }
+      ],
+      "title": "Omisego Morevp Audit",
+      "date": "01/20",
+      "auditor": "ConsenSys Diligence",
+      "url": "https://diligence.consensys.net/audits/2020/01/omisego-morevp/",
+      "effort": "3 auditors"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/omgnetwork/plasma-contracts"
+        }
+      ],
+      "title": "Omisego Plasma Framework",
+      "date": "01/20",
+      "auditor": "Quantstamp",
+      "url": "https://github.com/omgnetwork/plasma-contracts/blob/master/plasma_framework/docs/audits/docs/Quantstamp_Plasma_Framework_Report.pdf",
+      "effort": "2 auditors"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/omgnetwork/plasma-contracts"
+        }
+      ],
+      "title": "Omisego Plasma MVP Audit",
+      "date": "10/18",
+      "auditor": "Quantstamp",
+      "url": "https://certificate.quantstamp.com/full/omisego-plasma-mvp",
+      "effort": "5 auditors, 17 days."
+    }
+  ],
+  "project": "OMG Network",
+  "project_url": "https://omg.network/",
+  "description": "Projects on the OMG Network run faster and cheaper without compromising the security of Ethereum.",
+  "bounty": "https://docs.omg.network/bug-bounty-program",
+  "bounty_max": "$25,000"
+}
