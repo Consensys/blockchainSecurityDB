@@ -1,0 +1,20 @@
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://gitlab.com/sibex"
+        }
+      ],
+      "title": "Source Code Review of HTLC for SIBEXAG",
+      "date": "12/19",
+      "auditor": "X41D-SEC GmbH",
+      "url": "https://sibex.io/static/media/x41-sibex-audit.c21991f3.pdf",
+      "effort": "2 auditors"
+    }
+  ],
+  "project": "SIBEX",
+  "project_url": "https://sibex.io",
+  "description": "Professional P2P OTC cryptoasset trading software, offering institutional users realtime trade settlement between Bitcoin and Ethereum Networks via Hashed Time-Locked Contracts (HTLCs).",
+  "security_contact": "tech@sibex.io"
+}
