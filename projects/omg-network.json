@@ -15,7 +15,7 @@
     {
       "repos": [
         {
-          "url": "https://github.com/omg-network/plasma-contracts"
+          "url": "https://github.com/omgnetwork/plasma-contracts"
         }
       ],
       "title": "Omisego Plasma Framework",
