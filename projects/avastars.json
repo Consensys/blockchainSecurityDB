@@ -1,0 +1,19 @@
+{
+  "project": "Avastars",
+  "project_url": "https://avastars.io/",
+  "description": "Generative NFT art stored on-chain.",
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/Dapp-Wizards/Avastars-Contracts"
+        }
+      ],
+      "title": "Avastars Smart Contract Audit Report",
+      "date": "03/20",
+      "auditor": "https://github.com/nicholashc",
+      "url": "https://avastarsaudit.now.sh",
+      "effort": "4 person-weeks"
+    }
+  ]
+}
