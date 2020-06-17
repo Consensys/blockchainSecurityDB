@@ -3,7 +3,7 @@
     {
       "repos": [
         {
-          "url": "https://github.com/omisego/plasma-contracts"
+          "url": "https://github.com/omg-network/plasma-contracts"
         }
       ],
       "title": "Omisego Morevp Audit",
@@ -15,7 +15,19 @@
     {
       "repos": [
         {
-          "url": "https://github.com/omisego/plasma-contracts"
+          "url": "https://github.com/omg-network/plasma-contracts"
+        }
+      ],
+      "title": "Omisego Plasma Framework",
+      "date": "01/20",
+      "auditor": "Quantstamp",
+      "url": "https://github.com/omgnetwork/plasma-contracts/blob/master/plasma_framework/docs/audits/docs/Quantstamp_Plasma_Framework_Report.pdf",
+      "effort": "2 auditors"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/omg-network/plasma-contracts"
         }
       ],
       "title": "Omisego Plasma MVP Audit",
