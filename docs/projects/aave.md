@@ -31,6 +31,6 @@ Audited by: Trail of Bits<br>Effort: 4 person-weeks.<br>
 ## Bounty
 
 [https://aave.com/bug-bounty](https://aave.com/bug-bounty)<br>
-Max payout: $25,000
+Max payout: $250,000
 
 
