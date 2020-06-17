@@ -11,7 +11,7 @@ Generative NFT art stored on-chain.
 
 
 
-#### [Avastars Smart Contract Audit Report](https://avastarsaudit.now.sh/)
+#### [Avastars Audit Report](https://avastarsaudit.now.sh)
 
 March, 2020<br>
 Audited by: https://github.com/nicholashc<br>Effort: 4 person-weeks<br>
