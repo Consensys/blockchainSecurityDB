@@ -37,7 +37,9 @@
       "effort": "5 auditors, 17 days."
     }
   ],
-  "project": "OmiseGo",
-  "project_url": "https://omisego.co/",
-  "description": "OmiseGO enables businesses and individuals to securely offer and access a wide range of financial services, and invest, exchange and spend digital assets anytime, anywhere."
+  "project": "OMG Network",
+  "project_url": "https://omg.network/",
+  "description": "Projects on the OMG Network run faster and cheaper without compromising the security of Ethereum.",
+  "bounty": "https://docs.omg.network/bug-bounty-program",
+  "bounty_max": "$25,000"
 }
