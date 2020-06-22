@@ -45,6 +45,78 @@
       "auditor": "Trail of Bits",
       "url": "https://github.com/trailofbits/publications/blob/master/reviews/compound-2.pdf",
       "effort": "8 person-weeks."
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/compound-finance/compound-protocol/tree/55729b31b85220ab42e26d7b6db0ff6c0eb0dd23"
+        }
+      ],
+      "title": "Compound Governance Security Assessment",
+      "date": "02/20",
+      "auditor": "Trail of Bits",
+      "url": "https://github.com/trailofbits/publications/blob/master/reviews/compound-governance.pdf",
+      "effort": "11 person-days."
+    },
+    { "repos": [
+      {
+        "url": "https://github.com/compound-finance/compound-protocol/tree/f385d71983ae5c5799faae9b2dfea43e5cf75262"
+      }
+    ],
+    "title": "Formal Verification of Compound Protocol",
+    "date": "05/19",
+    "auditor": "Certora",
+    "url": "https://compound.finance/documents/Certora.pdf"
+    },
+    { "repos": [
+      {
+        "url": "https://github.com/compound-finance/compound-protocol/"
+      }
+    ],
+    "title": "Market Risk Assessment",
+    "date": "02/20",
+    "auditor": "Gauntlet",
+    "url": "https://gauntlet.network/reports/compound"
+    },
+    { "repos": [
+      {
+        "url": "https://github.com/compound-finance/compound-protocol-alpha/blob/6858417c91921208c0b3ff342b11065c09665b1b/contracts/Governance"
+      }
+    ],
+    "title": "Compound Alpha Governance System Audit",
+    "date": "02/20",
+    "auditor": "OpenZeppelin",
+    "url": "https://blog.openzeppelin.com/compound-alpha-governance-system-audit/"
+    },
+    { "repos": [
+      {
+        "url": "https://github.com/compound-finance/compound-protocol-alpha/commit/65e870f7f45dca0a7a3a70209da9c5aec9d27c13"
+      }
+    ],
+    "title": "Compound: Tether Integration Audit",
+    "date": "04/20",
+    "auditor": "OpenZeppelin",
+    "url": "https://blog.openzeppelin.com/compound-tether-integration-audit/"
+    },
+    { "repos": [
+      {
+        "url": "https://github.com/compound-finance/compound-protocol/tree/f385d71983ae5c5799faae9b2dfea43e5cf75262"
+      }
+    ],
+    "title": "Compound Finance – MCD & DSR Integration",
+    "date": "02/20",
+    "auditor": "OpenZeppelin",
+    "url": "https://blog.openzeppelin.com/compound-finance-mcd-dsr-integration/"
+    },
+    { "repos": [
+      {
+        "url": "https://github.com/compound-finance/compound-protocol-alpha/pull/36/commits/a303a3259286869d0a4aae967d7cb9e55db39c37"
+      }
+    ],
+    "title": "Compound COMP Distribution System Audit",
+    "date": "05/20",
+    "auditor": "OpenZeppelin",
+    "url": "https://blog.openzeppelin.com/compound-comp-distribution-system-audit/"
     }
   ],
   "project": "Compound",
@@ -52,5 +124,11 @@
   "description": "An algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.",
   "bounty": "https://compound.finance/docs/security#bug-bounty",
   "bounty_max": "$150,000",
-  "security_contact": "security@compound.finance"
+  "security_contact": "security@compound.finance",
+  "security_page": "https://compound.finance/docs/security"
+
 }
+
+
+
+
