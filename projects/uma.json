@@ -1,0 +1,31 @@
+{
+  "audits": [
+    { "repos": [
+      {
+        "url": "https://github.com/UMAprotocol/protocol/tree/9d403ddb5f2f07194daefe7da51e0e0a6306f2c4"
+      }
+    ],
+    "title": "Decentralized Oracle and Common Modules Audit",
+    "date": "04/20",
+    "auditor": "OpenZeppelin",
+    "url": "https://blog.openzeppelin.com/uma-audit-phase-1/"
+    },
+    { "repos": [
+      {
+        "url": "https://github.com/UMAprotocol/protocol/tree/e6eaa48124ae3f209fb117cf05eb18292cf26d21"
+      }
+    ],
+    "title": "Financial Templates Audit",
+    "date": "05/20",
+    "auditor": "OpenZeppelin",
+    "url": "https://blog.openzeppelin.com/uma-audit-phase-2/"
+    }
+  ],
+  "project": "UMA",
+  "project_url": "https://umaproject.org/",
+  "description": "An open-source protocol for building self-enforcing and universally available financial contracts.",
+  "bounty": "https://docs.umaproject.org/uma/developer_reference/bug_bounty.html",
+  "bounty_max": "$25,000",
+  "security_contact": "bugs@umaproject.org",
+  "security_page": "https://docs.umaproject.org/uma/developer_reference/bug_bounty.html"
+}
