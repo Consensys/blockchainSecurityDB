@@ -1,0 +1,20 @@
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/KyberNetwork/eos_smart_contracts/tree/audit3/contracts"
+        }
+      ],
+      "title": "YOLO Smart Contracts Security Audit",
+      "date": "05/19",
+      "auditor": "SlowMist",
+      "url": "https://github.com/KyberNetwork/eos_smart_contracts/blob/master/docs/YOLO_Smart_Contract_Security_Audit_Report.pdf"
+    }
+  ],
+  "project": "YOLO Swap",
+  "project_url": "https://yoloswap.com/",
+  "description": "Token swaps on EOS powered by Kyber Protocol.",
+  "security_contact": "hello@yoloswap.com",
+  "effort": "3 auditors"
+}
