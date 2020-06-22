@@ -23,7 +23,7 @@
   ],
   "project": "UMA",
   "project_url": "https://umaproject.org/",
-  "description": "An open-source protocol for building self-enforcing and universally available financial contracts.",
+  "description": "An open-source protocol for building self-enforcing financial contracts.",
   "bounty": "https://docs.umaproject.org/uma/developer_reference/bug_bounty.html",
   "bounty_max": "$25,000",
   "security_contact": "bugs@umaproject.org",
