@@ -1,0 +1,46 @@
+{
+  "project": "MakerDAO",
+  "project_url": "https://makerdao.com",
+  "description": "Digital currency that can be used by anyone, anywhere, anytime.",
+  "bounty": "https://hackerone.com/makerdao_bbp",
+  "bounty_max": "$50,000",
+  "security_contact": "infosec@makerdao.com",
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/makerdao/dss"
+        }
+      ],
+      "title": "MCD Core Smart Contracts Security Assessment",
+      "date": "08/19",
+      "auditor": "Trail of Bits",
+      "url": "https://github.com/makerdao/mcd-security/blob/master/Audit%20Reports/TOB_MakerDAO_Final_Report.pdf",
+      "effort": "16 person-weeks, 4 engineers"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/makerdao/dss"
+        }
+      ],
+      "title": "Smart Contract Audit Report",
+      "date": "10/19",
+      "auditor": "PeckShield",
+      "url": "https://github.com/makerdao/mcd-security/blob/master/Audit%20Reports/PeckShield_Final_Audit_Report.pdf",
+      "effort": "12 person-weeks, 4 engineers"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/makerdao/dss"
+        }
+      ],
+      "title": "Runtime Verification Specification",
+      "date": "06/20",
+      "auditor": "Runtime Verification",
+      "url": "https://github.com/makerdao/mkr-mcd-spec",
+      "effort": "12 person-weeks, 2 engineers"
+    }
+  ]
+}
