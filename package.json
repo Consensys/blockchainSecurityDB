@@ -5,7 +5,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "build": "node ./utils/jsonProjectToMd.js && node ./utils/createProjectTable.js"
+    "generate-markdown": "node ./utils/jsonProjectToMd.js && node ./utils/createProjectTable.js"
   },
   "repository": {
     "type": "git",

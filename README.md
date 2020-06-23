@@ -40,4 +40,4 @@ Blockchain Security DB is an open-source database created by ConsenSys Diligence
 }
 ```
 
-* Run `npm run build`
+* Run `npm run generate-markdown`
