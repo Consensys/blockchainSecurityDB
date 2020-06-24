@@ -1,0 +1,23 @@
+{
+  "project": "Authereum",
+  "project_url": "https://authereum.com/",
+  "description": "Log into Ethereum",
+  "bounty": "https://support.authereum.com/hc/en-us/articles/360043760793-Does-Authereum-have-a-bug-bounty-program-",
+  "bounty_max": "$8,000",
+  "security_contact": "bounty@authereum.com",
+  "audits": [
+    {
+      "title": "Authereum Audit",
+      "date": "02/20",
+      "auditor": "Quantstamp",
+      "url": "https://certificate.quantstamp.com/full/authereum",
+      "effort": "6 person-weeks."
+    },
+    {
+      "title": "Authereum, meet Parity",
+      "date": "02/20",
+      "auditor": "Samczsun",
+      "url": "https://github.com/authereum/contracts/blob/master/audits/20200218_Samczsum_Authereum_Disclosure.pdf"
+    }
+  ]
+}
