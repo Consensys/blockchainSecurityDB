@@ -1,0 +1,18 @@
+{
+  "project": "StarkEx",
+  "project_url": "https://starkware.co/product/starkex/",
+  "description": "StarkEx leverages STARK technology to bring the first product-grade engine to power scalable non-custodial trading on cryptocurrency exchanges.",
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/starkware-libs/starkex-contracts"
+        }
+      ],
+      "title": "StarkEx Smart Contract Audit Report",
+      "date": "02/20",
+      "auditor": "PeckShield",
+      "url": "https://starkware.co/wp-content/uploads/2020/04/StarkEx_Audit_Report.pdf"
+    }
+  ]
+}
