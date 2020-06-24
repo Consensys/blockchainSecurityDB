@@ -14,5 +14,6 @@
     }
   ],
   "project": "Simple Wallet",
-  "description": "A simple multisig wallet"
+  "description": "A simple multisig wallet",
+  "project_url": "https://github.com/christianlundkvist/simple-multisig"
 }
