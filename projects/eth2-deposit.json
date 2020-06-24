@@ -1,0 +1,20 @@
+{
+  "project": "Ethereum 2.0 Deposit Contract",
+  "project_url": "https://github.com/ethereum/eth2.0-specs/tree/dev/deposit_contract",
+  "description": "Gateway to join Ethereum 2.0",
+  "bounty": "https://notes.ethereum.org/@djrtwo/phase0-bounty",
+  "bounty_max": "$20,000",
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/ethereum/eth2.0-specs/blob/v0.10.0/deposit_contract/contracts/validator_registration.vy"
+        }
+      ],
+      "title": "End-to-End Formal Verification of Ethereum 2.0 Deposit Smart Contract",
+      "date": "01/20",
+      "auditor": "Runtime Verification",
+      "url": "https://medium.com/coinmonks/end-to-end-formal-verification-of-ethereum-2-0-deposit-smart-contract-7ebf13fa46ad"
+    }
+  ]
+}
