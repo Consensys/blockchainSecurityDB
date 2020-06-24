@@ -1,0 +1,14 @@
+{
+  "project": "Dapper",
+  "project_url": "https://www.meetdapper.com/",
+  "description": "The trusted gateway to your digital goods",
+  "audits": [
+    {
+      "repos": [],
+      "title": "Dapper Smart Contract Wallet Solidity Security Review",
+      "date": "05/19",
+      "auditor": "Sigma Prime",
+      "url": "https://github.com/sigp/public-audits/blob/master/dapper-wallet/review.pdf"
+    }
+  ]
+}
