@@ -1,0 +1,18 @@
+{
+  "project": "Nuo",
+  "project_url": "https://nuo.network/",
+  "description": "The non-custodial way to lend, borrow or margin trade crypto assets",
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/NuoNetwork/nuo-audited-contracts"
+        }
+      ],
+      "title": "Quantstamp Audits Nuo Network",
+      "date": "04/19",
+      "auditor": "Quantstamp",
+      "url": "https://quantstamp.com/blog/quantstamp-audits-nuo-network"
+    }
+  ]
+}
