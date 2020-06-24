@@ -1,0 +1,18 @@
+{
+  "project": "Multis",
+  "project_url": "https://multis.co/",
+  "description": "A powerful interface for companies to make the most of their crypto",
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/multis/MULTISig/commit/635f670c40ab2a83e846f8c6ca16b3cbe5bc6678"
+        }
+      ],
+      "title": "GSN-Enabled Multisig Audit",
+      "date": "04/20",
+      "auditor": "Quantstamp",
+      "url": "https://certificate.quantstamp.com/full/multis"
+    }
+  ]
+}
