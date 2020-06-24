@@ -1,0 +1,65 @@
+{
+  "project": "ChainLink",
+  "project_url": "https://chain.link/",
+  "description": "Your smart contracts connected to real world data, events and payments.",
+  "bounty": "https://hackerone.com/chainlink",
+  "bounty_max": "$5,000",
+  "security_contact": "security@chain.link",
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://gist.github.com/yuriy77k/c3a70d212a7f9ecda715252e45073158"
+        }
+      ],
+      "title": "ChainLink (LINK) Security Audit Report",
+      "date": "09/19",
+      "auditor": "Callisto",
+      "url": "https://callisto.network/blog/post/chainlink-link-security-audit-report/"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/smartcontractkit/chainlink/tree/cee356"
+        }
+      ],
+      "title": "Chainlink Smart Contract Security Review",
+      "date": "12/18",
+      "auditor": "SigmaPrime",
+      "url": "https://github.com/sigp/public-audits/blob/master/chainlink-1/review.pdf"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/smartcontractkit/chainlink/tree/e1d9a3a"
+        }
+      ],
+      "title": "Solidity Security Review ConvesionRate Smart Contract",
+      "date": "05/19",
+      "auditor": "SigmaPrime",
+      "url": "https://github.com/sigp/public-audits/blob/master/chainlink-2/review.pdf"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/smartcontractkit/chainlink/tree/bafa91c"
+        }
+      ],
+      "title": "Chainlink Smart Contract Audit Report",
+      "date": "11/18",
+      "auditor": "Quantstamp",
+      "url": "https://github.com/smartcontractkit/audits/blob/master/reports/Quantstamp%20-%20Chainlink%20Audit%20Report.pdf"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/smartcontractkit/chainlink/tree/5327f9"
+        }
+      ],
+      "title": "Chainlink Smart Contract Audit",
+      "date": "02/19",
+      "auditor": "Nick Johnson",
+      "url": "https://github.com/smartcontractkit/audits/blob/master/reports/Nick%20Johnson%20-%20Chainlink%20Audit%20Report.pdf"
+    }
+  ]
+}
