@@ -1,0 +1,19 @@
+{
+  "project": "Chai",
+  "project_url": "https://github.com/dapphub/chai",
+  "description": "Chai is an ERC20 token representing a claim on deposits in the DSR.",
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/dapphub/chai"
+        }
+      ],
+      "title": "Chai Security Review",
+      "date": "02/20",
+      "auditor": "Trail of Bits",
+      "url": "https://github.com/trailofbits/publications/blob/master/reviews/chai-loa.pdf",
+      "effort": "2 days"
+    }
+  ]
+}
