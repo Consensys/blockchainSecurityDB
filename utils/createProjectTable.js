@@ -39,7 +39,7 @@ function createProjectTableRow(file) {
     const audit = jsonFile.audits[i];
     // Format date
     let auditDate;
-    if(audit.date.length > 0) {
+    if(audit.date && audit.date.length > 0) {
       const month = monthsMap[audit.date.split('/')[0]];
       const year = `20${audit.date.split('/')[1]}`;
       auditDate = `${month} ${year}`;
