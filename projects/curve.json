@@ -1,0 +1,31 @@
+{
+  "project": "Curve",
+  "project_url": "https://www.curve.fi/",
+  "description": "Curve is an exchange liquidity pool on Ethereum (like Uniswap) designed for (1) extremely efficient stablecoin trading (2) low risk, supplemental fee income for liquidity providers, without an opportunity cost.",
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/curvefi/curve-contract/"
+        }
+      ],
+      "title": "Smart Contract Security Review",
+      "date": "01/20",
+      "auditor": "Trail of Bits",
+      "url": "https://www.curve.fi/curve_audits/00-ToB.pdf",
+      "effort": "1 person-week"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/curvefi/curve-contract/tree/2c7494a10dfc5cf1d7056fcadc430fe953325f8c"
+        }
+      ],
+      "title": "Swiss Stake Security Assessment",
+      "date": "03/20",
+      "auditor": "Trail of Bits",
+      "url": "https://www.curve.fi/curve_audits/01-ToB.pdf",
+      "effort": "1 person-week"
+    }
+  ]
+}
