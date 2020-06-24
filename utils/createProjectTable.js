@@ -67,7 +67,7 @@ ${auditMdArr[i] !== undefined ? auditMdArr[i] : ''}
 
   const writePath = path.join(__dirname, '../docs');
 
-  fs.appendFile(`${writePath}/index.md`, `\n${formattedtableRowMd}`, (err) => {
+  fs.appendFileSync(`${writePath}/index.md`, `\n${formattedtableRowMd}`, (err) => {
     if(err) throw err;
     console.log('Table row successfully appended.');
   });
