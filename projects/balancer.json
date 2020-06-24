@@ -1,0 +1,34 @@
+{
+  "project": "Balancer",
+  "project_url": "https://balancer.finance/",
+  "description": "Balancer is a non-custodial portfolio manager, liquidity provider, and price sensor",
+  "bounty": "https://docs.balancer.finance/protocol/security/bounty",
+  "bounty_max": "$25,000",
+  "security_contact": "security@balancer.finance",
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/balancer-labs/balancer-core/tree/942a51"
+        }
+      ],
+      "title": "Balancer Core Security Assessment",
+      "date": "03/20",
+      "auditor": "Trail of Bits",
+      "url": "https://github.com/trailofbits/publications/blob/master/reviews/BalancerCore.pdf",
+      "effort": "3 person-weeks."
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/balancer-labs/balancer-core/tree/5d70da"
+        }
+      ],
+      "title": "Balancer Finance Security Assessment",
+      "date": "05/20",
+      "auditor": "ConsenSys Diligence",
+      "url": "https://diligence.consensys.net/audits/2020/05/balancer-finance/",
+      "effort": "4 person-weeks."
+    }
+  ]
+}
