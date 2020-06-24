@@ -1,0 +1,19 @@
+{
+  "project": "TenX",
+  "project_url": "https://tenx.tech/",
+  "description": "Buy, send, and spend crypto",
+  "security_contact": "team@tenx.tech",
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/tenx-tech/tenx-token"
+        }
+      ],
+      "title": "Security Audit of TenX's Smart Contracts",
+      "date": "02/19",
+      "auditor": "ChainSecurity",
+      "url": "https://chainsecurity.com/wp-content/uploads/2019/05/ChainSecurity_TenX.pdf"
+    }
+  ]
+}
