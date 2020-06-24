@@ -1,0 +1,18 @@
+{
+  "project": "Opyn",
+  "project_url": "https://opyn.co/#/",
+  "description": "Opyn allows you to protect your DeFi deposits and hedge ETH risk.",
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/opynfinance/Convexity-Protocol/tree/c34598"
+        }
+      ],
+      "title": "Opyn Contracts Audit",
+      "date": "02/20",
+      "auditor": "OpenZeppelin",
+      "url": "https://blog.openzeppelin.com/opyn-contracts-audit/"
+    }
+  ]
+}
