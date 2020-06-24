@@ -3,7 +3,7 @@
 
 [Update this project](https://github.com/ConsenSys/blockchainSecurityDB/edit/master/projects/simple-wallet.json)
   
-[undefined](undefined)<br>
+[https://github.com/christianlundkvist/simple-multisig](https://github.com/christianlundkvist/simple-multisig)<br>
 A simple multisig wallet
 
 
