@@ -41,6 +41,17 @@
       "auditor": "Runtime Verification",
       "url": "https://github.com/makerdao/mkr-mcd-spec",
       "effort": "12 person-weeks, 2 engineers"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/makerdao/sai"
+        }
+      ],
+      "title": "MakerDAO Sai Contract Audit",
+      "date": "06/18",
+      "auditor": "BokkyPooBah",
+      "url": "https://github.com/bokkypoobah/MakerDAOSaiContractAudit/tree/master/audit"
     }
   ]
 }

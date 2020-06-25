@@ -34,6 +34,14 @@ Audited by: Runtime Verification<br>Effort: 12 person-weeks, 2 engineers<br>
 [Repo](https://github.com/makerdao/dss)
       
 
+
+#### [MakerDAO Sai Contract Audit](https://github.com/bokkypoobah/MakerDAOSaiContractAudit/tree/master/audit)
+
+June, 2018<br>
+Audited by: BokkyPooBah<br>
+[Repo](https://github.com/makerdao/sai)
+      
+
   
 
 ## Bounty
