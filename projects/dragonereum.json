@@ -1,0 +1,18 @@
+{
+  "project": "Dragonereum",
+  "project_url": "https://dragonereum.io/",
+  "description": "Digital scarcity game with blockchain and dragons",
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/dragonereum/dragonereum-contracts"
+        }
+      ],
+      "title": "Dragonereum Smart Contract Security Audit",
+      "date": "11/18",
+      "auditor": "PepperSec",
+      "url": "https://github.com/peppersec/public-audit-reports/blob/master/reports_pdf/Dragonereum-audit-report.pdf"
+    }
+  ]
+}
