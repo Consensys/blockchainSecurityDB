@@ -18,6 +18,14 @@ Audited by: Trail of Bits<br>Effort: 9 person-weeks<br>
 [Repo](https://github.com/status-im/status-protocol-go)[Repo](https://github.com/status-im/status-go)[Repo](https://github.com/status-im/whisper)[Repo](https://github.com/status-im/status-react)
       
 
+
+#### [UsernameRegistrar Security Review](https://github.com/sigp/public-audits/blob/master/status/review.pdf)
+
+October, 2018<br>
+Audited by: Sigma Prime<br>
+[Repo](https://github.com/status-im/ens-usernames/commit/30ce35c7efe0079d8df286826d4f826f102c818e)
+      
+
   
 
 ## Bounty

@@ -20,6 +20,17 @@
       "auditor": "Trail of Bits",
       "url": "https://our.status.im/status-mobile-app-security-audit-complete-ahead-of-v1-launch/",
       "effort": "9 person-weeks"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/status-im/ens-usernames/commit/30ce35c7efe0079d8df286826d4f826f102c818e"
+        }
+      ],
+      "title": "UsernameRegistrar Security Review",
+      "date": "10/18",
+      "auditor": "Sigma Prime",
+      "url": "https://github.com/sigp/public-audits/blob/master/status/review.pdf"
     }
   ],
   "project": "Status",
