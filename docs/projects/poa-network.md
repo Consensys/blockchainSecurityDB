@@ -26,6 +26,30 @@ Audited by: Authio<br>
 [Repo](https://github.com/poanetwork/poa-network-consensus-contracts)
       
 
+
+#### [POA POSDAO Smart Contract Security Audit](https://github.com/peppersec/public-audit-reports/blob/master/reports_pdf/POA-DPOS-audit-report.pdf)
+
+August, 2019<br>
+Audited by: PepperSec<br>
+[Repo](https://github.com/poanetwork/posdao-contracts)
+      
+
+
+#### [POA Network Bridge Smart Contract Security Audit](https://github.com/peppersec/public-audit-reports/blob/master/reports_pdf/POA-Network-Bridge-audit-report.pdf)
+
+September, 2018<br>
+Audited by: PepperSec<br>
+[Repo](https://github.com/poanetwork/poa-bridge)
+      
+
+
+#### [POA Network Token-Bridge Security Assessment](https://github.com/peppersec/public-audit-reports/blob/master/reports_pdf/POA-Network-Token-bridge-security-assessment-report.pdf)
+
+December, 2018<br>
+Audited by: PepperSec<br>
+[Repo](https://github.com/poanetwork/tokenbridge)
+      
+
   
 
 

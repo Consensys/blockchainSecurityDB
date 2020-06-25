@@ -17,6 +17,39 @@
           "url": "https://github.com/poanetwork/poa-network-consensus-contracts"
         }
       ]
+    },
+    {
+      "title": "POA POSDAO Smart Contract Security Audit",
+      "url": "https://github.com/peppersec/public-audit-reports/blob/master/reports_pdf/POA-DPOS-audit-report.pdf",
+      "date": "08/19",
+      "auditor": "PepperSec",
+      "repos": [
+        {
+          "url": "https://github.com/poanetwork/posdao-contracts"
+        }
+      ]
+    },
+    {
+      "title": "POA Network Bridge Smart Contract Security Audit",
+      "url": "https://github.com/peppersec/public-audit-reports/blob/master/reports_pdf/POA-Network-Bridge-audit-report.pdf",
+      "date": "09/18",
+      "auditor": "PepperSec",
+      "repos": [
+        {
+          "url": "https://github.com/poanetwork/poa-bridge"
+        }
+      ]
+    },
+    {
+      "title": "POA Network Token-Bridge Security Assessment",
+      "url": "https://github.com/peppersec/public-audit-reports/blob/master/reports_pdf/POA-Network-Token-bridge-security-assessment-report.pdf",
+      "date": "12/18",
+      "auditor": "PepperSec",
+      "repos": [
+        {
+          "url": "https://github.com/poanetwork/tokenbridge"
+        }
+      ]
     }
   ],
   "project": "POA Network",
