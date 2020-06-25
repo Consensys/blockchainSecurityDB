@@ -15,7 +15,7 @@ Gnosis builds new market mechanisms for open finance.
 
 March, 2018<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/maraoz/MultiSigWallet/tree/585863178330d3c64855d596caba2b7f3271a423)[Repo](https://github.com/gnosis/MultiSigWallet/tree/master/contracts)
+[Repo](https://github.com/maraoz/MultiSigWallet/tree/585863178330d3c64855d596caba2b7f3271a423)
       
 
 
@@ -52,4 +52,4 @@ Max payout: $100,000
 
 ## Additional Info
 
-Security Contact: bounty@gnosis.pm
+Security Contact: bounty@gnosis.io
