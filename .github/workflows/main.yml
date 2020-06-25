@@ -2,9 +2,9 @@ name: github pages
 
 on:
   push:
-    branches: [ master ]
+    branches: [ master, setupActions ]
   pull_request:
-    branches: [ master ]
+    branches: [ master, setupActions ]
     types: [closed]
     
 
@@ -17,7 +17,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v1
       with:
-        python-version: '3.6'
+        python-version: '3.7.5'
         architecture: 'x64'
 
     - name: Install dependencies
