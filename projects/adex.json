@@ -1,0 +1,20 @@
+{
+  "project": "AdEx",
+  "project_url": "https://www.adex.network/",
+  "description": "A display ad network for reduced ad fraud and increased user privacy",
+  "bounty": "https://medium.com/the-adex-blog/announcing-the-adex-bug-bounty-a5a6e0621094",
+  "bounty_max": "$2,000+",
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/AdExNetwork/adex-protocol-eth/commit/caa872ce982cd09a342b42d10281bf82038e6070"
+        }
+      ],
+      "title": "AdEx Protocol - Solidity Security Review",
+      "date": "12/18",
+      "auditor": "Sigma Prime",
+      "url": "https://github.com/sigp/public-audits/blob/master/adex/review.pdf"
+    }
+  ]
+}
