@@ -1,0 +1,14 @@
+{
+  "project": "Gods Unchained",
+  "project_url": "https://godsunchained.com/",
+  "description": "Gods Unchained is a decentralized competitive card game that takes some of the best lessons learned from games like Hearthstone, MTG, and Faeria and turns them into a truly community-focused game.",
+  "audits": [
+    {
+      "repos": [],
+      "title": "Gods Unchained Solidity Security Review",
+      "date": "10/19",
+      "auditor": "Sigma Prime",
+      "url": "https://github.com/sigp/public-audits/blob/master/gods-unchained-packs/review.pdf"
+    }
+  ]
+}
