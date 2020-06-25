@@ -10,12 +10,46 @@
       "date": "03/18",
       "auditor": "OpenZeppelin",
       "url": "https://blog.openzeppelin.com/gnosis-multisig-wallet-audit-d702ff0e2b1e/"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/gnosis/safe-contracts/commit/e0575ce68b1f38b6088898b00ac7615dee51100f"
+        }
+      ],
+      "title": "Gnosis Safe v0.0.1",
+      "date": "07/18",
+      "auditor": "Alexey Akhunov",
+      "url": "https://github.com/gnosis/safe-contracts/blob/development/docs/alexey_audit.md"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/gnosis/safe-contracts/commit/703dde2ea9882a35762146844d5cfbeeec73e36f"
+        }
+      ],
+      "title": "Gnosis Safe v1.0.0",
+      "date": "02/19",
+      "auditor": "Runtime Verification",
+      "url": "https://github.com/gnosis/safe-contracts/blob/v1.1.1/docs/Gnosis_Safe_Formal_Verification_Report_1_0_0.pdf"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/gnosis/safe-contracts/commit/2df0b2e0ad5d0f7ab5423e7f5baa72b2456d32ae"
+        }
+      ],
+      "title": "Gnosis Safe v1.1.0 & v1.1.1",
+      "date": "11/19",
+      "auditor": "G0 Group",
+      "url": "https://github.com/gnosis/safe-contracts/blob/v1.1.1/docs/audit_1_1_1.md"
     }
+
   ],
   "project": "Gnosis",
   "project_url": "https://gnosis.io/",
   "description": "Gnosis builds new market mechanisms for open finance.",
-  "bounty": "https://blog.gnosis.pm/2020-dex-bug-bounty-210f2b67a764",
-  "bounty_max": "$50,000",
-  "security_contact": "info@gnosis.pm"
+  "bounty": "https://blog.gnosis.pm/announcing-the-gnosis-safe-contract-update-1-1-0-bug-bounty-fd2850204963",
+  "bounty_max": "$100,000",
+  "security_contact": "bounty@gnosis.io"
 }
