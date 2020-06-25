@@ -1,0 +1,18 @@
+{
+  "project": "Aira",
+  "project_url": "https://aira.life/",
+  "description": "Helps engineers design smart cities and lights-out factories.",
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/airalab/robonomics"
+        }
+      ],
+      "title": "Aira's Robonomic Smart Contract Security Audit",
+      "date": "09/18",
+      "auditor": "PepperSec",
+      "url": "https://github.com/peppersec/public-audit-reports/blob/master/reports_pdf/Aira-Robonomic-audit-report.pdf"
+    }
+  ]
+}
