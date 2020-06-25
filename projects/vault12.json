@@ -1,0 +1,14 @@
+{
+  "project": "Vault12",
+  "project_url": "https://vault12.com/",
+  "description": "Vault12 gives you personal crypto security.",
+  "audits": [
+    {
+      "repos": [],
+      "title": "Vault12 Smart Contract Security Audit",
+      "date": "01/19",
+      "auditor": "PepperSec",
+      "url": "https://github.com/peppersec/public-audit-reports/blob/master/reports_pdf/Vault12-Token-Vesting-audit-report.pdf"
+    }
+  ]
+}
