@@ -1,0 +1,14 @@
+{
+  "project": "1inch",
+  "project_url": "https://1inch.exchange/",
+  "description": "DEX Aggregator with the best prices on the market.",
+  "audits": [
+    {
+      "repos": [],
+      "title": "1inch Protocol Audit",
+      "date": "05/20",
+      "auditor": "PepperSec",
+      "url": "https://github.com/peppersec/public-audit-reports/blob/master/reports_pdf/1inch-Protocol-audit-report.pdf"
+    }
+  ]
+}
