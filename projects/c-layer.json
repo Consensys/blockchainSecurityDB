@@ -1,0 +1,20 @@
+{
+  "project": "C-Layer",
+  "project_url": "https://www.c-layer.org/",
+  "description": "A fair and transparent compliance framework built on top of public blockchain",
+  "security_contact": "security@c-layer.org",
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/c-layer/contracts/tree/f344c2"
+        }
+      ],
+      "title": "Audit Report - C-Layer",
+      "date": "10/19",
+      "auditor": "Solidified",
+      "url": "https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20C-Layer%20phase%201%20%5B14.10.2019%5D.pdf",
+      "effort": "3 auditors"
+    }
+  ]
+}
