@@ -26,6 +26,14 @@ Audited by: Trail of Bits<br>Effort: 4 person-weeks.<br>
 [Repo](https://github.com/golemfactory/golem)<br>
       
 
+
+#### [Audit Report - Golem GNT Deposit](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Golem%20GNT%20Desposit%20%5B02.08.2019%5D%20(2).pdf)
+
+August, 2019<br>
+Audited by: Solidified<br>Effort: 3 auditors<br>
+[Repo](https://github.com/golemfactory/golem)<br>
+      
+
   
 
 ## Bounty

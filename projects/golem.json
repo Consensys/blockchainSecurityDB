@@ -22,6 +22,18 @@
       "auditor": "Trail of Bits",
       "url": "https://github.com/trailofbits/publications/blob/master/reviews/golem.pdf",
       "effort": "4 person-weeks."
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/golemfactory/golem"
+        }
+      ],
+      "title": "Audit Report - Golem GNT Deposit",
+      "date": "08/19",
+      "auditor": "Solidified",
+      "url": "https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Golem%20GNT%20Desposit%20%5B02.08.2019%5D%20(2).pdf",
+      "effort": "3 auditors"
     }
   ],
   "project": "Golem",
