@@ -18,6 +18,14 @@ Audited by: Solidified<br>Effort: 3 auditors<br>
 [Repo](https://github.com/AventusProtocolFoundation/protocol-classic)
       
 
+
+#### [Audit Report - Aventus Protocol](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Aventus%20Protocol%20%5B15.11.2019%5D.pdf)
+
+November, 2019<br>
+Audited by: Solidified<br>Effort: 3 auditors<br>
+[Repo](https://github.com/AventusProtocolFoundation/protocol/tree/audit_ready)
+      
+
   
 
 ## Bounty

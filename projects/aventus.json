@@ -17,6 +17,18 @@
       "auditor": "Solidified",
       "url": "https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Aventus%20Protocol%20%5B05.11.18%5D.pdf",
       "effort": "3 auditors"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/AventusProtocolFoundation/protocol/tree/audit_ready"
+        }
+      ],
+      "title": "Audit Report - Aventus Protocol",
+      "date": "11/19",
+      "auditor": "Solidified",
+      "url": "https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Aventus%20Protocol%20%5B15.11.2019%5D.pdf",
+      "effort": "3 auditors"
     }
   ]
 }
