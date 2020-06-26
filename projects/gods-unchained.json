@@ -9,6 +9,17 @@
       "date": "10/19",
       "auditor": "Sigma Prime",
       "url": "https://github.com/sigp/public-audits/blob/master/gods-unchained-packs/review.pdf"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/immutable/platform-contracts/tree/develop/contracts/gods-unchained/contracts/s1"
+        }
+      ],
+      "title": "Audit Report - Immutable Gods Unchained S1",
+      "date": "06/20",
+      "auditor": "Solidified",
+      "url": "https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Immutable%20Gods%20Unchained%20S1%20%5B09.06.2020%5D.pdf"
     }
   ]
 }
