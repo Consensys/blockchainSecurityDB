@@ -1,0 +1,15 @@
+{
+  "project": "FansUnite",
+  "project_url": "https://fansunite.com/",
+  "description": "Best-in-class smart contract-based betting platform",
+  "audits": [
+    {
+      "repos": [],
+      "title": "Audit Report - FansUnite",
+      "date": "01/19",
+      "auditor": "Solidified",
+      "url": "https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20FansUnite%20%5B17.01.2019%5D.pdf",
+      "effort": "2 auditors"
+    }
+  ]
+}
