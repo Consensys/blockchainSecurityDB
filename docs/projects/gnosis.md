@@ -42,6 +42,14 @@ Audited by: G0 Group<br>
 [Repo](https://github.com/gnosis/safe-contracts/commit/2df0b2e0ad5d0f7ab5423e7f5baa72b2456d32ae)
       
 
+
+#### [Audit Report - Gnosis DX](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Gnosis%20DX%20%5B03.29.18%5D.pdf)
+
+March, 2018<br>
+Audited by: Solidified<br>
+[Repo](https://github.com/gnosis/dx-contracts/tree/838880)[Repo](https://github.com/gnosis/owl-token/tree/32e2b7)
+      
+
   
 
 ## Bounty

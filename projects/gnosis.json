@@ -43,8 +43,21 @@
       "date": "11/19",
       "auditor": "G0 Group",
       "url": "https://github.com/gnosis/safe-contracts/blob/v1.1.1/docs/audit_1_1_1.md"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/gnosis/dx-contracts/tree/838880"
+        },
+        {
+          "url": "https://github.com/gnosis/owl-token/tree/32e2b7"
+        }
+      ],
+      "title": "Audit Report - Gnosis DX",
+      "date": "03/18",
+      "auditor": "Solidified",
+      "url": "https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Gnosis%20DX%20%5B03.29.18%5D.pdf"
     }
-
   ],
   "project": "Gnosis",
   "project_url": "https://gnosis.io/",
