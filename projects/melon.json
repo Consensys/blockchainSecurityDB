@@ -11,6 +11,42 @@
       "auditor": "ChainSecurity",
       "url": "https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Melon.pdf",
       "effort": "4 auditors, 2 weeks."
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/melonproject/protocol/tree/ce3141"
+        }
+      ],
+      "title": "Audit Report - Melon Competition",
+      "date": "05/18",
+      "auditor": "Solidified",
+      "url": "https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Melon%20Competition%20%5B05.11.18%5D.pdf",
+      "effort": "2 auditors."
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/melonproject/protocol/tree/541b10"
+        }
+      ],
+      "title": "Audit Report - Melon Protocol",
+      "date": "06/18",
+      "auditor": "Solidified",
+      "url": "https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Melon%20Protocol%20%5B06.08.18%5D.pdf",
+      "effort": "2 auditors."
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/melonproject/protocol/tree/0d92a7"
+        }
+      ],
+      "title": "Audit Report - Melonport",
+      "date": "01/19",
+      "auditor": "Solidified",
+      "url": "https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Melonport%20%5B09.01.2019%5D.pdf",
+      "effort": "3 auditors."
     }
   ],
   "project": "Melon",
