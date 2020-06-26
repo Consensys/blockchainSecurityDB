@@ -1,0 +1,22 @@
+{
+  "project": "2key",
+  "project_url": "https://www.2key.network/",
+  "description": "Turn any link into a SmartLink that tracks, records and rewards every interaction.",
+  "bounty": "https://www.2key.network/bug-bounty",
+  "bounty_max": "$5,000",
+  "security_contact": "bugs@2key.network",
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/2key/contracts/tree/de171e"
+        }
+      ],
+      "title": "Audit Report - 2key",
+      "date": "10/19",
+      "auditor": "Solidified",
+      "url": "https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%202Key%20%5B14.10.2019%5D.pdf",
+      "effort": "3 auditors"
+    }
+  ]
+}
