@@ -1,0 +1,22 @@
+{
+  "project": "Aventus",
+  "project_url": "https://www.aventus.io/",
+  "description": "Aventus is an open source, decentralised protocol that revolutionises the way digital assets are issued, owned and transferred across value chains",
+  "bounty": "https://blog.aventus.io/aventus-protocol-bug-bounty-rewards-up-to-10-000-3bcf077e3d27",
+  "bounty_max": "$10,000",
+  "security_contact": "security@aventus.io",
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/AventusProtocolFoundation/protocol-classic"
+        }
+      ],
+      "title": "Audit Report - Aventus Protocol",
+      "date": "05/18",
+      "auditor": "Solidified",
+      "url": "https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Aventus%20Protocol%20%5B05.11.18%5D.pdf",
+      "effort": "3 auditors"
+    }
+  ]
+}
