@@ -33,6 +33,39 @@
       "date": "11/19",
       "auditor": "CoinFabrik",
       "url": "https://blog.coinfabrik.com/polymath-core-audit/"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/PolymathNetwork/polymath-core/tree/a8b71e"
+        }
+      ],
+      "title": "Audit Report - Polymath - Patches for GeneralTransferManger, CountTransferManager and ManualApprovalManager",
+      "date": "03/18",
+      "auditor": "Solidified",
+      "url": "https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20%20Polymath%20-%20Patches%20for%20GeneralTransferManger%2C%20CountTransferManager%20and%20ManualApprovalManager%20%5B14.03.19%5D.pdf"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/PolymathNetwork/polymath-core/tree/a8b71e"
+        }
+      ],
+      "title": "Audit Report - Polymath - Volume Restriction Transafer Manager",
+      "date": "03/19",
+      "auditor": "Solidified",
+      "url": "https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20%20Polymath%20-%20Volume%20Restriction%20Transafer%20Manager%20%5B22.03.2019%5D.pdf"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/PolymathNetwork/polymath-core/tree/a8b71e"
+        }
+      ],
+      "title": "Audit Report - Polymath - USDtieredSTO and CappedSTO",
+      "date": "03/18",
+      "auditor": "Solidified",
+      "url": "https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20%20Polymath%20USDtieredSTO%20and%20CappedSTO%20%5B04.03.2019%5D.pdf"
     }
   ],
   "project": "Polymath",
