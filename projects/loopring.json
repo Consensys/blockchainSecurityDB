@@ -1,0 +1,31 @@
+{
+  "project": "Loopring",
+  "project_url": "https://loopring.io/",
+  "description": "Loopring is a zkRollup Exchange and Payment Protocol.",
+  "security_contact": "bounty@loopring.org",
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/loopring/protocols/tree/db7bf8"
+        }
+      ],
+      "title": "Audit Report - Loopring Hebao Wallet",
+      "date": "05/20",
+      "auditor": "Solidified",
+      "url": "https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Loopring%20Hebao%20Wallet%20%5B21.05.2020%5D.pdf",
+      "effort": "3 auditors"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/Loopring/protocols/tree/3.0-beta3/packages/loopring_v3"
+        }
+      ],
+      "title": "Loopring V3 Audit Report",
+      "date": "11/19",
+      "auditor": "SECBIT",
+      "url": "https://medium.com/loopring-protocol/secbit-delivers-a-security-audit-report-for-loopring-protocol-3-0-a768c2bd061a"
+    }
+  ]
+}
