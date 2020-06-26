@@ -15,7 +15,7 @@ Blockchain Capital is a leading venture firm in the blockchain industry
 
 April, 2017<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/BCAPtoken/BCAPToken/tree/5cb5e76338cc47343ba9268663a915337c8b268e/sol)
+[Repo](https://github.com/BCAPtoken/BCAPToken/tree/5cb5e76338cc47343ba9268663a915337c8b268e/sol)<br>
       
 
   

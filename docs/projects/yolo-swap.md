@@ -15,7 +15,7 @@ Token swaps on EOS powered by Kyber Protocol.
 
 May, 2019<br>
 Audited by: SlowMist<br>
-[Repo](https://github.com/KyberNetwork/eos_smart_contracts/tree/audit3/contracts)
+[Repo](https://github.com/KyberNetwork/eos_smart_contracts/tree/audit3/contracts)<br>
       
 
   

@@ -15,7 +15,7 @@ Golem is a global, open source, decentralized supercomputer that anyone can acce
 
 November, 2016<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/golemfactory/golem-crowdfunding/tree/50100b27a7c6841ed430a028d100f5d45ba08fb1/contracts)
+[Repo](https://github.com/golemfactory/golem-crowdfunding/tree/50100b27a7c6841ed430a028d100f5d45ba08fb1/contracts)<br>
       
 
 
@@ -23,7 +23,7 @@ Audited by: OpenZeppelin<br>
 
 April, 2018<br>
 Audited by: Trail of Bits<br>Effort: 4 person-weeks.<br>
-[Repo](https://github.com/golemfactory/golem)
+[Repo](https://github.com/golemfactory/golem)<br>
       
 
   

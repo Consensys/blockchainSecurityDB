@@ -15,7 +15,7 @@ Polymath makes it easy to create, issue, and manage digital securities on the bl
 
 May, 2019<br>
 Audited by: ConsenSys Diligence<br>Effort: 3 auditors<br>
-[Repo](https://github.com/PolymathNetwork/polymath-core/releases/tag/3.0.0-audit)
+[Repo](https://github.com/PolymathNetwork/polymath-core/releases/tag/3.0.0-audit)<br>
       
 
 
@@ -23,7 +23,7 @@ Audited by: ConsenSys Diligence<br>Effort: 3 auditors<br>
 
 February, 2018<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/PolymathNetwork/polymath-token/tree/672fabe081e8f90ea025252d92c2eb247d60010e)
+[Repo](https://github.com/PolymathNetwork/polymath-token/tree/672fabe081e8f90ea025252d92c2eb247d60010e)<br>
       
 
 
@@ -31,7 +31,7 @@ Audited by: OpenZeppelin<br>
 
 November, 2019<br>
 Audited by: CoinFabrik<br>
-[Repo](https://github.com/PolymathNetwork/polymath-core/tree/dev-3.1.0)
+[Repo](https://github.com/PolymathNetwork/polymath-core/tree/dev-3.1.0)<br>
       
 
 
@@ -39,7 +39,7 @@ Audited by: CoinFabrik<br>
 
 March, 2018<br>
 Audited by: Solidified<br>
-[Repo](https://github.com/PolymathNetwork/polymath-core/tree/a8b71e)
+[Repo](https://github.com/PolymathNetwork/polymath-core/tree/a8b71e)<br>
       
 
 
@@ -47,7 +47,7 @@ Audited by: Solidified<br>
 
 March, 2019<br>
 Audited by: Solidified<br>
-[Repo](https://github.com/PolymathNetwork/polymath-core/tree/a8b71e)
+[Repo](https://github.com/PolymathNetwork/polymath-core/tree/a8b71e)<br>
       
 
 
@@ -55,7 +55,7 @@ Audited by: Solidified<br>
 
 March, 2018<br>
 Audited by: Solidified<br>
-[Repo](https://github.com/PolymathNetwork/polymath-core/tree/a8b71e)
+[Repo](https://github.com/PolymathNetwork/polymath-core/tree/a8b71e)<br>
       
 
   

@@ -15,7 +15,7 @@ Liquidity, unchained.
 
 October, 2018<br>
 Audited by: ChainSecurity<br>
-[Repo](https://github.com/republicprotocol/renex-sol)
+[Repo](https://github.com/republicprotocol/renex-sol)<br>
       
 
   

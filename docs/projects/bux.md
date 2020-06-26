@@ -15,7 +15,7 @@ The single destination for anyone who wants to do more with their money.
 
 January, 2018<br>
 Audited by: Authio<br>
-[Repo](https://github.com/blockport/tokensale)
+[Repo](https://github.com/blockport/tokensale)<br>
       
 
   

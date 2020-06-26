@@ -15,7 +15,7 @@ The infrastructure for asset management 3.0
 
 March, 2019<br>
 Audited by: ChainSecurity<br>Effort: 4 auditors, 2 weeks.<br>
-[Repo](https://github.com/melonproject/protocol/tree/develop/src)
+[Repo](https://github.com/melonproject/protocol/tree/develop/src)<br>
       
 
   

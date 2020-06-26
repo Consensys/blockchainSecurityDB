@@ -15,7 +15,7 @@ Connecting every person, every merchant, every financial service, every currency
 
 April, 2019<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/centrehq/centre-tokens/tree/4b9ebf3941a48e41e7363fee729035610a71ca66/contracts/minting)
+[Repo](https://github.com/centrehq/centre-tokens/tree/4b9ebf3941a48e41e7363fee729035610a71ca66/contracts/minting)<br>
       
 
   

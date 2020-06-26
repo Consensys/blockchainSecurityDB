@@ -15,7 +15,7 @@ First ever comprehensive crypto payment solution for businesses
 
 October, 2019<br>
 Audited by: SmartDec<br>
-[Repo](https://github.com/pumapayio/smart-contracts/tree/5eb99b1a94d9e5d98873fb4338b97943b9821569)
+[Repo](https://github.com/pumapayio/smart-contracts/tree/5eb99b1a94d9e5d98873fb4338b97943b9821569)<br>
       
 
   

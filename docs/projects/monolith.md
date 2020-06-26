@@ -15,7 +15,7 @@ Everything you would expect from a financial platform, built for the DeFi econom
 
 May, 2019<br>
 Audited by: Trail of Bits<br>Effort: 5 person-weeks.<br>
-[Repo](https://github.com/tokencard/contracts)
+[Repo](https://github.com/tokencard/contracts)<br>
       
 
   

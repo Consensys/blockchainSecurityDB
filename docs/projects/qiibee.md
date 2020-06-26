@@ -15,7 +15,7 @@ The global standard for loyalty on the blockchain
 
 December, 2017<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/qiibee/qb-presale/tree/d40368c9a7a536572a5bb03cb031d658ccb34f24)
+[Repo](https://github.com/qiibee/qb-presale/tree/d40368c9a7a536572a5bb03cb031d658ccb34f24)<br>
       
 
   

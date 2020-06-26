@@ -15,7 +15,7 @@ A simple multisig wallet
 
 September, 2018<br>
 Audited by: ConsenSys Diligence<br>Effort: 2 auditors, 13 days<br>
-[Repo](https://github.com/christianlundkvist/simple-multisig)
+[Repo](https://github.com/christianlundkvist/simple-multisig)<br>
       
 
   

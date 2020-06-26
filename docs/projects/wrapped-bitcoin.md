@@ -15,7 +15,7 @@ Wrapped Bitcoin delivers the power of Bitcoin with the flexibility of an ERC20 t
 
 October, 2018<br>
 Audited by: ChainSecurity<br>
-[Repo](https://github.com/WrappedBTC/bitcoin-token-smart-contracts)
+[Repo](https://github.com/WrappedBTC/bitcoin-token-smart-contracts)<br>
       
 
   

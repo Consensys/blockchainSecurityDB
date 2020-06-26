@@ -15,7 +15,7 @@ Make money better by using crypto.
 
 June, 2017<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/MetalPay/metal-token/tree/d0ca13778c7c3ccc19d5fb2cb71c80588324bacf)
+[Repo](https://github.com/MetalPay/metal-token/tree/d0ca13778c7c3ccc19d5fb2cb71c80588324bacf)<br>
       
 
   

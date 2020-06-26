@@ -15,7 +15,7 @@ Automated asset management strategies
 
 March, 2019<br>
 Audited by: Trail of Bits<br>Effort: 5 person-weeks.<br>
-[Repo](https://github.com/SetProtocol/set-protocol-contracts)
+[Repo](https://github.com/SetProtocol/set-protocol-contracts)<br>
       
 
   

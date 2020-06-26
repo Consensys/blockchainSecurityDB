@@ -15,7 +15,7 @@ On-chain liquidity protocol that aggregates liquidity from a wide range of reser
 
 July, 2019<br>
 Audited by: SmartDec<br>
-[Repo](https://github.com/KyberSwap/limit-order-smartcontracts/tree/audit-062019-1)
+[Repo](https://github.com/KyberSwap/limit-order-smartcontracts/tree/audit-062019-1)<br>
       
 
 
@@ -23,7 +23,7 @@ Audited by: SmartDec<br>
 
 June, 2018<br>
 Audited by: ChainSecurity<br>
-[Repo](https://github.com/KyberNetwork/KyberSwap)
+[Repo](https://github.com/KyberNetwork/KyberSwap)<br>
       
 
   

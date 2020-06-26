@@ -15,7 +15,7 @@ Mainframe is home to trustless fixed-rate lending and borrowing. Users get predi
 
 July, 2018<br>
 Audited by: Quantstamp<br>Effort: 2 auditors, 2 days.<br>
-[Repo](https://github.com/MainframeHQ/contracts/tree/ERC20)
+[Repo](https://github.com/MainframeHQ/contracts/tree/ERC20)<br>
       
 
   

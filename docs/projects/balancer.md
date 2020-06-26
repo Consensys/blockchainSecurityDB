@@ -15,7 +15,7 @@ Balancer is a non-custodial portfolio manager, liquidity provider, and price sen
 
 March, 2020<br>
 Audited by: Trail of Bits<br>Effort: 3 person-weeks.<br>
-[Repo](https://github.com/balancer-labs/balancer-core/tree/942a51)
+[Repo](https://github.com/balancer-labs/balancer-core/tree/942a51)<br>
       
 
 
@@ -23,7 +23,7 @@ Audited by: Trail of Bits<br>Effort: 3 person-weeks.<br>
 
 May, 2020<br>
 Audited by: ConsenSys Diligence<br>Effort: 4 person-weeks.<br>
-[Repo](https://github.com/balancer-labs/balancer-core/tree/5d70da)
+[Repo](https://github.com/balancer-labs/balancer-core/tree/5d70da)<br>
       
 
   

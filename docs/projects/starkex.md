@@ -15,7 +15,7 @@ StarkEx leverages STARK technology to bring the first product-grade engine to po
 
 February, 2020<br>
 Audited by: PeckShield<br>
-[Repo](https://github.com/starkware-libs/starkex-contracts)
+[Repo](https://github.com/starkware-libs/starkex-contracts)<br>
       
 
   

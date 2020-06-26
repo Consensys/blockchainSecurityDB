@@ -15,7 +15,7 @@ Non-custodial Bitcoin-backed loans.
 
 July, 2019<br>
 Audited by: ConsenSys Diligence<br>Effort: 2 auditors<br>
-[Repo](https://github.com/AtomicLoans/atomicloans-eth-contracts)
+[Repo](https://github.com/AtomicLoans/atomicloans-eth-contracts)<br>
       
 
 
@@ -23,7 +23,7 @@ Audited by: ConsenSys Diligence<br>Effort: 2 auditors<br>
 
 September, 2019<br>
 Audited by: ConsenSys Diligence<br>Effort: 1 auditor<br>
-[Repo](https://github.com/AtomicLoans/atomicloans-eth-contracts)
+[Repo](https://github.com/AtomicLoans/atomicloans-eth-contracts)<br>
       
 
   

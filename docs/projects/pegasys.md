@@ -15,7 +15,7 @@ Comercially licensed enterprise Ethereum client
 
 August, 2019<br>
 Audited by: ConsenSys Diligence<br>Effort: 3 auditors<br>
-[Repo](https://github.com/PegaSysEng/permissioning-smart-contracts)
+[Repo](https://github.com/PegaSysEng/permissioning-smart-contracts)<br>
       
 
   

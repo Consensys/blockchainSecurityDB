@@ -15,7 +15,7 @@ The future of gold is digital
 
 December, 2018<br>
 Audited by: ChainSecurity<br>
-[Repo](https://github.com/DigixGlobal/dao-contracts)
+[Repo](https://github.com/DigixGlobal/dao-contracts)<br>
       
 
   

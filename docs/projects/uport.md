@@ -15,7 +15,7 @@ Trusted ecosystems that let you, your partners and customers share data in a sim
 
 April, 2016<br>
 Audited by: ConsenSys Diligence<br>
-[Repo](https://github.com/uport-project/uport-proxy)
+[Repo](https://github.com/uport-project/uport-proxy)<br>
       
 
   

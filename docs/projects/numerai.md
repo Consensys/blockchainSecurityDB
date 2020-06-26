@@ -15,7 +15,7 @@ The hardest data science tournament on the planet.
 
 May, 2019<br>
 Audited by: Trail of Bits<br>Effort: 3 person-weeks.<br>
-[Repo](https://github.com/numerai/contract)
+[Repo](https://github.com/numerai/contract)<br>
       
 
   

@@ -15,7 +15,7 @@ Aragon gives internet communities unprecedented power to organize around shared 
 
 August, 2019<br>
 Audited by: ConsenSys Diligence<br>Effort: 2 auditors<br>
-[Repo](https://github.com/aragon/dao-templates)
+[Repo](https://github.com/aragon/dao-templates)<br>
       
 
 
@@ -23,7 +23,7 @@ Audited by: ConsenSys Diligence<br>Effort: 2 auditors<br>
 
 July, 2019<br>
 Audited by: ConsenSys Diligence<br>Effort: 4 auditors<br>
-[Repo](https://github.com/aragon/aragon-apps/tree/master/future-apps/payroll)[Repo](https://github.com/aragon/ppf)
+[Repo](https://github.com/aragon/aragon-apps/tree/master/future-apps/payroll)<br>[Repo](https://github.com/aragon/ppf)<br>
       
 
 
@@ -31,7 +31,7 @@ Audited by: ConsenSys Diligence<br>Effort: 4 auditors<br>
 
 October, 2018<br>
 Audited by: ConsenSys Diligence<br>Effort: 5 auditors, 13 days<br>
-[Repo](https://github.com/aragon/aragonOS)[Repo](https://github.com/aragon/aragon-apps)
+[Repo](https://github.com/aragon/aragonOS)<br>[Repo](https://github.com/aragon/aragon-apps)<br>
       
 
   

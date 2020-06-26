@@ -15,7 +15,7 @@ Marmo SDK simplifies interactions with the Ethereum network, allowing you to foc
 
 April, 2019<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/ripio/marmo-contracts/tree/d3fb5922a4f01e47d585343d08cccfad659b3584)
+[Repo](https://github.com/ripio/marmo-contracts/tree/d3fb5922a4f01e47d585343d08cccfad659b3584)<br>
       
 
   

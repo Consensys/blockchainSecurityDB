@@ -15,7 +15,7 @@ Empowers users to do everything from storing and managing their assets to fundra
 
 February, 2018<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/babbplatform/baxtoken/tree/3ba88dd8fb3a97e6668cf2029b38610283e28c17)
+[Repo](https://github.com/babbplatform/baxtoken/tree/3ba88dd8fb3a97e6668cf2029b38610283e28c17)<br>
       
 
   

@@ -15,7 +15,7 @@ Curve is an exchange liquidity pool on Ethereum (like Uniswap) designed for (1) 
 
 January, 2020<br>
 Audited by: Trail of Bits<br>Effort: 1 person-week<br>
-[Repo](https://github.com/curvefi/curve-contract/)
+[Repo](https://github.com/curvefi/curve-contract/)<br>
       
 
 
@@ -23,7 +23,7 @@ Audited by: Trail of Bits<br>Effort: 1 person-week<br>
 
 March, 2020<br>
 Audited by: Trail of Bits<br>Effort: 1 person-week<br>
-[Repo](https://github.com/curvefi/curve-contract/tree/2c7494a10dfc5cf1d7056fcadc430fe953325f8c)
+[Repo](https://github.com/curvefi/curve-contract/tree/2c7494a10dfc5cf1d7056fcadc430fe953325f8c)<br>
       
 
   

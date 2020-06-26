@@ -15,7 +15,7 @@ Blockchain-based digital advertising.
 
 May, 2017<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/brave-intl/basic-attention-token-crowdsale/tree/17a5f8440a256a6dc5d8dd894b9615182c2901b2/contracts)
+[Repo](https://github.com/brave-intl/basic-attention-token-crowdsale/tree/17a5f8440a256a6dc5d8dd894b9615182c2901b2/contracts)<br>
       
 
   

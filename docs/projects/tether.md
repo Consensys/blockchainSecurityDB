@@ -15,7 +15,7 @@ Digital money for a digital age
 
 January, 2018<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/tetherto/ether-contracts/tree/9718de4da7b571c1acf822bfde1f5300d1acc381/contracts)
+[Repo](https://github.com/tetherto/ether-contracts/tree/9718de4da7b571c1acf822bfde1f5300d1acc381/contracts)<br>
       
 
   

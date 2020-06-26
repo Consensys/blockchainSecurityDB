@@ -15,7 +15,7 @@ Accelerating the digital transformation to outcome-based healthcare
 
 June, 2019<br>
 Audited by: Quillhash<br>
-[Repo](https://github.com/DigipharmIO/digipharm-token-sale)
+[Repo](https://github.com/DigipharmIO/digipharm-token-sale)<br>
       
 
   

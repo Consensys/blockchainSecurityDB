@@ -15,7 +15,7 @@ Hive Power is accompanying energy utilities through the digitalisation and decen
 
 June, 2018<br>
 Audited by: SmartDec<br>
-[Repo](https://github.com/hive-power/HivePowerCrowdsale)
+[Repo](https://github.com/hive-power/HivePowerCrowdsale)<br>
       
 
   

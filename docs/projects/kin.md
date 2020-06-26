@@ -15,7 +15,7 @@ A new way to engage, grow, and monetize your digital community.
 
 September, 2017<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/kinecosystem/kin-token/tree/3ed3a383b9304274ec22f41769716cadb854727f/contracts)
+[Repo](https://github.com/kinecosystem/kin-token/tree/3ed3a383b9304274ec22f41769716cadb854727f/contracts)<br>
       
 
   

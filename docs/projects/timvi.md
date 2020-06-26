@@ -15,7 +15,7 @@ Use this convenient DeFi platform to earn an annual interest, make investments, 
 
 November, 2019<br>
 Audited by: CoinFabrik<br>
-[Repo](https://github.com/TimviOfficial/Timvi)
+[Repo](https://github.com/TimviOfficial/Timvi)<br>
       
 
   

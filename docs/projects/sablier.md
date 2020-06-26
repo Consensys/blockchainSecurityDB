@@ -15,7 +15,7 @@ The protocol for real-time finance
 
 October, 2019<br>
 Audited by: Quantstamp<br>Effort: 4 person-weeks<br>
-[Repo](https://github.com/sablierhq/sablier)
+[Repo](https://github.com/sablierhq/sablier)<br>
       
 
   

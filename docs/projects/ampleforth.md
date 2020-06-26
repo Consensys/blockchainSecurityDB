@@ -15,7 +15,7 @@ Synthetic commodity money
 
 November, 2018<br>
 Audited by: Trail of Bits<br>Effort: 4 person-weeks.<br>
-[Repo](https://github.com/ampleforth/market-oracle)[Repo](https://github.com/ampleforth/uFragments)
+[Repo](https://github.com/ampleforth/market-oracle)<br>[Repo](https://github.com/ampleforth/uFragments)<br>
       
 
   

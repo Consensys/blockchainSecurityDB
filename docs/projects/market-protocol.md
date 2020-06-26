@@ -15,7 +15,7 @@ MARKET Protocol allows users to trade the price of anything while leveraging the
 
 May, 2019<br>
 Audited by: ChainSecurity<br>
-[Repo](https://github.com/MARKETProtocol/MARKETProtocol)
+[Repo](https://github.com/MARKETProtocol/MARKETProtocol)<br>
       
 
   

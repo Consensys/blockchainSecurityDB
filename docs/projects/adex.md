@@ -15,7 +15,7 @@ A display ad network for reduced ad fraud and increased user privacy
 
 December, 2018<br>
 Audited by: Sigma Prime<br>
-[Repo](https://github.com/AdExNetwork/adex-protocol-eth/commit/caa872ce982cd09a342b42d10281bf82038e6070)
+[Repo](https://github.com/AdExNetwork/adex-protocol-eth/commit/caa872ce982cd09a342b42d10281bf82038e6070)<br>
       
 
   

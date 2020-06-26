@@ -15,7 +15,7 @@ Create projects, collaborate, and get paid for doing great work in any domain.
 
 March, 2019<br>
 Audited by: ConsenSys Diligence<br>Effort: 4 auditors<br>
-[Repo](https://github.com/Bounties-Network/StandardBounties)
+[Repo](https://github.com/Bounties-Network/StandardBounties)<br>
       
 
   

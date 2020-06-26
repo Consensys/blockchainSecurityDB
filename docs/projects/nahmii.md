@@ -15,7 +15,7 @@ The future of blockchain scaling today
 
 November, 2019<br>
 Audited by: CoinFabrik<br>
-[Repo](https://github.com/hubiinetwork/nahmii-contracts/blob/v1.0.0/contracts/NahmiiToken.sol)
+[Repo](https://github.com/hubiinetwork/nahmii-contracts/blob/v1.0.0/contracts/NahmiiToken.sol)<br>
       
 
   

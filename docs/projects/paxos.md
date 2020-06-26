@@ -15,7 +15,7 @@ Creating a Global, Frictionless Economy
 
 October, 2018<br>
 Audited by: Trail of Bits<br>Effort: 4 person-weeks.<br>
-[Repo](https://github.com/paxosglobal/pax-contracts)
+[Repo](https://github.com/paxosglobal/pax-contracts)<br>
       
 
 
@@ -23,7 +23,7 @@ Audited by: Trail of Bits<br>Effort: 4 person-weeks.<br>
 
 September, 2018<br>
 Audited by: ChainSecurity<br>
-[Repo](https://github.com/paxosglobal/pax-contracts)
+[Repo](https://github.com/paxosglobal/pax-contracts)<br>
       
 
   

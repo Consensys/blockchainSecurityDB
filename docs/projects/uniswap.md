@@ -15,7 +15,7 @@ A fully decentralized protocol for automated liquidity provision on Ethereum.
 
 January, 2019<br>
 Audited by: ConsenSys Diligence<br>Effort: 5 auditors<br>
-[Repo](https://github.com/Uniswap/contracts-vyper)
+[Repo](https://github.com/Uniswap/contracts-vyper)<br>
       
 
 
@@ -23,7 +23,7 @@ Audited by: ConsenSys Diligence<br>Effort: 5 auditors<br>
 
 April, 2020<br>
 Audited by: dapp.org<br>
-[Repo](https://github.com/Uniswap/uniswap-v2-core)[Repo](https://github.com/Uniswap/uniswap-v2-periphery)
+[Repo](https://github.com/Uniswap/uniswap-v2-core)<br>[Repo](https://github.com/Uniswap/uniswap-v2-periphery)<br>
       
 
   

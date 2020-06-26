@@ -23,7 +23,7 @@ Audited by: Trail of Bits<br>Effort: 4 person-weeks.<br>
 
 August, 2018<br>
 Audited by: Trail of Bits<br>Effort: 12 person-weeks.<br>
-[Repo](https://github.com/nucypher/nucypher/tree/master/nucypher)
+[Repo](https://github.com/nucypher/nucypher/tree/master/nucypher)<br>
       
 
   

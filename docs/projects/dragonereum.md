@@ -15,7 +15,7 @@ Digital scarcity game with blockchain and dragons
 
 November, 2018<br>
 Audited by: PepperSec<br>
-[Repo](https://github.com/dragonereum/dragonereum-contracts)
+[Repo](https://github.com/dragonereum/dragonereum-contracts)<br>
       
 
   

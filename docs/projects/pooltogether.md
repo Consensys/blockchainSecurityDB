@@ -15,7 +15,7 @@ A no-loss, audited savings game powered by blockchain technology
 
 January, 2020<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/pooltogether/pooltogether-contracts/tree/78ac6863f4616269f7d04a0ddd1d60bdfc454937)
+[Repo](https://github.com/pooltogether/pooltogether-contracts/tree/78ac6863f4616269f7d04a0ddd1d60bdfc454937)<br>
       
 
   

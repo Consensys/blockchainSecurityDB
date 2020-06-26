@@ -15,7 +15,7 @@ Aventus is an open source, decentralised protocol that revolutionises the way di
 
 May, 2018<br>
 Audited by: Solidified<br>Effort: 3 auditors<br>
-[Repo](https://github.com/AventusProtocolFoundation/protocol-classic)
+[Repo](https://github.com/AventusProtocolFoundation/protocol-classic)<br>
       
 
 
@@ -23,7 +23,7 @@ Audited by: Solidified<br>Effort: 3 auditors<br>
 
 November, 2019<br>
 Audited by: Solidified<br>Effort: 3 auditors<br>
-[Repo](https://github.com/AventusProtocolFoundation/protocol/tree/audit_ready)
+[Repo](https://github.com/AventusProtocolFoundation/protocol/tree/audit_ready)<br>
       
 
   

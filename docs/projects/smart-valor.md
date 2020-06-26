@@ -15,7 +15,7 @@ Europe's premier digital asset exchange
 
 October, 2018<br>
 Audited by: ChainSecurity<br>
-[Repo](https://github.com/smartvalor/valor-membership/tree/master/contracts/membership)
+[Repo](https://github.com/smartvalor/valor-membership/tree/master/contracts/membership)<br>
       
 
   

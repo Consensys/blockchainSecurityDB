@@ -15,7 +15,7 @@ Defi for Bitcoin
 
 December, 2019<br>
 Audited by: CoinFabrik<br>
-[Repo](https://github.com/money-on-chain/main-RBTC-contract/tree/master/contracts)
+[Repo](https://github.com/money-on-chain/main-RBTC-contract/tree/master/contracts)<br>
       
 
 
@@ -23,7 +23,7 @@ Audited by: CoinFabrik<br>
 
 July, 2019<br>
 Audited by: CoinFabrik<br>
-[Repo](https://github.com/money-on-chain/main-RBTC-contract/tree/master/contracts)
+[Repo](https://github.com/money-on-chain/main-RBTC-contract/tree/master/contracts)<br>
       
 
 
@@ -31,7 +31,7 @@ Audited by: CoinFabrik<br>
 
 November, 2019<br>
 Audited by: CoinFabrik<br>
-[Repo](https://github.com/money-on-chain/main-RBTC-contract/tree/master/contracts)
+[Repo](https://github.com/money-on-chain/main-RBTC-contract/tree/master/contracts)<br>
       
 
 
@@ -39,7 +39,7 @@ Audited by: CoinFabrik<br>
 
 November, 2019<br>
 Audited by: CoinFabrik<br>
-[Repo](https://github.com/money-on-chain/main-RBTC-contract/tree/master/contracts)
+[Repo](https://github.com/money-on-chain/main-RBTC-contract/tree/master/contracts)<br>
       
 
   

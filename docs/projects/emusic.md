@@ -15,7 +15,7 @@ A blockchain-based music distribution platform that pays artists more fairly and
 
 April, 2019<br>
 Audited by: Authio<br>
-[Repo](https://github.com/emusic-eng/eMusicSmartContracts)
+[Repo](https://github.com/emusic-eng/eMusicSmartContracts)<br>
       
 
   

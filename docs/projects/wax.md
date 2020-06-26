@@ -15,7 +15,7 @@ The safest and most convenient way to create, buy, sell, and trade virtual items
 
 December, 2017<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/waxio/wax-erc20-delivery-contract/tree/6c7098dd2522630d74c9600f678b3b28d58fa9aa/contracts)
+[Repo](https://github.com/waxio/wax-erc20-delivery-contract/tree/6c7098dd2522630d74c9600f678b3b28d58fa9aa/contracts)<br>
       
 
   

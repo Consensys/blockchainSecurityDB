@@ -15,7 +15,7 @@ Turn any link into a SmartLink that tracks, records and rewards every interactio
 
 October, 2019<br>
 Audited by: Solidified<br>Effort: 3 auditors<br>
-[Repo](https://github.com/2key/contracts/tree/de171e)
+[Repo](https://github.com/2key/contracts/tree/de171e)<br>
       
 
   

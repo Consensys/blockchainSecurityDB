@@ -15,7 +15,7 @@ Generative NFT art stored on-chain.
 
 March, 2020<br>
 Audited by: https://github.com/nicholashc<br>Effort: 4 person-weeks<br>
-[Repo](https://github.com/Dapp-Wizards/Avastars-Contracts)
+[Repo](https://github.com/Dapp-Wizards/Avastars-Contracts)<br>
       
 
   

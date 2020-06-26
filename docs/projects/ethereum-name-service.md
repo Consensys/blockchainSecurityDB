@@ -15,7 +15,7 @@ A secure & decentralised way to address resources both on and off the blockchain
 
 March, 2019<br>
 Audited by: ConsenSys Diligence<br>Effort: 2 auditors<br>
-[Repo](https://github.com/ensdomains/ethregistrar/tree/e52abfc2799ac361364aca6135fc20f9175a29fd)[Repo](https://github.com/ensdomains/root/tree/c82010e34828d72319efb66aae921609d3c7a704)
+[Repo](https://github.com/ensdomains/ethregistrar/tree/e52abfc2799ac361364aca6135fc20f9175a29fd)<br>[Repo](https://github.com/ensdomains/root/tree/c82010e34828d72319efb66aae921609d3c7a704)<br>
       
 
   

@@ -15,7 +15,7 @@ Send money to anyone. Earn interest everywhere.
 
 July, 2018<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/dharmaprotocol/charta/tree/b110959477cf37375bf7e9344d40eb85219c8575)
+[Repo](https://github.com/dharmaprotocol/charta/tree/b110959477cf37375bf7e9344d40eb85219c8575)<br>
       
 
 
@@ -23,7 +23,7 @@ Audited by: OpenZeppelin<br>
 
 October, 2019<br>
 Audited by: Trail of Bits<br>Effort: 4 person-weeks.<br>
-[Repo](https://github.com/dharmaprotocol/dharma-smart-wallet/tree/b1d510d03b97a9c8457b9c0b9c91568a09ccc95d)
+[Repo](https://github.com/dharmaprotocol/dharma-smart-wallet/tree/b1d510d03b97a9c8457b9c0b9c91568a09ccc95d)<br>
       
 
   

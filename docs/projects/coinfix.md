@@ -15,7 +15,7 @@ Enterprise crypto payment solution. Engineeredfor security and versatility.
 
 January, 2018<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/ChainXcom/coinfix.io-smart-contracts/tree/75edd659ce96c88fe2784f3e767d6617787e8b7c/merchant_subscription)
+[Repo](https://github.com/ChainXcom/coinfix.io-smart-contracts/tree/75edd659ce96c88fe2784f3e767d6617787e8b7c/merchant_subscription)<br>
       
 
   

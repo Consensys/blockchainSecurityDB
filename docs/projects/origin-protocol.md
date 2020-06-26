@@ -15,7 +15,7 @@ Revolutionizing how people shop and conduct business online.
 
 November, 2018<br>
 Audited by: Trail of Bits<br>Effort: 4 person-weeks.<br>
-[Repo](https://github.com/OriginProtocol/origin/tree/master/packages/contracts/contracts)
+[Repo](https://github.com/OriginProtocol/origin/tree/master/packages/contracts/contracts)<br>
       
 
   

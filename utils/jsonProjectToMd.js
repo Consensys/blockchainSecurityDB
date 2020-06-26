@@ -49,7 +49,7 @@ function jsonProjectToMd(file) {
     let auditRepos = '';
     if(audit.repos) {
       audit.repos.forEach(repo => {
-        auditRepos += `[Repo](${repo.url})`;
+        auditRepos += `[Repo](${repo.url})<br>`;
       });
     }
 

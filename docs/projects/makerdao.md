@@ -15,7 +15,7 @@ Digital currency that can be used by anyone, anywhere, anytime.
 
 August, 2019<br>
 Audited by: Trail of Bits<br>Effort: 16 person-weeks, 4 engineers<br>
-[Repo](https://github.com/makerdao/dss)
+[Repo](https://github.com/makerdao/dss)<br>
       
 
 
@@ -23,7 +23,7 @@ Audited by: Trail of Bits<br>Effort: 16 person-weeks, 4 engineers<br>
 
 October, 2019<br>
 Audited by: PeckShield<br>Effort: 12 person-weeks, 4 engineers<br>
-[Repo](https://github.com/makerdao/dss)
+[Repo](https://github.com/makerdao/dss)<br>
       
 
 
@@ -31,7 +31,7 @@ Audited by: PeckShield<br>Effort: 12 person-weeks, 4 engineers<br>
 
 June, 2020<br>
 Audited by: Runtime Verification<br>Effort: 12 person-weeks, 2 engineers<br>
-[Repo](https://github.com/makerdao/dss)
+[Repo](https://github.com/makerdao/dss)<br>
       
 
 
@@ -39,7 +39,7 @@ Audited by: Runtime Verification<br>Effort: 12 person-weeks, 2 engineers<br>
 
 June, 2018<br>
 Audited by: BokkyPooBah<br>
-[Repo](https://github.com/makerdao/sai)
+[Repo](https://github.com/makerdao/sai)<br>
       
 
   

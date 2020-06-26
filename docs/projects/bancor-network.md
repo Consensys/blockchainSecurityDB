@@ -15,7 +15,7 @@ Your smart crypto wallet
 
 May, 2017<br>
 Audited by: Nick Johnson<br>Effort: 1 person-week<br>
-[Repo](https://github.com/bancorprotocol/contracts/)
+[Repo](https://github.com/bancorprotocol/contracts/)<br>
       
 
   

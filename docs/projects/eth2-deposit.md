@@ -15,7 +15,7 @@ Gateway to join Ethereum 2.0
 
 January, 2020<br>
 Audited by: Runtime Verification<br>
-[Repo](https://github.com/ethereum/eth2.0-specs/blob/v0.10.0/deposit_contract/contracts/validator_registration.vy)
+[Repo](https://github.com/ethereum/eth2.0-specs/blob/v0.10.0/deposit_contract/contracts/validator_registration.vy)<br>
       
 
   

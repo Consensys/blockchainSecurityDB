@@ -15,7 +15,7 @@ Ethereum privacy solution that uses zkSNARKs for private transactions.
 
 November, 2019<br>
 Audited by: ABDK Consulting<br>
-[Repo](https://github.com/tornadocash/tornado-core/tree/0484408e82e8f1eebd081186cb11189aa0e9b57f)
+[Repo](https://github.com/tornadocash/tornado-core/tree/0484408e82e8f1eebd081186cb11189aa0e9b57f)<br>
       
 
 
@@ -23,7 +23,7 @@ Audited by: ABDK Consulting<br>
 
 November, 2019<br>
 Audited by: ABDK Consulting<br>
-[Repo](https://github.com/tornadocash/tornado-core/tree/0484408e82e8f1eebd081186cb11189aa0e9b57f)
+[Repo](https://github.com/tornadocash/tornado-core/tree/0484408e82e8f1eebd081186cb11189aa0e9b57f)<br>
       
 
 
@@ -31,7 +31,7 @@ Audited by: ABDK Consulting<br>
 
 November, 2019<br>
 Audited by: ABDK Consulting<br>
-[Repo](https://github.com/tornadocash/tornado-core/tree/0484408e82e8f1eebd081186cb11189aa0e9b57f)
+[Repo](https://github.com/tornadocash/tornado-core/tree/0484408e82e8f1eebd081186cb11189aa0e9b57f)<br>
       
 
 
@@ -39,7 +39,7 @@ Audited by: ABDK Consulting<br>
 
 September, 2019<br>
 Audited by: SmartDec<br>
-[Repo](https://github.com/tornadocash/tornado-core/tree/51b06ed661ad0d480c9995401ed47cc324e1ac7e)
+[Repo](https://github.com/tornadocash/tornado-core/tree/51b06ed661ad0d480c9995401ed47cc324e1ac7e)<br>
       
 
   

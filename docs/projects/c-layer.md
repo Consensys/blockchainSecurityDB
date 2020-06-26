@@ -15,7 +15,7 @@ A fair and transparent compliance framework built on top of public blockchain
 
 October, 2019<br>
 Audited by: Solidified<br>Effort: 3 auditors<br>
-[Repo](https://github.com/c-layer/contracts/tree/f344c2)
+[Repo](https://github.com/c-layer/contracts/tree/f344c2)<br>
       
 
   

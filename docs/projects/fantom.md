@@ -15,7 +15,7 @@ Fantom is a blockchain ecosystem designed to help you focus on real-world soluti
 
 June, 2018<br>
 Audited by: Sigma Prime<br>
-[Repo](https://github.com/Fantom-foundation/tokensale/commit/1a7313c7d5da489db2e72a1aa20b2cf38c8fe363)
+[Repo](https://github.com/Fantom-foundation/tokensale/commit/1a7313c7d5da489db2e72a1aa20b2cf38c8fe363)<br>
       
 
 
@@ -23,7 +23,7 @@ Audited by: Sigma Prime<br>
 
 July, 2018<br>
 Audited by: Sigma Prime<br>
-[Repo](https://github.com/Fantom-foundation/MultiSigWallet/commit/48c51ba1c4f27019ab5a57b35ba8c896658e791f)
+[Repo](https://github.com/Fantom-foundation/MultiSigWallet/commit/48c51ba1c4f27019ab5a57b35ba8c896658e791f)<br>
       
 
   

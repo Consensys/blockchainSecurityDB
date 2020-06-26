@@ -23,7 +23,7 @@ Audited by: ChainSecurity<br>
 
 October, 2017<br>
 Audited by: Authio<br>
-[Repo](https://github.com/poanetwork/poa-network-consensus-contracts)
+[Repo](https://github.com/poanetwork/poa-network-consensus-contracts)<br>
       
 
 
@@ -31,7 +31,7 @@ Audited by: Authio<br>
 
 August, 2019<br>
 Audited by: PepperSec<br>
-[Repo](https://github.com/poanetwork/posdao-contracts)
+[Repo](https://github.com/poanetwork/posdao-contracts)<br>
       
 
 
@@ -39,7 +39,7 @@ Audited by: PepperSec<br>
 
 September, 2018<br>
 Audited by: PepperSec<br>
-[Repo](https://github.com/poanetwork/poa-bridge)
+[Repo](https://github.com/poanetwork/poa-bridge)<br>
       
 
 
@@ -47,7 +47,7 @@ Audited by: PepperSec<br>
 
 December, 2018<br>
 Audited by: PepperSec<br>
-[Repo](https://github.com/poanetwork/tokenbridge)
+[Repo](https://github.com/poanetwork/tokenbridge)<br>
       
 
   

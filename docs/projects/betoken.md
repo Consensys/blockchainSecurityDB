@@ -15,7 +15,7 @@ Crowd-powered asset management protocol
 
 May, 2019<br>
 Audited by: Solidified<br>
-[Repo](https://github.com/Betoken/betoken)
+[Repo](https://github.com/Betoken/betoken)<br>
       
 
   

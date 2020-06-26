@@ -15,7 +15,7 @@ The world’s most accessible, no-limit betting exchange.
 
 March, 2018<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/AugurProject/augur-core/tree/3b5a63d372d205a0214e3061293d5bca0fd5636a)
+[Repo](https://github.com/AugurProject/augur-core/tree/3b5a63d372d205a0214e3061293d5bca0fd5636a)<br>
       
 
   

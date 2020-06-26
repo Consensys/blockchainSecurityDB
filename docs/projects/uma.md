@@ -15,7 +15,7 @@ An open-source protocol for building self-enforcing financial contracts.
 
 April, 2020<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/UMAprotocol/protocol/tree/9d403ddb5f2f07194daefe7da51e0e0a6306f2c4)
+[Repo](https://github.com/UMAprotocol/protocol/tree/9d403ddb5f2f07194daefe7da51e0e0a6306f2c4)<br>
       
 
 
@@ -23,7 +23,7 @@ Audited by: OpenZeppelin<br>
 
 May, 2020<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/UMAprotocol/protocol/tree/e6eaa48124ae3f209fb117cf05eb18292cf26d21)
+[Repo](https://github.com/UMAprotocol/protocol/tree/e6eaa48124ae3f209fb117cf05eb18292cf26d21)<br>
       
 
   

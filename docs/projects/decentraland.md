@@ -15,7 +15,7 @@ Create, explore and trade in the first-ever virtual world owned by its users.
 
 July, 2017<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/decentraland/mana/tree/a13905356378cc0153dd3c2153c8ceae6400970d)
+[Repo](https://github.com/decentraland/mana/tree/a13905356378cc0153dd3c2153c8ceae6400970d)<br>
       
 
   

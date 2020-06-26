@@ -15,7 +15,7 @@ Digital currency that can be used by anyone, anywhere, anytime.
 
 August, 2019<br>
 Audited by: Trail of Bits<br>Effort: 16 person-weeks.<br>
-[Repo](Listed in scope)
+[Repo](Listed in scope)<br>
       
 
   

@@ -15,7 +15,7 @@ A people-powered alternative to insurance
 
 April, 2019<br>
 Audited by: Solidified<br>
-[Repo](https://github.com/somish/NexusMutual)
+[Repo](https://github.com/somish/NexusMutual)<br>
       
 
   

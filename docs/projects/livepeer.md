@@ -15,7 +15,7 @@ Open source video infrastructure services, built on the Ethereum blockchain.
 
 March, 2018<br>
 Audited by: Trail of Bits<br>Effort: 4 person-weeks.<br>
-[Repo](https://github.com/livepeer/protocol/tree/master/contracts)
+[Repo](https://github.com/livepeer/protocol/tree/master/contracts)<br>
       
 
   

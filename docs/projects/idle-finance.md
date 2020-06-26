@@ -15,7 +15,7 @@ Earn the yield you deserve without worry about finding the best option, either i
 
 May, 2020<br>
 Audited by: Quantstamp<br>
-[Repo](https://github.com/bugduino/idle-contracts)
+[Repo](https://github.com/bugduino/idle-contracts)<br>
       
 
   

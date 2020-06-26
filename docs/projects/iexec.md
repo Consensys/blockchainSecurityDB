@@ -15,7 +15,7 @@ Decentralized cloud computing
 
 April, 2017<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/iExecBlockchainComputing/rlc-token/tree/3d9aa99ba33bb035c59740a621b1f21cd45cbac5)
+[Repo](https://github.com/iExecBlockchainComputing/rlc-token/tree/3d9aa99ba33bb035c59740a621b1f21cd45cbac5)<br>
       
 
 
@@ -23,7 +23,7 @@ Audited by: OpenZeppelin<br>
 
 May, 2018<br>
 Audited by: ChainSecurity<br>
-[Repo](https://github.com/iExecBlockchainComputing/PoCo)
+[Repo](https://github.com/iExecBlockchainComputing/PoCo)<br>
       
 
   

@@ -15,7 +15,7 @@ Chai is an ERC20 token representing a claim on deposits in the DSR.
 
 February, 2020<br>
 Audited by: Trail of Bits<br>Effort: 2 days<br>
-[Repo](https://github.com/dapphub/chai)
+[Repo](https://github.com/dapphub/chai)<br>
       
 
   

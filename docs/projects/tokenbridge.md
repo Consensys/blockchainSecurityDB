@@ -15,7 +15,7 @@ Blockchain bridge to global stock markets
 
 July, 2019<br>
 Audited by: SmartDec<br>
-[Repo](https://github.com/poanetwork/tokenbridge-contracts)
+[Repo](https://github.com/poanetwork/tokenbridge-contracts)<br>
       
 
   

@@ -15,7 +15,7 @@ Open Source and Non-Custodial protocol to earn interest on deposits & borrow ass
 
 January, 2020<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/aave/aave-protocol)
+[Repo](https://github.com/aave/aave-protocol)<br>
       
 
 
@@ -23,7 +23,7 @@ Audited by: OpenZeppelin<br>
 
 September, 2019<br>
 Audited by: Trail of Bits<br>Effort: 4 person-weeks.<br>
-[Repo](https://gitlab.com/aave-tech/dlp)
+[Repo](https://gitlab.com/aave-tech/dlp)<br>
       
 
   

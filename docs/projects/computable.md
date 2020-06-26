@@ -15,7 +15,7 @@ Buy, Sell, and Invest in independent data cooperatives governed by code.
 
 June, 2019<br>
 Audited by: Trail of Bits<br>Effort: 8 person-weeks.<br>
-[Repo](https://github.com/computablelabs/computable)
+[Repo](https://github.com/computablelabs/computable)<br>
       
 
   

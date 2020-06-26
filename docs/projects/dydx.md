@@ -15,7 +15,7 @@ The most powerful open trading platform for crypto assets
 
 April, 2019<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/dydxprotocol/solo/)
+[Repo](https://github.com/dydxprotocol/solo/)<br>
       
 
   

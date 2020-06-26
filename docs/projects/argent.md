@@ -15,7 +15,7 @@ The most simple and secure smart wallet for crypto.
 
 August, 2019<br>
 Audited by: Argent<br>
-[Repo](https://github.com/argentlabs/argent-contracts/commit/9ba5a6ce954c45b6b9790ff792291888bea75e44)
+[Repo](https://github.com/argentlabs/argent-contracts/commit/9ba5a6ce954c45b6b9790ff792291888bea75e44)<br>
       
 
 
@@ -23,7 +23,7 @@ Audited by: Argent<br>
 
 August, 2019<br>
 Audited by: Argent<br>
-[Repo](https://github.com/argentlabs/argent-contracts/blob/c17d3dff9ea194d16e4956c6795efa20df18e475/contracts/modules/NftTransfer.sol)
+[Repo](https://github.com/argentlabs/argent-contracts/blob/c17d3dff9ea194d16e4956c6795efa20df18e475/contracts/modules/NftTransfer.sol)<br>
       
 
 
@@ -31,7 +31,7 @@ Audited by: Argent<br>
 
 September, 2019<br>
 Audited by: G0Group<br>
-[Repo](https://github.com/argentlabs/argent-contracts/tree/34da49)
+[Repo](https://github.com/argentlabs/argent-contracts/tree/34da49)<br>
       
 
 
@@ -39,7 +39,7 @@ Audited by: G0Group<br>
 
 March, 2020<br>
 Audited by: G0Group<br>
-[Repo](https://github.com/argentlabs/argent-contracts/tree/ff1a50)
+[Repo](https://github.com/argentlabs/argent-contracts/tree/ff1a50)<br>
       
 
 
@@ -47,7 +47,7 @@ Audited by: G0Group<br>
 
 June, 2020<br>
 Audited by: G0Group<br>
-[Repo](https://github.com/argentlabs/argent-contracts/tree/268b7d)
+[Repo](https://github.com/argentlabs/argent-contracts/tree/268b7d)<br>
       
 
 
@@ -63,7 +63,7 @@ Audited by: Solidified<br>
 
 May, 2020<br>
 Audited by: G0Group<br>
-[Repo](https://github.com/argentlabs/argent-contracts)
+[Repo](https://github.com/argentlabs/argent-contracts)<br>
       
 
   

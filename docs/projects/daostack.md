@@ -15,7 +15,7 @@ DAOstack is an open source project advancing the technology and adoption of dece
 
 January, 2019<br>
 Audited by: ChainSecurity<br>
-[Repo](https://github.com/daostack/arc)[Repo](https://github.com/daostack/infra)
+[Repo](https://github.com/daostack/arc)<br>[Repo](https://github.com/daostack/infra)<br>
       
 
   

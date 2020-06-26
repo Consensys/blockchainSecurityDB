@@ -15,7 +15,7 @@ Create your smart contract without coding
 
 October, 2018<br>
 Audited by: Authio<br>
-[Repo](https://github.com/MyWishPlatform/crowdsale)
+[Repo](https://github.com/MyWishPlatform/crowdsale)<br>
       
 
   

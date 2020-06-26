@@ -15,7 +15,7 @@ The SharesPost marketplace makes it easy to explore private growth companies, ac
 
 January, 2019<br>
 Audited by: Quantstamp<br>Effort: 4 auditors, 24 days.<br>
-[Repo](https://github.com/privsecx/glass-poc)
+[Repo](https://github.com/privsecx/glass-poc)<br>
       
 
   

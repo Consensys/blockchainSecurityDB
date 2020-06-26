@@ -15,7 +15,7 @@ Buy, send, and spend crypto
 
 February, 2019<br>
 Audited by: ChainSecurity<br>
-[Repo](https://github.com/tenx-tech/tenx-token)
+[Repo](https://github.com/tenx-tech/tenx-token)<br>
       
 
   

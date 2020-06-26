@@ -15,7 +15,7 @@ First provably fair crypto ETH Lottery!
 
 November, 2019<br>
 Audited by: SmartDec<br>
-[Repo](https://github.com/ethex-bet/ethex-contracts)
+[Repo](https://github.com/ethex-bet/ethex-contracts)<br>
       
 
   

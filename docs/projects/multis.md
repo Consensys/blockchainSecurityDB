@@ -15,7 +15,7 @@ A powerful interface for companies to make the most of their crypto
 
 April, 2020<br>
 Audited by: Quantstamp<br>
-[Repo](https://github.com/multis/MULTISig/commit/635f670c40ab2a83e846f8c6ca16b3cbe5bc6678)
+[Repo](https://github.com/multis/MULTISig/commit/635f670c40ab2a83e846f8c6ca16b3cbe5bc6678)<br>
       
 
   

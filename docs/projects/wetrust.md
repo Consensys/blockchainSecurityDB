@@ -15,7 +15,7 @@ WeTrust is a collaborative savings, lending and insurance platform that is auton
 
 February, 2017<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/WeTrustPlatform/rosca-contracts/tree/2af29be97d529488f5488fe0592f9e6b3585254f/contracts)
+[Repo](https://github.com/WeTrustPlatform/rosca-contracts/tree/2af29be97d529488f5488fe0592f9e6b3585254f/contracts)<br>
       
 
   

@@ -15,7 +15,7 @@ Decentralized fog computing platform
 
 August, 2018<br>
 Audited by: SmartDec<br>
-[Repo](https://github.com/sonm-io/core)
+[Repo](https://github.com/sonm-io/core)<br>
       
 
   

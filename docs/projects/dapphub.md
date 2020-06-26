@@ -15,7 +15,7 @@ Suite of blockchain-oriented developer tools in the spirit of Unix Philosophy
 
 December, 2017<br>
 Audited by: Trail of Bits<br>Effort: 8 person-weeks.<br>
-[Repo](Listed in scope)
+[Repo](Listed in scope)<br>
       
 
   

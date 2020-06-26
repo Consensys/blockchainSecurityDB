@@ -15,7 +15,7 @@ Every transaction. Every where. Every time.
 
 January, 2018<br>
 Audited by: Authio<br>
-[Repo](https://github.com/ledgerium/pubdocs/blob/master/LedgeriumToken.sol)
+[Repo](https://github.com/ledgerium/pubdocs/blob/master/LedgeriumToken.sol)<br>
       
 
   

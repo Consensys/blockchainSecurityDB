@@ -15,7 +15,7 @@ Enables developers to seamlessly embed Ethereum wallets into mainstream applicat
 
 November, 2017<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/OpenSTFoundation/SimpleTokenSale/tree/66025fede245a382ef6ed9f32dd0ecd1da34301f/contracts)
+[Repo](https://github.com/OpenSTFoundation/SimpleTokenSale/tree/66025fede245a382ef6ed9f32dd0ecd1da34301f/contracts)<br>
       
 
   

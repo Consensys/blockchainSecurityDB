@@ -15,7 +15,7 @@ Professional P2P OTC cryptoasset trading software, offering institutional users 
 
 December, 2019<br>
 Audited by: X41D-SEC GmbH<br>Effort: 2 auditors<br>
-[Repo](https://gitlab.com/sibex)
+[Repo](https://gitlab.com/sibex)<br>
       
 
   

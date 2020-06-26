@@ -15,7 +15,7 @@ A suite of smart contracts and software services that enables a trustworthy, mea
 
 October, 2017<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/MercuryProtocol/global-messaging-token-contracts/tree/d0765cbd0732453832455dae0e2cf892da1ab572/contracts)
+[Repo](https://github.com/MercuryProtocol/global-messaging-token-contracts/tree/d0765cbd0732453832455dae0e2cf892da1ab572/contracts)<br>
       
 
   

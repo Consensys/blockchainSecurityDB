@@ -15,7 +15,7 @@ A truly decentralized VPN service.
 
 November, 2019<br>
 Audited by: ConsenSys Diligence<br>Effort: 2 auditors<br>
-[Repo](https://github.com/OrchidTechnologies/orchid)
+[Repo](https://github.com/OrchidTechnologies/orchid)<br>
       
 
   

@@ -15,7 +15,7 @@ Coinvest develops solutions to empower the world to execute financial services u
 
 May, 2018<br>
 Audited by: Authio<br>
-[Repo](https://github.com/DecentralizedDerivatives/DRCT_standard)
+[Repo](https://github.com/DecentralizedDerivatives/DRCT_standard)<br>
       
 
   

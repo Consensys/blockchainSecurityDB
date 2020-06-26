@@ -15,7 +15,7 @@ Help fund managers save time, cut costs, and offer a superior investor experienc
 
 June, 2018<br>
 Audited by: ConsenSys Diligence<br>Effort: 2 auditors<br>
-[Repo](https://github.com/brickblock-io/smart-contracts)
+[Repo](https://github.com/brickblock-io/smart-contracts)<br>
       
 
   

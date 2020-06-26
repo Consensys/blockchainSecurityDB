@@ -15,7 +15,7 @@ Opyn allows you to protect your DeFi deposits and hedge ETH risk.
 
 February, 2020<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/opynfinance/Convexity-Protocol/tree/c34598)
+[Repo](https://github.com/opynfinance/Convexity-Protocol/tree/c34598)<br>
       
 
   

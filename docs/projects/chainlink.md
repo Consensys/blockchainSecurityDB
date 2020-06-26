@@ -15,7 +15,7 @@ Your smart contracts connected to real world data, events and payments.
 
 September, 2019<br>
 Audited by: Callisto<br>
-[Repo](https://gist.github.com/yuriy77k/c3a70d212a7f9ecda715252e45073158)
+[Repo](https://gist.github.com/yuriy77k/c3a70d212a7f9ecda715252e45073158)<br>
       
 
 
@@ -23,7 +23,7 @@ Audited by: Callisto<br>
 
 December, 2018<br>
 Audited by: SigmaPrime<br>
-[Repo](https://github.com/smartcontractkit/chainlink/tree/cee356)
+[Repo](https://github.com/smartcontractkit/chainlink/tree/cee356)<br>
       
 
 
@@ -31,7 +31,7 @@ Audited by: SigmaPrime<br>
 
 May, 2019<br>
 Audited by: SigmaPrime<br>
-[Repo](https://github.com/smartcontractkit/chainlink/tree/e1d9a3a)
+[Repo](https://github.com/smartcontractkit/chainlink/tree/e1d9a3a)<br>
       
 
 
@@ -39,7 +39,7 @@ Audited by: SigmaPrime<br>
 
 November, 2018<br>
 Audited by: Quantstamp<br>
-[Repo](https://github.com/smartcontractkit/chainlink/tree/bafa91c)
+[Repo](https://github.com/smartcontractkit/chainlink/tree/bafa91c)<br>
       
 
 
@@ -47,7 +47,7 @@ Audited by: Quantstamp<br>
 
 February, 2019<br>
 Audited by: Nick Johnson<br>
-[Repo](https://github.com/smartcontractkit/chainlink/tree/5327f9)
+[Repo](https://github.com/smartcontractkit/chainlink/tree/5327f9)<br>
       
 
   

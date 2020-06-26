@@ -15,7 +15,7 @@ Gnosis builds new market mechanisms for open finance.
 
 March, 2018<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/maraoz/MultiSigWallet/tree/585863178330d3c64855d596caba2b7f3271a423)
+[Repo](https://github.com/maraoz/MultiSigWallet/tree/585863178330d3c64855d596caba2b7f3271a423)<br>
       
 
 
@@ -23,7 +23,7 @@ Audited by: OpenZeppelin<br>
 
 July, 2018<br>
 Audited by: Alexey Akhunov<br>
-[Repo](https://github.com/gnosis/safe-contracts/commit/e0575ce68b1f38b6088898b00ac7615dee51100f)
+[Repo](https://github.com/gnosis/safe-contracts/commit/e0575ce68b1f38b6088898b00ac7615dee51100f)<br>
       
 
 
@@ -31,7 +31,7 @@ Audited by: Alexey Akhunov<br>
 
 February, 2019<br>
 Audited by: Runtime Verification<br>
-[Repo](https://github.com/gnosis/safe-contracts/commit/703dde2ea9882a35762146844d5cfbeeec73e36f)
+[Repo](https://github.com/gnosis/safe-contracts/commit/703dde2ea9882a35762146844d5cfbeeec73e36f)<br>
       
 
 
@@ -39,7 +39,7 @@ Audited by: Runtime Verification<br>
 
 November, 2019<br>
 Audited by: G0 Group<br>
-[Repo](https://github.com/gnosis/safe-contracts/commit/2df0b2e0ad5d0f7ab5423e7f5baa72b2456d32ae)
+[Repo](https://github.com/gnosis/safe-contracts/commit/2df0b2e0ad5d0f7ab5423e7f5baa72b2456d32ae)<br>
       
 
 
@@ -47,7 +47,7 @@ Audited by: G0 Group<br>
 
 March, 2018<br>
 Audited by: Solidified<br>
-[Repo](https://github.com/gnosis/dx-contracts/tree/838880)[Repo](https://github.com/gnosis/owl-token/tree/32e2b7)
+[Repo](https://github.com/gnosis/dx-contracts/tree/838880)<br>[Repo](https://github.com/gnosis/owl-token/tree/32e2b7)<br>
       
 
   

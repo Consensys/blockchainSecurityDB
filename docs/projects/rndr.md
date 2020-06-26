@@ -15,7 +15,7 @@ Distributed GPU rendering on the blockchain
 
 November, 2018<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/rndr-network/Token-Audit)[Repo](https://github.com/rndr-network/Token-Airdrop/)
+[Repo](https://github.com/rndr-network/Token-Audit)<br>[Repo](https://github.com/rndr-network/Token-Airdrop/)<br>
       
 
 
@@ -23,7 +23,7 @@ Audited by: OpenZeppelin<br>
 
 September, 2017<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/RenderToken/rendertoken/tree/2967e106004e26cbad5b9a34e57e7f07bde45256/contracts)
+[Repo](https://github.com/RenderToken/rendertoken/tree/2967e106004e26cbad5b9a34e57e7f07bde45256/contracts)<br>
       
 
   

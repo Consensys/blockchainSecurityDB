@@ -15,7 +15,7 @@ Projects on the OMG Network run faster and cheaper without compromising the secu
 
 January, 2020<br>
 Audited by: ConsenSys Diligence<br>Effort: 3 auditors<br>
-[Repo](https://github.com/omgnetwork/plasma-contracts)
+[Repo](https://github.com/omgnetwork/plasma-contracts)<br>
       
 
 
@@ -23,7 +23,7 @@ Audited by: ConsenSys Diligence<br>Effort: 3 auditors<br>
 
 January, 2020<br>
 Audited by: Quantstamp<br>Effort: 2 auditors<br>
-[Repo](https://github.com/omgnetwork/plasma-contracts)
+[Repo](https://github.com/omgnetwork/plasma-contracts)<br>
       
 
 
@@ -31,7 +31,7 @@ Audited by: Quantstamp<br>Effort: 2 auditors<br>
 
 October, 2018<br>
 Audited by: Quantstamp<br>Effort: 5 auditors, 17 days.<br>
-[Repo](https://github.com/omgnetwork/plasma-contracts)
+[Repo](https://github.com/omgnetwork/plasma-contracts)<br>
       
 
   

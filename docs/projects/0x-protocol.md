@@ -15,7 +15,7 @@ An open protocol that enables the peer-to-peer exchange of assets on the Ethereu
 
 October, 2019<br>
 Audited by: ConsenSys Diligence<br>Effort: 2 auditors<br>
-[Repo](https://github.com/0xProject/0x-monorepo)
+[Repo](https://github.com/0xProject/0x-monorepo)<br>
       
 
 
@@ -23,7 +23,7 @@ Audited by: ConsenSys Diligence<br>Effort: 2 auditors<br>
 
 September, 2019<br>
 Audited by: ConsenSys Diligence<br>Effort: 3 auditors<br>
-[Repo](https://github.com/0xProject/0x-monorepo)
+[Repo](https://github.com/0xProject/0x-monorepo)<br>
       
 
 
@@ -31,7 +31,7 @@ Audited by: ConsenSys Diligence<br>Effort: 3 auditors<br>
 
 May, 2019<br>
 Audited by: ConsenSys Diligence<br>Effort: 2 auditors<br>
-[Repo](https://github.com/0xProject/0x-monorepo/blob/77484dc69eea1f4f1a8397590199f3f2489751d2/contracts/asset-proxy/contracts/src/ERC1155Proxy.sol)
+[Repo](https://github.com/0xProject/0x-monorepo/blob/77484dc69eea1f4f1a8397590199f3f2489751d2/contracts/asset-proxy/contracts/src/ERC1155Proxy.sol)<br>
       
 
 
@@ -39,7 +39,7 @@ Audited by: ConsenSys Diligence<br>Effort: 2 auditors<br>
 
 December, 2018<br>
 Audited by: ConsenSys Diligence<br>Effort: 2 auditors<br>
-[Repo](https://github.com/0xProject/0x-monorepo/blob/development/contracts/asset-proxy/contracts/src/MultiAssetProxy.sol)
+[Repo](https://github.com/0xProject/0x-monorepo/blob/development/contracts/asset-proxy/contracts/src/MultiAssetProxy.sol)<br>
       
 
 
@@ -47,7 +47,7 @@ Audited by: ConsenSys Diligence<br>Effort: 2 auditors<br>
 
 September, 2018<br>
 Audited by: ConsenSys Diligence<br>Effort: 5 auditors, 45 days<br>
-[Repo](https://github.com/0xProject/0x-monorepo/commit/a05b14e4d9659be1cc495ee33fd8962ce773f87f)
+[Repo](https://github.com/0xProject/0x-monorepo/commit/a05b14e4d9659be1cc495ee33fd8962ce773f87f)<br>
       
 
 
@@ -63,7 +63,7 @@ Audited by: ConsenSys Diligence<br>Effort: 5 auditors<br>
 
 October, 2019<br>
 Audited by: Trail of Bits<br>Effort: 10 person-weeks.<br>
-[Repo](https://github.com/0xProject/0x-monorepo)
+[Repo](https://github.com/0xProject/0x-monorepo)<br>
       
 
   

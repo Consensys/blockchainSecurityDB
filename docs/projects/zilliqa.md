@@ -15,7 +15,7 @@ Delivering a scalable and secure platform for developers and enterprises who wis
 
 December, 2017<br>
 Audited by: ChainSecurity<br>
-[Repo](https://github.com/Zilliqa/Zilliqa)
+[Repo](https://github.com/Zilliqa/Zilliqa)<br>
       
 
   

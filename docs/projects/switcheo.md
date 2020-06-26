@@ -15,7 +15,7 @@ Trustless and secure multi-chain trading experience.
 
 November, 2018<br>
 Audited by: ChainSecurity<br>
-[Repo](https://github.com/Switcheo/switcheo-eth)
+[Repo](https://github.com/Switcheo/switcheo-eth)<br>
       
 
   

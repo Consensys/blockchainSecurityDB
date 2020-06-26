@@ -47,7 +47,7 @@ Audited by: Sigma Prime<br>
 
 January, 2019<br>
 Audited by: Sigma Prime<br>
-[Repo](https://github.com/Synthetixio/synthetix)
+[Repo](https://github.com/Synthetixio/synthetix)<br>
       
 
 
@@ -55,7 +55,7 @@ Audited by: Sigma Prime<br>
 
 February, 2019<br>
 Audited by: iosiro<br>
-[Repo](https://github.com/Synthetixio/synthetix)
+[Repo](https://github.com/Synthetixio/synthetix)<br>
       
 
 
@@ -63,7 +63,7 @@ Audited by: iosiro<br>
 
 August, 2019<br>
 Audited by: iosiro<br>
-[Repo](https://github.com/Synthetixio/synthetix)
+[Repo](https://github.com/Synthetixio/synthetix)<br>
       
 
 
@@ -71,7 +71,7 @@ Audited by: iosiro<br>
 
 February, 2020<br>
 Audited by: Sigma Prime<br>
-[Repo](https://github.com/Synthetixio/synthetix)
+[Repo](https://github.com/Synthetixio/synthetix)<br>
       
 
 
@@ -79,7 +79,7 @@ Audited by: Sigma Prime<br>
 
 February, 2020<br>
 Audited by: iosiro<br>
-[Repo](https://github.com/Synthetixio/synthetix)
+[Repo](https://github.com/Synthetixio/synthetix)<br>
       
 
 
@@ -87,7 +87,7 @@ Audited by: iosiro<br>
 
 February, 2020<br>
 Audited by: Sigma Prime<br>
-[Repo](https://github.com/Synthetixio/synthetix)
+[Repo](https://github.com/Synthetixio/synthetix)<br>
       
 
 
@@ -95,7 +95,7 @@ Audited by: Sigma Prime<br>
 
 February, 2020<br>
 Audited by: iosiro<br>
-[Repo](https://github.com/Synthetixio/synthetix)
+[Repo](https://github.com/Synthetixio/synthetix)<br>
       
 
 
@@ -103,7 +103,7 @@ Audited by: iosiro<br>
 
 March, 2020<br>
 Audited by: Sigma Prime<br>
-[Repo](https://github.com/Synthetixio/synthetix)
+[Repo](https://github.com/Synthetixio/synthetix)<br>
       
 
 
@@ -111,7 +111,7 @@ Audited by: Sigma Prime<br>
 
 March, 2020<br>
 Audited by: iosiro<br>
-[Repo](https://github.com/Synthetixio/synthetix)
+[Repo](https://github.com/Synthetixio/synthetix)<br>
       
 
   

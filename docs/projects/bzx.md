@@ -15,7 +15,7 @@ The most powerful open finance protocol
 
 September, 2018<br>
 Audited by: ZK Labs<br>
-[Repo](https://github.com/bZxNetwork/protocol_contracts/tree/audit)
+[Repo](https://github.com/bZxNetwork/protocol_contracts/tree/audit)<br>
       
 
 
@@ -23,7 +23,7 @@ Audited by: ZK Labs<br>
 
 February, 2020<br>
 Audited by: Certik<br>
-[Repo](https://github.com/bZxNetwork/bZx-monorepo)
+[Repo](https://github.com/bZxNetwork/bZx-monorepo)<br>
       
 
   

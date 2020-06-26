@@ -15,7 +15,7 @@ Make your data work for you
 
 November, 2017<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/bitclave/crowdsale/tree/057357fecbcc00c9a6cf96831d71d94fb7a13f03/contracts)
+[Repo](https://github.com/bitclave/crowdsale/tree/057357fecbcc00c9a6cf96831d71d94fb7a13f03/contracts)<br>
       
 
   

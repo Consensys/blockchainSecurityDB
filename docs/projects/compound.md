@@ -15,7 +15,7 @@ An algorithmic, autonomous interest rate protocol built for developers, to unloc
 
 October, 2019<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/compound-finance/compound-protocol/tree/f385d71983ae5c5799faae9b2dfea43e5cf75262)
+[Repo](https://github.com/compound-finance/compound-protocol/tree/f385d71983ae5c5799faae9b2dfea43e5cf75262)<br>
       
 
 
@@ -23,7 +23,7 @@ Audited by: OpenZeppelin<br>
 
 August, 2019<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/compound-finance/compound-protocol)
+[Repo](https://github.com/compound-finance/compound-protocol)<br>
       
 
 
@@ -31,7 +31,7 @@ Audited by: OpenZeppelin<br>
 
 August, 2019<br>
 Audited by: Trail of Bits<br>Effort: 2 person-weeks.<br>
-[Repo](https://github.com/compound-finance/compound-protocol)
+[Repo](https://github.com/compound-finance/compound-protocol)<br>
       
 
 
@@ -39,7 +39,7 @@ Audited by: Trail of Bits<br>Effort: 2 person-weeks.<br>
 
 April, 2019<br>
 Audited by: Trail of Bits<br>Effort: 8 person-weeks.<br>
-[Repo](https://github.com/compound-finance/compound-protocol)
+[Repo](https://github.com/compound-finance/compound-protocol)<br>
       
 
 
@@ -47,7 +47,7 @@ Audited by: Trail of Bits<br>Effort: 8 person-weeks.<br>
 
 February, 2020<br>
 Audited by: Trail of Bits<br>Effort: 11 person-days.<br>
-[Repo](https://github.com/compound-finance/compound-protocol/tree/55729b31b85220ab42e26d7b6db0ff6c0eb0dd23)
+[Repo](https://github.com/compound-finance/compound-protocol/tree/55729b31b85220ab42e26d7b6db0ff6c0eb0dd23)<br>
       
 
 
@@ -55,7 +55,7 @@ Audited by: Trail of Bits<br>Effort: 11 person-days.<br>
 
 May, 2019<br>
 Audited by: Certora<br>
-[Repo](https://github.com/compound-finance/compound-protocol/tree/f385d71983ae5c5799faae9b2dfea43e5cf75262)
+[Repo](https://github.com/compound-finance/compound-protocol/tree/f385d71983ae5c5799faae9b2dfea43e5cf75262)<br>
       
 
 
@@ -63,7 +63,7 @@ Audited by: Certora<br>
 
 February, 2020<br>
 Audited by: Gauntlet<br>
-[Repo](https://github.com/compound-finance/compound-protocol/)
+[Repo](https://github.com/compound-finance/compound-protocol/)<br>
       
 
 
@@ -71,7 +71,7 @@ Audited by: Gauntlet<br>
 
 February, 2020<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/compound-finance/compound-protocol-alpha/blob/6858417c91921208c0b3ff342b11065c09665b1b/contracts/Governance)
+[Repo](https://github.com/compound-finance/compound-protocol-alpha/blob/6858417c91921208c0b3ff342b11065c09665b1b/contracts/Governance)<br>
       
 
 
@@ -79,7 +79,7 @@ Audited by: OpenZeppelin<br>
 
 April, 2020<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/compound-finance/compound-protocol-alpha/commit/65e870f7f45dca0a7a3a70209da9c5aec9d27c13)
+[Repo](https://github.com/compound-finance/compound-protocol-alpha/commit/65e870f7f45dca0a7a3a70209da9c5aec9d27c13)<br>
       
 
 
@@ -87,7 +87,7 @@ Audited by: OpenZeppelin<br>
 
 February, 2020<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/compound-finance/compound-protocol/tree/f385d71983ae5c5799faae9b2dfea43e5cf75262)
+[Repo](https://github.com/compound-finance/compound-protocol/tree/f385d71983ae5c5799faae9b2dfea43e5cf75262)<br>
       
 
 
@@ -95,7 +95,7 @@ Audited by: OpenZeppelin<br>
 
 May, 2020<br>
 Audited by: OpenZeppelin<br>
-[Repo](https://github.com/compound-finance/compound-protocol-alpha/pull/36/commits/a303a3259286869d0a4aae967d7cb9e55db39c37)
+[Repo](https://github.com/compound-finance/compound-protocol-alpha/pull/36/commits/a303a3259286869d0a4aae967d7cb9e55db39c37)<br>
       
 
   

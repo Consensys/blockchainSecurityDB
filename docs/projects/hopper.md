@@ -15,7 +15,7 @@ Open-Source Mixer for Mobile-friendly private transfers on Ethereum.
 
 August, 2019<br>
 Audited by: SmartDec<br>
-[Repo](https://github.com/argentlabs/hopper/tree/e4e53624644e99d3a33fb09f95a7d1a637915246)
+[Repo](https://github.com/argentlabs/hopper/tree/e4e53624644e99d3a33fb09f95a7d1a637915246)<br>
       
 
   

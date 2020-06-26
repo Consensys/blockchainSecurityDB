@@ -15,7 +15,7 @@ The non-custodial way to lend, borrow or margin trade crypto assets
 
 April, 2019<br>
 Audited by: Quantstamp<br>
-[Repo](https://github.com/NuoNetwork/nuo-audited-contracts)
+[Repo](https://github.com/NuoNetwork/nuo-audited-contracts)<br>
       
 
   

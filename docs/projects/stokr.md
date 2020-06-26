@@ -15,7 +15,7 @@ Invest in companies you believe in. Built on the blockchain for more independenc
 
 April, 2019<br>
 Audited by: ChainSecurity<br>
-[Repo](https://github.com/stokr-io/stokr-smart-contracts)
+[Repo](https://github.com/stokr-io/stokr-smart-contracts)<br>
       
 
   
