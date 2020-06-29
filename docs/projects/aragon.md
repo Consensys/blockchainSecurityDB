@@ -34,6 +34,14 @@ Audited by: ConsenSys Diligence<br>Effort: 5 auditors, 13 days<br>
 [Repo](https://github.com/aragon/aragonOS)<br>[Repo](https://github.com/aragon/aragon-apps)<br>
       
 
+
+#### [aragonOS Code Review](https://wiki.aragon.org/association/security/audits/audit_whg_updated_aragonOS-Apps.pdf)
+
+June, 2018<br>
+Audited by: White Hat Group<br>Effort: 21 person-weeks<br>
+[Repo](https://github.com/aragon/aragonOS/tree/v3.0.1/contracts)<br>[Repo](https://github.com/aragon/aragon-apps/tree/3542fea317c641f801cef6ca365f52fda97c7323)<br>
+      
+
   
 
 ## Bounty

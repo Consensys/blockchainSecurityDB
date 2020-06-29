@@ -41,6 +41,21 @@
       "auditor": "ConsenSys Diligence",
       "url": "https://github.com/ConsenSys/aragon_audit_report_2018-06-04_extended/blob/master/Aragon-Audit-final.md",
       "effort": "5 auditors, 13 days"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/aragon/aragonOS/tree/v3.0.1/contracts"
+        },
+        {
+          "url": "https://github.com/aragon/aragon-apps/tree/3542fea317c641f801cef6ca365f52fda97c7323"
+        }
+      ],
+      "title": "aragonOS Code Review",
+      "date": "06/18",
+      "auditor": "White Hat Group",
+      "url": "https://wiki.aragon.org/association/security/audits/audit_whg_updated_aragonOS-Apps.pdf",
+      "effort": "21 person-weeks"
     }
   ],
   "project": "Aragon",
