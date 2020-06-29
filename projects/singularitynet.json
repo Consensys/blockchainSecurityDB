@@ -1,0 +1,19 @@
+{
+  "project": "SingularityNET",
+  "project_url": "https://singularitynet.io/",
+  "description": "SingularityNET lets anyone create, share, and monetize AI services at scale.",
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/singnet/platform-contracts/tree/2242c2"
+        }
+      ],
+      "title": "Audit Report - SingularityNET",
+      "date": "02/19",
+      "auditor": "Solidified",
+      "url": "https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20SingularityNet%20%5B12.02.2019%5D.pdf",
+      "effort": "3 auditors"
+    }
+  ]
+}
