@@ -10,6 +10,18 @@
       "date": "10/18",
       "auditor": "ChainSecurity",
       "url": "https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_WBTC.pdf"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/WrappedBTC/bitcoin-token-smart-contracts/tree/audit2"
+        }
+      ],
+      "title": "Audit Report - WBTC",
+      "date": "11/18",
+      "auditor": "Soldified",
+      "url": "https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20WBTC%20%5B11-19-2018%5D.pdf",
+      "effort": "3 auditors"
     }
   ],
   "project": "Wrapped Bitcoin",
