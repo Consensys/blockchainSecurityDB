@@ -66,6 +66,46 @@
       "date": "03/18",
       "auditor": "Solidified",
       "url": "https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20%20Polymath%20USDtieredSTO%20and%20CappedSTO%20%5B04.03.2019%5D.pdf"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/PolymathNetwork/polymath-core/tree/5fa2f1"
+        }
+      ],
+      "title": "Audit Report - Polymath Core 2.0.0",
+      "date": "10/18",
+      "auditor": "Solidified",
+      "url": "https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Polymath%20Core%202.0.0%20%5B08.18.2018%5D.pdf",
+      "effort": "3 auditors"
+    },
+    {
+      "repos": [],
+      "title": "Audit Report - Polymath Core",
+      "date": "02/18",
+      "auditor": "Solidified",
+      "url": "https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Polymath%20Core%20%5B02.14.18%5D.pdf",
+      "effort": "3 auditors"
+    },
+    {
+      "repos": [],
+      "title": "Audit Report - Polymath Token Distribution",
+      "date": "01/18",
+      "auditor": "Solidified",
+      "url": "https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Polymath%20Token%20Distribution%20%5B01.09.18%5D.pdf",
+      "effort": "3 auditors"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/PolymathNetwork/polymath-core/tree/364ea2"
+        }
+      ],
+      "title": "Audit Report - Polymath Toro Release",
+      "date": "07/18",
+      "auditor": "Solidified",
+      "url": "https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Polymath%20Toro%20Release%20%5B07.07.18%5D.pdf",
+      "effort": "3 auditors"
     }
   ],
   "project": "Polymath",

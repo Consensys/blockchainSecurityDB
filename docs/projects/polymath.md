@@ -58,6 +58,38 @@ Audited by: Solidified<br>
 [Repo](https://github.com/PolymathNetwork/polymath-core/tree/a8b71e)<br>
       
 
+
+#### [Audit Report - Polymath Core 2.0.0](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Polymath%20Core%202.0.0%20%5B08.18.2018%5D.pdf)
+
+October, 2018<br>
+Audited by: Solidified<br>Effort: 3 auditors<br>
+[Repo](https://github.com/PolymathNetwork/polymath-core/tree/5fa2f1)<br>
+      
+
+
+#### [Audit Report - Polymath Core](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Polymath%20Core%20%5B02.14.18%5D.pdf)
+
+February, 2018<br>
+Audited by: Solidified<br>Effort: 3 auditors<br>
+
+      
+
+
+#### [Audit Report - Polymath Token Distribution](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Polymath%20Token%20Distribution%20%5B01.09.18%5D.pdf)
+
+January, 2018<br>
+Audited by: Solidified<br>Effort: 3 auditors<br>
+
+      
+
+
+#### [Audit Report - Polymath Toro Release](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Polymath%20Toro%20Release%20%5B07.07.18%5D.pdf)
+
+July, 2018<br>
+Audited by: Solidified<br>Effort: 3 auditors<br>
+[Repo](https://github.com/PolymathNetwork/polymath-core/tree/364ea2)<br>
+      
+
   
 
 
