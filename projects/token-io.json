@@ -1,0 +1,15 @@
+{
+  "project": "Token.io",
+  "project_url": "https://token.io/",
+  "description": "Connecting the future of banking to commerce",
+  "audits": [
+    {
+      "repos": [],
+      "title": "Audit Report - Token.io",
+      "date": "09/18",
+      "auditor": "Solidified",
+      "url": "https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Token.io%20%5B09.09.18%5D.pdf",
+      "effort": "3 auditors"
+    }
+  ]
+}
