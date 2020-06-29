@@ -18,6 +18,14 @@ Audited by: Solidified<br>Effort: 3 auditors<br>
 [Repo](https://github.com/singnet/platform-contracts/tree/2242c2)<br>
       
 
+
+#### [Audit Report - SingularityNET ServiceRequest](https://github.com/solidified-platform/audits/blob/master/Audit%20report%20-%20SingularityNET%20ServiceRequest%20%5B28.02.2019%5D.pdf)
+
+February, 2019<br>
+Audited by: Solidified<br>Effort: 3 auditors<br>
+
+      
+
   
 
 

@@ -14,6 +14,14 @@
       "auditor": "Solidified",
       "url": "https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20SingularityNet%20%5B12.02.2019%5D.pdf",
       "effort": "3 auditors"
+    },
+    {
+      "repos": [],
+      "title": "Audit Report - SingularityNET ServiceRequest",
+      "date": "02/19",
+      "auditor": "Solidified",
+      "url": "https://github.com/solidified-platform/audits/blob/master/Audit%20report%20-%20SingularityNET%20ServiceRequest%20%5B28.02.2019%5D.pdf",
+      "effort": "3 auditors"
     }
   ]
 }
