@@ -52,6 +52,17 @@
       "date": "06/18",
       "auditor": "BokkyPooBah",
       "url": "https://github.com/bokkypoobah/MakerDAOSaiContractAudit/tree/master/audit"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/makerdao/sai"
+        }
+      ],
+      "title": "SAI Coin Code Review",
+      "date": "12/17",
+      "auditor": "White Hat Group",
+      "url": "https://makerdao.com/saiCodeReview/SAI%20Coin%20Code%20Review_v1_3.pdf"
     }
   ]
 }

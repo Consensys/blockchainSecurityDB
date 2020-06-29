@@ -42,6 +42,14 @@ Audited by: BokkyPooBah<br>
 [Repo](https://github.com/makerdao/sai)<br>
       
 
+
+#### [SAI Coin Code Review](https://makerdao.com/saiCodeReview/SAI%20Coin%20Code%20Review_v1_3.pdf)
+
+December, 2017<br>
+Audited by: White Hat Group<br>
+[Repo](https://github.com/makerdao/sai)<br>
+      
+
   
 
 ## Bounty
