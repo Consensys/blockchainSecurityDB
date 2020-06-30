@@ -28,5 +28,9 @@ Audited by: Trail of Bits<br>Effort: 1 person-week<br>
 
   
 
+## Bounty
+
+[https://www.curve.fi/bugbounty](https://www.curve.fi/bugbounty)<br>
+Max payout: $50,000
 
 
