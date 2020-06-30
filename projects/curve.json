@@ -2,6 +2,8 @@
   "project": "Curve",
   "project_url": "https://www.curve.fi/",
   "description": "Curve is an exchange liquidity pool on Ethereum (like Uniswap) designed for (1) extremely efficient stablecoin trading (2) low risk, supplemental fee income for liquidity providers, without an opportunity cost.",
+  "bounty": "https://www.curve.fi/bugbounty",
+  "bounty_max": "$50,000",
   "audits": [
     {
       "repos": [
