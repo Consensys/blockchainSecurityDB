@@ -35,8 +35,16 @@ function createProjectTableRow(file) {
 
   // Get individual audits
   let auditMdArr = [];
-  for(i = 0; i < jsonFile.audits.length; i++) {
-    const audit = jsonFile.audits[i];
+
+  // Sort audits
+  const audits = jsonFile.audits.sort((a,b) => {
+    const dateA = new Date(`20${a.date.split('/')[1]}`, a.date.split('/')[0] - 1, 1);
+    const dateB = new Date(`20${b.date.split('/')[1]}`, b.date.split('/')[0] - 1, 1);
+    return dateA - dateB;
+  });
+
+  for(i = 0; i < audits.length; i++) {
+    const audit = audits[i];
     // Format date
     let auditDate;
     if(audit.date && audit.date.length > 0) {
