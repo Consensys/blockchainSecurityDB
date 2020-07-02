@@ -11,6 +11,14 @@ Ethereum privacy solution that uses zkSNARKs for private transactions.
 
 
 
+#### [Tornado Mixer Security Audit](https://blog.smartdec.net/tornado-mixer-security-audit-fe1976d439e8)
+
+September, 2019<br>
+Audited by: SmartDec<br>
+[Repo](https://github.com/tornadocash/tornado-core/tree/51b06ed661ad0d480c9995401ed47cc324e1ac7e)<br>
+      
+
+
 #### [Tornado Cash cryptographic review](https://tornado.cash/Tornado_cryptographic_review.pdf)
 
 November, 2019<br>
@@ -32,14 +40,6 @@ Audited by: ABDK Consulting<br>
 November, 2019<br>
 Audited by: ABDK Consulting<br>
 [Repo](https://github.com/tornadocash/tornado-core/tree/0484408e82e8f1eebd081186cb11189aa0e9b57f)<br>
-      
-
-
-#### [Tornado Mixer Security Audit](https://blog.smartdec.net/tornado-mixer-security-audit-fe1976d439e8)
-
-September, 2019<br>
-Audited by: SmartDec<br>
-[Repo](https://github.com/tornadocash/tornado-core/tree/51b06ed661ad0d480c9995401ed47cc324e1ac7e)<br>
       
 
   

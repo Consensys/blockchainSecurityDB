@@ -11,19 +11,19 @@ Open Source and Non-Custodial protocol to earn interest on deposits & borrow ass
 
 
 
-#### [Aave Protocol Audit](https://blog.openzeppelin.com/aave-protocol-audit/)
-
-January, 2020<br>
-Audited by: OpenZeppelin<br>
-[Repo](https://github.com/aave/aave-protocol)<br>
-      
-
-
 #### [Aave Protocol Security Assessment](https://github.com/trailofbits/publications/blob/master/reviews/aaveprotocol.pdf)
 
 September, 2019<br>
 Audited by: Trail of Bits<br>Effort: 4 person-weeks.<br>
 [Repo](https://gitlab.com/aave-tech/dlp)<br>
+      
+
+
+#### [Aave Protocol Audit](https://blog.openzeppelin.com/aave-protocol-audit/)
+
+January, 2020<br>
+Audited by: OpenZeppelin<br>
+[Repo](https://github.com/aave/aave-protocol)<br>
       
 
   

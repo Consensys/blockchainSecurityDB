@@ -11,19 +11,11 @@ A crypto wallet & gateway to blockchain apps
 
 
 
-#### [MetaMask Plugin System + LavaMoat Audit ](https://leastauthority.com/static/publications/LeastAuthority-MetaMask-Plugin-System-LavaMoat-Audit-Report.pdf)
+#### [Pentest Report for MetaMask](https://cure53.de/pentest-report_metamask.pdf)
 
-March, 2020<br>
-Audited by: Least Authority TFA GmbH<br>Effort: 3 auditors<br>
-[Repo](https://github.com/MetaMask/metamask-snaps-beta/tree/7d758d335279bd0d25e3a9c170fcf60709eb7828)<br>[Repo](https://github.com/LavaMoat/lavamoat/tree/9bd7fad6eddd54691caf55ee37a64b6f0bb1057a)<br>
-      
-
-
-#### [MetaMask Permissions System + CapNode Audit](https://leastauthority.com/static/publications/LeastAuthority-MetaMask-Permissions-Capnode-Audit-Report.pdf)
-
-November, 2019<br>
-Audited by: Least Authority TFA GmbH<br>Effort: 3 auditors<br>
-[Repo](https://github.com/MetaMask/metamask-extension/tree/15b78d32e6284e85018de12845cc7563b3aa7f81)<br>[Repo](https://github.com/MetaMask/rpc-cap/tree/e097c14ab307f16743724e8a1cb592769398624)<br>[Repo](https://github.com/danfinlay/capnode/tree/243c0bca0dc664f2626f73719f865d110d99a402)<br>
+August, 2017<br>
+Audited by: Cure53<br>Effort: 5 auditors<br>
+[Repo](https://github.com/MetaMask/metamask-extension)<br>
       
 
 
@@ -35,11 +27,19 @@ Audited by: Least Authority TFA GmbH<br>Effort: 3 auditors<br>
       
 
 
-#### [Pentest Report for MetaMask](https://cure53.de/pentest-report_metamask.pdf)
+#### [MetaMask Permissions System + CapNode Audit](https://leastauthority.com/static/publications/LeastAuthority-MetaMask-Permissions-Capnode-Audit-Report.pdf)
 
-August, 2017<br>
-Audited by: Cure53<br>Effort: 5 auditors<br>
-[Repo](https://github.com/MetaMask/metamask-extension)<br>
+November, 2019<br>
+Audited by: Least Authority TFA GmbH<br>Effort: 3 auditors<br>
+[Repo](https://github.com/MetaMask/metamask-extension/tree/15b78d32e6284e85018de12845cc7563b3aa7f81)<br>[Repo](https://github.com/MetaMask/rpc-cap/tree/e097c14ab307f16743724e8a1cb592769398624)<br>[Repo](https://github.com/danfinlay/capnode/tree/243c0bca0dc664f2626f73719f865d110d99a402)<br>
+      
+
+
+#### [MetaMask Plugin System + LavaMoat Audit ](https://leastauthority.com/static/publications/LeastAuthority-MetaMask-Plugin-System-LavaMoat-Audit-Report.pdf)
+
+March, 2020<br>
+Audited by: Least Authority TFA GmbH<br>Effort: 3 auditors<br>
+[Repo](https://github.com/MetaMask/metamask-snaps-beta/tree/7d758d335279bd0d25e3a9c170fcf60709eb7828)<br>[Repo](https://github.com/LavaMoat/lavamoat/tree/9bd7fad6eddd54691caf55ee37a64b6f0bb1057a)<br>
       
 
   

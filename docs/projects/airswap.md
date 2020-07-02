@@ -27,17 +27,17 @@ Audited by: Nick Johnson<br>
       
 
 
-#### [Airswap Token Contract Launch Audit](https://github.com/airswap/contracts-v1/blob/master/audits/phil-daian/airswap-token-contract-audit-v0.pdf)
+#### [Airswap Exchange Contract Launch Audit](https://github.com/airswap/contracts-v1/blob/master/audits/phil-daian/airswap-exchange-contract-audit-v0.pdf)
 
-October, 2017<br>
+September, 2017<br>
 Audited by: Philip Daian<br>
 
       
 
 
-#### [Airswap Exchange Contract Launch Audit](https://github.com/airswap/contracts-v1/blob/master/audits/phil-daian/airswap-exchange-contract-audit-v0.pdf)
+#### [Airswap Token Contract Launch Audit](https://github.com/airswap/contracts-v1/blob/master/audits/phil-daian/airswap-token-contract-audit-v0.pdf)
 
-September, 2017<br>
+October, 2017<br>
 Audited by: Philip Daian<br>
 
       

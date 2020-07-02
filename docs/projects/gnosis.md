@@ -19,6 +19,14 @@ Audited by: OpenZeppelin<br>
       
 
 
+#### [Audit Report - Gnosis DX](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Gnosis%20DX%20%5B03.29.18%5D.pdf)
+
+March, 2018<br>
+Audited by: Solidified<br>
+[Repo](https://github.com/gnosis/dx-contracts/tree/838880)<br>[Repo](https://github.com/gnosis/owl-token/tree/32e2b7)<br>
+      
+
+
 #### [Gnosis Safe v0.0.1](https://github.com/gnosis/safe-contracts/blob/development/docs/alexey_audit.md)
 
 July, 2018<br>
@@ -40,14 +48,6 @@ Audited by: Runtime Verification<br>
 November, 2019<br>
 Audited by: G0 Group<br>
 [Repo](https://github.com/gnosis/safe-contracts/commit/2df0b2e0ad5d0f7ab5423e7f5baa72b2456d32ae)<br>
-      
-
-
-#### [Audit Report - Gnosis DX](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Gnosis%20DX%20%5B03.29.18%5D.pdf)
-
-March, 2018<br>
-Audited by: Solidified<br>
-[Repo](https://github.com/gnosis/dx-contracts/tree/838880)<br>[Repo](https://github.com/gnosis/owl-token/tree/32e2b7)<br>
       
 
   

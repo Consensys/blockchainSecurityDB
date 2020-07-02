@@ -11,19 +11,11 @@ Aragon gives internet communities unprecedented power to organize around shared 
 
 
 
-#### [Aragon DAO Templates Audit](https://github.com/ConsenSys/aragon-daotemplates-audit-report-2019-08)
+#### [aragonOS Code Review](https://wiki.aragon.org/association/security/audits/audit_whg_updated_aragonOS-Apps.pdf)
 
-August, 2019<br>
-Audited by: ConsenSys Diligence<br>Effort: 2 auditors<br>
-[Repo](https://github.com/aragon/dao-templates)<br>
-      
-
-
-#### [Aragon Payroll Application Audit](https://github.com/ConsenSys/aragon-payroll-audit-report-2019-06)
-
-July, 2019<br>
-Audited by: ConsenSys Diligence<br>Effort: 4 auditors<br>
-[Repo](https://github.com/aragon/aragon-apps/tree/master/future-apps/payroll)<br>[Repo](https://github.com/aragon/ppf)<br>
+June, 2018<br>
+Audited by: White Hat Group<br>Effort: 21 person-weeks<br>
+[Repo](https://github.com/aragon/aragonOS/tree/v3.0.1/contracts)<br>[Repo](https://github.com/aragon/aragon-apps/tree/3542fea317c641f801cef6ca365f52fda97c7323)<br>
       
 
 
@@ -35,11 +27,19 @@ Audited by: ConsenSys Diligence<br>Effort: 5 auditors, 13 days<br>
       
 
 
-#### [aragonOS Code Review](https://wiki.aragon.org/association/security/audits/audit_whg_updated_aragonOS-Apps.pdf)
+#### [Aragon Payroll Application Audit](https://github.com/ConsenSys/aragon-payroll-audit-report-2019-06)
 
-June, 2018<br>
-Audited by: White Hat Group<br>Effort: 21 person-weeks<br>
-[Repo](https://github.com/aragon/aragonOS/tree/v3.0.1/contracts)<br>[Repo](https://github.com/aragon/aragon-apps/tree/3542fea317c641f801cef6ca365f52fda97c7323)<br>
+July, 2019<br>
+Audited by: ConsenSys Diligence<br>Effort: 4 auditors<br>
+[Repo](https://github.com/aragon/aragon-apps/tree/master/future-apps/payroll)<br>[Repo](https://github.com/aragon/ppf)<br>
+      
+
+
+#### [Aragon DAO Templates Audit](https://github.com/ConsenSys/aragon-daotemplates-audit-report-2019-08)
+
+August, 2019<br>
+Audited by: ConsenSys Diligence<br>Effort: 2 auditors<br>
+[Repo](https://github.com/aragon/dao-templates)<br>
       
 
   

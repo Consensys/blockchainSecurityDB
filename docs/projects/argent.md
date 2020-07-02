@@ -11,6 +11,14 @@ The most simple and secure smart wallet for crypto.
 
 
 
+#### [Argent Audit Report](https://github.com/argentlabs/argent-contracts/blob/develop/audit/Audit%20Report%20-%20Argent%20%5B26-11-2018%5D%20.pdf)
+
+September, 2018<br>
+Audited by: Solidified<br>
+
+      
+
+
 #### [Decentralised Finance Extension Audit](https://github.com/argentlabs/argent-contracts/blob/develop/audit/ArgentNetwork_DeFi%20(1).md)
 
 August, 2019<br>
@@ -43,27 +51,19 @@ Audited by: G0Group<br>
       
 
 
-#### [Security Review of Argent RecoveryManager Vulnerability Fix](https://github.com/argentlabs/argent-contracts/blob/develop/audit/G0Group-ArgentFix2020Jun.pdf)
-
-June, 2020<br>
-Audited by: G0Group<br>
-[Repo](https://github.com/argentlabs/argent-contracts/tree/268b7d)<br>
-      
-
-
-#### [Argent Audit Report](https://github.com/argentlabs/argent-contracts/blob/develop/audit/Audit%20Report%20-%20Argent%20%5B26-11-2018%5D%20.pdf)
-
-September, 2018<br>
-Audited by: Solidified<br>
-
-      
-
-
 #### [Security Review of Argent MakerV2 and Other Updates](https://github.com/argentlabs/argent-contracts/blob/develop/audit/ArgentUpdateApr2020.pdf)
 
 May, 2020<br>
 Audited by: G0Group<br>
 [Repo](https://github.com/argentlabs/argent-contracts)<br>
+      
+
+
+#### [Security Review of Argent RecoveryManager Vulnerability Fix](https://github.com/argentlabs/argent-contracts/blob/develop/audit/G0Group-ArgentFix2020Jun.pdf)
+
+June, 2020<br>
+Audited by: G0Group<br>
+[Repo](https://github.com/argentlabs/argent-contracts/tree/268b7d)<br>
       
 
   

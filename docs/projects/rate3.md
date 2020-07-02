@@ -11,17 +11,17 @@ Creating a connected tokenized world
 
 
 
-#### [Rate3 Smart Contracts Security Analysis](https://blog.smartdec.net/rate3-smart-contracts-security-analysis-41a6a3971ca)
+#### [Rate3 Smart Contracts Security Audit](https://blog.smartdec.net/rate3-smart-contracts-security-analysis-e95439201785)
 
-December, 2018<br>
+April, 2018<br>
 Audited by: SmartDec<br>
 
       
 
 
-#### [Rate3 Smart Contracts Security Audit](https://blog.smartdec.net/rate3-smart-contracts-security-analysis-e95439201785)
+#### [Rate3 Smart Contracts Security Analysis](https://blog.smartdec.net/rate3-smart-contracts-security-analysis-41a6a3971ca)
 
-April, 2018<br>
+December, 2018<br>
 Audited by: SmartDec<br>
 
       

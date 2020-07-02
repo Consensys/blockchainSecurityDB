@@ -11,11 +11,11 @@ Polymath makes it easy to create, issue, and manage digital securities on the bl
 
 
 
-#### [Polymath-Core Audit](https://github.com/ConsenSys/polymath-audit-report-2019-04)
+#### [Audit Report - Polymath Token Distribution](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Polymath%20Token%20Distribution%20%5B01.09.18%5D.pdf)
 
-May, 2019<br>
-Audited by: ConsenSys Diligence<br>Effort: 3 auditors<br>
-[Repo](https://github.com/PolymathNetwork/polymath-core/releases/tag/3.0.0-audit)<br>
+January, 2018<br>
+Audited by: Solidified<br>Effort: 3 auditors<br>
+
       
 
 
@@ -27,25 +27,17 @@ Audited by: OpenZeppelin<br>
       
 
 
-#### [Polymath Core Audit](https://blog.coinfabrik.com/polymath-core-audit/)
+#### [Audit Report - Polymath Core](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Polymath%20Core%20%5B02.14.18%5D.pdf)
 
-November, 2019<br>
-Audited by: CoinFabrik<br>
-[Repo](https://github.com/PolymathNetwork/polymath-core/tree/dev-3.1.0)<br>
+February, 2018<br>
+Audited by: Solidified<br>Effort: 3 auditors<br>
+
       
 
 
 #### [Audit Report - Polymath - Patches for GeneralTransferManger, CountTransferManager and ManualApprovalManager](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20%20Polymath%20-%20Patches%20for%20GeneralTransferManger%2C%20CountTransferManager%20and%20ManualApprovalManager%20%5B14.03.19%5D.pdf)
 
 March, 2018<br>
-Audited by: Solidified<br>
-[Repo](https://github.com/PolymathNetwork/polymath-core/tree/a8b71e)<br>
-      
-
-
-#### [Audit Report - Polymath - Volume Restriction Transafer Manager](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20%20Polymath%20-%20Volume%20Restriction%20Transafer%20Manager%20%5B22.03.2019%5D.pdf)
-
-March, 2019<br>
 Audited by: Solidified<br>
 [Repo](https://github.com/PolymathNetwork/polymath-core/tree/a8b71e)<br>
       
@@ -59,6 +51,14 @@ Audited by: Solidified<br>
       
 
 
+#### [Audit Report - Polymath Toro Release](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Polymath%20Toro%20Release%20%5B07.07.18%5D.pdf)
+
+July, 2018<br>
+Audited by: Solidified<br>Effort: 3 auditors<br>
+[Repo](https://github.com/PolymathNetwork/polymath-core/tree/364ea2)<br>
+      
+
+
 #### [Audit Report - Polymath Core 2.0.0](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Polymath%20Core%202.0.0%20%5B08.18.2018%5D.pdf)
 
 October, 2018<br>
@@ -67,27 +67,27 @@ Audited by: Solidified<br>Effort: 3 auditors<br>
       
 
 
-#### [Audit Report - Polymath Core](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Polymath%20Core%20%5B02.14.18%5D.pdf)
+#### [Audit Report - Polymath - Volume Restriction Transafer Manager](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20%20Polymath%20-%20Volume%20Restriction%20Transafer%20Manager%20%5B22.03.2019%5D.pdf)
 
-February, 2018<br>
-Audited by: Solidified<br>Effort: 3 auditors<br>
-
+March, 2019<br>
+Audited by: Solidified<br>
+[Repo](https://github.com/PolymathNetwork/polymath-core/tree/a8b71e)<br>
       
 
 
-#### [Audit Report - Polymath Token Distribution](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Polymath%20Token%20Distribution%20%5B01.09.18%5D.pdf)
+#### [Polymath-Core Audit](https://github.com/ConsenSys/polymath-audit-report-2019-04)
 
-January, 2018<br>
-Audited by: Solidified<br>Effort: 3 auditors<br>
-
+May, 2019<br>
+Audited by: ConsenSys Diligence<br>Effort: 3 auditors<br>
+[Repo](https://github.com/PolymathNetwork/polymath-core/releases/tag/3.0.0-audit)<br>
       
 
 
-#### [Audit Report - Polymath Toro Release](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Polymath%20Toro%20Release%20%5B07.07.18%5D.pdf)
+#### [Polymath Core Audit](https://blog.coinfabrik.com/polymath-core-audit/)
 
-July, 2018<br>
-Audited by: Solidified<br>Effort: 3 auditors<br>
-[Repo](https://github.com/PolymathNetwork/polymath-core/tree/364ea2)<br>
+November, 2019<br>
+Audited by: CoinFabrik<br>
+[Repo](https://github.com/PolymathNetwork/polymath-core/tree/dev-3.1.0)<br>
       
 
   

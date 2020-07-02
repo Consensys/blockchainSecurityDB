@@ -11,11 +11,11 @@ Your smart contracts connected to real world data, events and payments.
 
 
 
-#### [ChainLink (LINK) Security Audit Report](https://callisto.network/blog/post/chainlink-link-security-audit-report/)
+#### [Chainlink Smart Contract Audit Report](https://github.com/smartcontractkit/audits/blob/master/reports/Quantstamp%20-%20Chainlink%20Audit%20Report.pdf)
 
-September, 2019<br>
-Audited by: Callisto<br>
-[Repo](https://gist.github.com/yuriy77k/c3a70d212a7f9ecda715252e45073158)<br>
+November, 2018<br>
+Audited by: Quantstamp<br>
+[Repo](https://github.com/smartcontractkit/chainlink/tree/bafa91c)<br>
       
 
 
@@ -27,6 +27,14 @@ Audited by: SigmaPrime<br>
       
 
 
+#### [Chainlink Smart Contract Audit](https://github.com/smartcontractkit/audits/blob/master/reports/Nick%20Johnson%20-%20Chainlink%20Audit%20Report.pdf)
+
+February, 2019<br>
+Audited by: Nick Johnson<br>
+[Repo](https://github.com/smartcontractkit/chainlink/tree/5327f9)<br>
+      
+
+
 #### [Solidity Security Review ConvesionRate Smart Contract](https://github.com/sigp/public-audits/blob/master/chainlink-2/review.pdf)
 
 May, 2019<br>
@@ -35,19 +43,11 @@ Audited by: SigmaPrime<br>
       
 
 
-#### [Chainlink Smart Contract Audit Report](https://github.com/smartcontractkit/audits/blob/master/reports/Quantstamp%20-%20Chainlink%20Audit%20Report.pdf)
+#### [ChainLink (LINK) Security Audit Report](https://callisto.network/blog/post/chainlink-link-security-audit-report/)
 
-November, 2018<br>
-Audited by: Quantstamp<br>
-[Repo](https://github.com/smartcontractkit/chainlink/tree/bafa91c)<br>
-      
-
-
-#### [Chainlink Smart Contract Audit](https://github.com/smartcontractkit/audits/blob/master/reports/Nick%20Johnson%20-%20Chainlink%20Audit%20Report.pdf)
-
-February, 2019<br>
-Audited by: Nick Johnson<br>
-[Repo](https://github.com/smartcontractkit/chainlink/tree/5327f9)<br>
+September, 2019<br>
+Audited by: Callisto<br>
+[Repo](https://gist.github.com/yuriy77k/c3a70d212a7f9ecda715252e45073158)<br>
       
 
   

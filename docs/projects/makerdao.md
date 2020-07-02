@@ -11,6 +11,22 @@ Digital currency that can be used by anyone, anywhere, anytime.
 
 
 
+#### [SAI Coin Code Review](https://makerdao.com/saiCodeReview/SAI%20Coin%20Code%20Review_v1_3.pdf)
+
+December, 2017<br>
+Audited by: White Hat Group<br>
+[Repo](https://github.com/makerdao/sai)<br>
+      
+
+
+#### [MakerDAO Sai Contract Audit](https://github.com/bokkypoobah/MakerDAOSaiContractAudit/tree/master/audit)
+
+June, 2018<br>
+Audited by: BokkyPooBah<br>
+[Repo](https://github.com/makerdao/sai)<br>
+      
+
+
 #### [MCD Core Smart Contracts Security Assessment](https://github.com/makerdao/mcd-security/blob/master/Audit%20Reports/TOB_MakerDAO_Final_Report.pdf)
 
 August, 2019<br>
@@ -32,22 +48,6 @@ Audited by: PeckShield<br>Effort: 12 person-weeks, 4 engineers<br>
 June, 2020<br>
 Audited by: Runtime Verification<br>Effort: 12 person-weeks, 2 engineers<br>
 [Repo](https://github.com/makerdao/dss)<br>
-      
-
-
-#### [MakerDAO Sai Contract Audit](https://github.com/bokkypoobah/MakerDAOSaiContractAudit/tree/master/audit)
-
-June, 2018<br>
-Audited by: BokkyPooBah<br>
-[Repo](https://github.com/makerdao/sai)<br>
-      
-
-
-#### [SAI Coin Code Review](https://makerdao.com/saiCodeReview/SAI%20Coin%20Code%20Review_v1_3.pdf)
-
-December, 2017<br>
-Audited by: White Hat Group<br>
-[Repo](https://github.com/makerdao/sai)<br>
       
 
   

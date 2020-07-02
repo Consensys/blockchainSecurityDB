@@ -11,6 +11,14 @@ Projects on the OMG Network run faster and cheaper without compromising the secu
 
 
 
+#### [Omisego Plasma MVP Audit](https://certificate.quantstamp.com/full/omisego-plasma-mvp)
+
+October, 2018<br>
+Audited by: Quantstamp<br>Effort: 5 auditors, 17 days.<br>
+[Repo](https://github.com/omgnetwork/plasma-contracts)<br>
+      
+
+
 #### [Omisego Morevp Audit](https://diligence.consensys.net/audits/2020/01/omisego-morevp/)
 
 January, 2020<br>
@@ -23,14 +31,6 @@ Audited by: ConsenSys Diligence<br>Effort: 3 auditors<br>
 
 January, 2020<br>
 Audited by: Quantstamp<br>Effort: 2 auditors<br>
-[Repo](https://github.com/omgnetwork/plasma-contracts)<br>
-      
-
-
-#### [Omisego Plasma MVP Audit](https://certificate.quantstamp.com/full/omisego-plasma-mvp)
-
-October, 2018<br>
-Audited by: Quantstamp<br>Effort: 5 auditors, 17 days.<br>
 [Repo](https://github.com/omgnetwork/plasma-contracts)<br>
       
 

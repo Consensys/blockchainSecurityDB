@@ -11,10 +11,18 @@ An algorithmic, autonomous interest rate protocol built for developers, to unloc
 
 
 
-#### [Compound Finance – Timelock Audit](https://blog.openzeppelin.com/compound-finance-patch-audit/)
+#### [Compound V2 Security Assessment](https://github.com/trailofbits/publications/blob/master/reviews/compound-2.pdf)
 
-October, 2019<br>
-Audited by: OpenZeppelin<br>
+April, 2019<br>
+Audited by: Trail of Bits<br>Effort: 8 person-weeks.<br>
+[Repo](https://github.com/compound-finance/compound-protocol)<br>
+      
+
+
+#### [Formal Verification of Compound Protocol](https://compound.finance/documents/Certora.pdf)
+
+May, 2019<br>
+Audited by: Certora<br>
 [Repo](https://github.com/compound-finance/compound-protocol/tree/f385d71983ae5c5799faae9b2dfea43e5cf75262)<br>
       
 
@@ -35,11 +43,11 @@ Audited by: Trail of Bits<br>Effort: 2 person-weeks.<br>
       
 
 
-#### [Compound V2 Security Assessment](https://github.com/trailofbits/publications/blob/master/reviews/compound-2.pdf)
+#### [Compound Finance – Timelock Audit](https://blog.openzeppelin.com/compound-finance-patch-audit/)
 
-April, 2019<br>
-Audited by: Trail of Bits<br>Effort: 8 person-weeks.<br>
-[Repo](https://github.com/compound-finance/compound-protocol)<br>
+October, 2019<br>
+Audited by: OpenZeppelin<br>
+[Repo](https://github.com/compound-finance/compound-protocol/tree/f385d71983ae5c5799faae9b2dfea43e5cf75262)<br>
       
 
 
@@ -48,14 +56,6 @@ Audited by: Trail of Bits<br>Effort: 8 person-weeks.<br>
 February, 2020<br>
 Audited by: Trail of Bits<br>Effort: 11 person-days.<br>
 [Repo](https://github.com/compound-finance/compound-protocol/tree/55729b31b85220ab42e26d7b6db0ff6c0eb0dd23)<br>
-      
-
-
-#### [Formal Verification of Compound Protocol](https://compound.finance/documents/Certora.pdf)
-
-May, 2019<br>
-Audited by: Certora<br>
-[Repo](https://github.com/compound-finance/compound-protocol/tree/f385d71983ae5c5799faae9b2dfea43e5cf75262)<br>
       
 
 
@@ -75,19 +75,19 @@ Audited by: OpenZeppelin<br>
       
 
 
-#### [Compound: Tether Integration Audit](https://blog.openzeppelin.com/compound-tether-integration-audit/)
-
-April, 2020<br>
-Audited by: OpenZeppelin<br>
-[Repo](https://github.com/compound-finance/compound-protocol-alpha/commit/65e870f7f45dca0a7a3a70209da9c5aec9d27c13)<br>
-      
-
-
 #### [Compound Finance – MCD & DSR Integration](https://blog.openzeppelin.com/compound-finance-mcd-dsr-integration/)
 
 February, 2020<br>
 Audited by: OpenZeppelin<br>
 [Repo](https://github.com/compound-finance/compound-protocol/tree/f385d71983ae5c5799faae9b2dfea43e5cf75262)<br>
+      
+
+
+#### [Compound: Tether Integration Audit](https://blog.openzeppelin.com/compound-tether-integration-audit/)
+
+April, 2020<br>
+Audited by: OpenZeppelin<br>
+[Repo](https://github.com/compound-finance/compound-protocol-alpha/commit/65e870f7f45dca0a7a3a70209da9c5aec9d27c13)<br>
       
 
 

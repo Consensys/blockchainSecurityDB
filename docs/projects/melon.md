@@ -11,14 +11,6 @@ The infrastructure for asset management 3.0
 
 
 
-#### [Security Audit of Melon's Smart Contracts](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Melon.pdf)
-
-March, 2019<br>
-Audited by: ChainSecurity<br>Effort: 4 auditors, 2 weeks.<br>
-[Repo](https://github.com/melonproject/protocol/tree/develop/src)<br>
-      
-
-
 #### [Audit Report - Melon Competition](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Melon%20Competition%20%5B05.11.18%5D.pdf)
 
 May, 2018<br>
@@ -40,6 +32,14 @@ Audited by: Solidified<br>Effort: 2 auditors.<br>
 January, 2019<br>
 Audited by: Solidified<br>Effort: 3 auditors.<br>
 [Repo](https://github.com/melonproject/protocol/tree/0d92a7)<br>
+      
+
+
+#### [Security Audit of Melon's Smart Contracts](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Melon.pdf)
+
+March, 2019<br>
+Audited by: ChainSecurity<br>Effort: 4 auditors, 2 weeks.<br>
+[Repo](https://github.com/melonproject/protocol/tree/develop/src)<br>
       
 
   
