@@ -10,7 +10,18 @@
       "date": "04/19",
       "auditor": "Solidified",
       "url": "https://www.scribd.com/document/411077416/Solidified-Audit-Report-Nexus-Mutual-20-05-2019"
-    }
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/NexusMutual/smart-contracts/tree/f738e8da53ab1ccbf57b6ae58e6790842ac5b524"
+        }
+      ],
+      "title": "Nexus Mutual Pooled Staking Audit",
+      "date": "06/20",
+      "auditor": "G0 GROUP",
+      "url": "https://github.com/g0-group/Audits/blob/master/G0Group-NexusMutual2020Jun.pdf"
+    }    
   ],
   "project": "Nexus Mutual",
   "project_url": "https://nexusmutual.io/",
