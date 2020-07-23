@@ -1,0 +1,28 @@
+{
+    "project": "Anyswap",
+    "project_url": "https://anyswap.exchange/",
+    "description": "Anyswap is a decentralized, cross-chain trading protocol that supports real-time trading of mainstream cryptocurrencies such as BTC, ETH, USDT, FSN, automatic liquidity and token incentives",
+    "bounty": "",
+    "bounty_max": "",
+    "security_contact": "",
+    "audits": [
+      {
+        "repos": [
+          {
+            "url": "https://github.com/anyswap/anyswap-exchange"
+          },
+          {
+            "url": "https://github.com/anyswap/ANYToken-locked"
+          },
+          {
+            "url": "https://github.com/anyswap/anyswap-token"
+          }
+        ],
+        "title": "Anyswap",
+        "date": "07/20",
+        "auditor": "SlowMist",
+        "url": "https://github.com/anyswap/Anyswap-Audit/tree/master/SlowMist",
+        "effort": "3 auditors"
+      }
+    ]
+  }
