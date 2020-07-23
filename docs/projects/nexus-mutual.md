@@ -18,6 +18,14 @@ Audited by: Solidified<br>
 [Repo](https://github.com/somish/NexusMutual)<br>
       
 
+
+#### [Nexus Mutual Pooled Staking Audit](https://github.com/g0-group/Audits/blob/master/G0Group-NexusMutual2020Jun.pdf)
+
+June, 2020<br>
+Audited by: G0 GROUP<br>
+[Repo](https://github.com/NexusMutual/smart-contracts/tree/f738e8da53ab1ccbf57b6ae58e6790842ac5b524)<br>
+      
+
   
 
 
