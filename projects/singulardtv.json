@@ -1,0 +1,18 @@
+{
+    "project": "SingularDTV (SNGLS)",
+    "project_url": "https://singulardtv.com/",
+    "description": "Building The Decentralized Entertainment Industry",
+    "audits": [
+      {
+        "repos": [
+          {
+            "url": "https://github.com/SingularDTV/snglsDAO-smartcontracts"
+          }
+        ],
+        "title": "SingularDTV Smart Contract Audit Report by Hacken",
+        "date": "07/20",
+        "auditor": "Hacken",
+        "url": "https://github.com/SingularDTV/snglsDAO-smartcontracts/blob/master/security-audit/AUDIT.pdf"
+      }
+    ]
+  }

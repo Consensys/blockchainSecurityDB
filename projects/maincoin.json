@@ -1,0 +1,18 @@
+{
+    "project": "MainCoin",
+    "project_url": "https://maincoin.money/",
+    "description": "Use MainCoin for instant and private payments on the Internet and in the real world.",
+    "audits": [
+      {
+        "repos": [
+          {
+            "url": "https://etherscan.io/address/0x9F0F1BE08591AB7D990FAF910B38ED5D60E4D5BF"
+          }
+        ],
+        "title": "Maincoin Smart Contract Audit Report by Hacken",
+        "date": "03/19",
+        "auditor": "Hacken",
+        "url": "https://maincoin.money/Maincoin_SC_Audit_Report.pdf"
+      }
+    ]
+  }

@@ -1,0 +1,18 @@
+{
+    "project": "Gekkoin",
+    "project_url": "https://gekkoin.com/index",
+    "description": "Protected cryptocurrency investments",
+    "audits": [
+      {
+        "repos": [
+          {
+            "url": "https://github.com/gekkoin/gekkoin-tokens"
+          }
+        ],
+        "title": "Gekkoin Smart Contract Audit Report by Hacken",
+        "date": "10/19",
+        "auditor": "Hacken",
+        "url": "https://gekkoin.com/source/Gekkoin_Audit_Report.pdf"
+      }
+    ]
+  }
