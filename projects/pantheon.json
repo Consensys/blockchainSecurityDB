@@ -1,0 +1,18 @@
+{
+    "project": "Pantheon",
+    "project_url": "https://pantheon.exchange/",
+    "description": "Decentralized ecosystem where you receive rewards for every transaction regardless of the token price.",
+    "audits": [
+      {
+        "repos": [
+          {
+            "url": "https://etherscan.io/address/0xbd73e675e1fa3d60a302c797df5c82e558da7ce1"
+          }
+        ],
+        "title": "Pantheon Smart Contract Audit Report by Hacken",
+        "date": "11/18",
+        "auditor": "Hacken",
+        "url": "https://pantheon.exchange/assets/audit/hacken.pdf"
+      }
+    ]
+  }

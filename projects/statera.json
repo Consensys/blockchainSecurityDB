@@ -1,0 +1,18 @@
+{
+    "project": "Statera",
+    "project_url": "https://stateratoken.com/",
+    "description": "Statera (STA) is a smart contract powered Indexed Deflationary Token (IDT), which synergizes with a trustless and community driven portfolio of class-leading cryptocurrencies.",
+    "audits": [
+      {
+        "repos": [
+          {
+            "url": "https://github.com/StateraProject/statera-token"
+          }
+        ],
+        "title": "Statera Smart Contract Audit Report by Hacken",
+        "date": "06/20",
+        "auditor": "Hacken",
+        "url": "https://hacken.io/wp-content/uploads/2020/06/Statera_SC_Audit_Report.pdf"
+      }
+    ]
+  }

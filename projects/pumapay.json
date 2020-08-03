@@ -10,6 +10,17 @@
       "date": "10/19",
       "auditor": "SmartDec",
       "url": "https://blog.smartdec.net/pumapay-smart-contracts-security-analysis-fe851f293e3b"
+    },
+    {
+      "repos": [
+        {
+          "url": "https://github.com/pumapayio/pumapay-token"
+        }
+      ],
+      "title": "РumaPay Smart Contracts Audit by Hacken",
+      "date": "09/18",
+      "auditor": "Hacken",
+      "url": "https://github.com/pumapayio/pumapay-token/blob/master/audits/PullPayment%20Smart%20Contract%20-%20Hacken.pdf"
     }
   ],
   "project": "PumaPay",

@@ -11,6 +11,14 @@ First ever comprehensive crypto payment solution for businesses
 
 
 
+#### [РumaPay Smart Contracts Audit by Hacken](https://github.com/pumapayio/pumapay-token/blob/master/audits/PullPayment%20Smart%20Contract%20-%20Hacken.pdf)
+
+September, 2018<br>
+Audited by: Hacken<br>
+[Repo](https://github.com/pumapayio/pumapay-token)<br>
+      
+
+
 #### [РumaPay Smart Contracts Security Analysis](https://blog.smartdec.net/pumapay-smart-contracts-security-analysis-fe851f293e3b)
 
 October, 2019<br>
