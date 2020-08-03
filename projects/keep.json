@@ -1,0 +1,19 @@
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/keep-network/tbtc"
+        }
+      ],
+      "title": "Thesis - tBTC and Keep Audit",
+      "date": "02/20",
+      "auditor": "ConsenSys Diligence",
+      "url": "https://diligence.consensys.net/audits/2020/02/thesis-tbtc-and-keep/",
+      "effort": "12 person-weeks."
+    }
+  ],
+  "project": "Keep tBTC",
+  "project_url": "https://tbtc.network/",
+  "description": "tBTC is a trustlessly Bitcoin-backed ERC-20 token."
+}

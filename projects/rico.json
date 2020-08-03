@@ -1,0 +1,20 @@
+{
+  "audits": [
+    {
+      "repos": [
+        {
+          "url": "https://github.com/lukso-network/rICO-smart-contracts/tree/audit"
+        }
+      ],
+      "title": "Lukso rICO",
+      "date": "04/20",
+      "auditor": "ConsenSys Diligence",
+      "url": "https://diligence.consensys.net/audits/2020/04/rico/",
+      "effort": "2 person-weeks."
+    }
+  ],
+  "project": "Lukso rICO",
+  "project_url": "https://rico.lukso.network/",
+  "description": "Lukso Reversible Initial Coin Offering",
+  "security_contact": "hello@lukso.network"
+}

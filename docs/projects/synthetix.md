@@ -19,6 +19,14 @@ Audited by: Sigma Prime<br>
       
 
 
+#### [Havven nUSD Audit](https://github.com/sigp/public-audits/blob/master/havven-2018-06-06/havven-review.pdf)
+
+June, 2018<br>
+Audited by: Sigma Prime<br>
+
+      
+
+
 #### [Havven nUSD Economics Audits](https://blog.synthetix.io/havven-validated-by-cryptecon-analysis/)
 
 June, 2018<br>
@@ -28,14 +36,6 @@ Audited by: Cryptecon<br>
 
 
 #### [Havven Issuance Controller Audit](https://github.com/sigp/public-audits/blob/master/havven-2018-06-18/review.pdf)
-
-June, 2018<br>
-Audited by: Sigma Prime<br>
-
-      
-
-
-#### [Havven nUSD Audit](https://github.com/sigp/public-audits/blob/master/havven-2018-06-06/havven-review.pdf)
 
 June, 2018<br>
 Audited by: Sigma Prime<br>
