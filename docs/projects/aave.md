@@ -26,6 +26,14 @@ Audited by: OpenZeppelin<br>
 [Repo](https://github.com/aave/aave-protocol)<br>
       
 
+
+#### [Aave CPM Price Provider Audit](https://diligence.consensys.net/audits/2020/05/aave-cpm-price-provider/)
+
+May, 2020<br>
+Audited by: ConsenSys Diligence<br>
+
+      
+
   
 
 ## Bounty

@@ -22,6 +22,13 @@
       "auditor": "Trail of Bits",
       "url": "https://github.com/trailofbits/publications/blob/master/reviews/aaveprotocol.pdf",
       "effort": "4 person-weeks."
+    },
+    {
+      "repos": [],
+      "title": "Aave CPM Price Provider Audit",
+      "date": "05/20",
+      "auditor": "ConsenSys Diligence",
+      "url": "https://diligence.consensys.net/audits/2020/05/aave-cpm-price-provider/"
     }
   ],
   "project": "Aave",
