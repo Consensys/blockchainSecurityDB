@@ -124,4 +124,4 @@ Max payout: $5,000
 
 ## Additional Info
 
-Security Contact: security@synthetix.io
+Security Contact: security@snxdao.io
