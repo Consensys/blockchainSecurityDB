@@ -5,6 +5,18 @@
   "security_contact": "security@metamask.io",
   "audits": [
     {
+      "title": "Audit-Report MetaMask key-tree Interface",
+      "date": "02/23",
+      "auditor": "Cure53",
+      "url": "https://metamask.io/files/key-tree-audit-report.pdf",
+      "effort": "2 auditors",
+      "repos": [
+        {
+          "url": "https://github.com/MetaMask/key-tree"
+        }
+      ]
+    },
+    {
       "title": "MetaMask Plugin System + LavaMoat Audit ",
       "date": "03/20",
       "auditor": "Least Authority TFA GmbH",
