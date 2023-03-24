@@ -2,7 +2,7 @@
   "project": "MetaMask",
   "project_url": "https://metamask.io",
   "description": "A crypto wallet & gateway to blockchain apps",
-  "security_contact": "security@metamask.io",
+  "security_contact": "security [at] metamask [dot] io",
   "audits": [
     {
       "title": "Audit-Report MetaMask key-tree Interface",
